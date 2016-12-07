@@ -1,16 +1,21 @@
 import xml.etree.ElementTree as ET
 from itertools import zip_longest
-from nltk.stem.wordnet import WordNetLemmatizer
-from nltk.probability import FreqDist
+#from nltk.stem.wordnet import WordNetLemmatizer
+#from nltk.probability import FreqDist
 import os
+import math
 import numpy as np
 from scipy import spatial
-from sklearn.metrics import jaccard_similarity_score
+from xml.dom import minidom
+#from sklearn.metrics import jaccard_similarity_score
 from constants import EVENT_ROLES, EVENT_TYPES_TO_SUBTYPES, DOCUMENT_TYPES
 
 PATH_TO_DATA = os.path.join(os.getcwd(), "../resources/ace2005/ace2005/data/English_adj")
 PATH_TO_RESULT = os.path.join(os.getcwd(), "data")
-WNL = WordNetLemmatizer()
+TRAIN_FILE = os.path.join(os.getcwd(), "../resources/genre_split/train.xml")
+TEST_FILE = os.path.join(os.getcwd(), "../resources/genre_split/test.xml")
+THRESHOLD = 0.9
+#WNL = WordNetLemmatizer()
 BATCH_SIZE = 6
 OUTPUT = "breakdown.txt"
 
@@ -181,8 +186,8 @@ def get_source(filename):
 
 	return root.attrib["SOURCE"]
 
-def get_all_sources():
-	
+def _get_all_sources():
+	docs = []
 	for dirpath, dirnames, filenames in os.walk(PATH_TO_DATA):
 		for basename in filenames:
 			if basename.endswith(".apf.xml"):
@@ -195,57 +200,94 @@ def get_all_sources():
 		if s in sources:
 			sources[s] += 1
 		else:
-			sources[s] = 0
+			sources[s] = 1
 
-	for source, count in sources.items():
-		print(source + ", " + str(count))
+	return sources
 
-def generate_feature_file():
-	docs = {}
-	for t in DOCUMENT_TYPES:
-		docs[t] = []
+def get_source_type_counts():
+	sources = _get_all_sources()
 
-	for dirpath, dirnames, filenames in os.walk(PATH_TO_DATA):
-		for basename in filenames:
-			if basename.endswith(".apf.xml"):
-				f = os.path.join(dirpath, basename)
-				s = get_source(f)
-				
-				#print(basename)
-				# this is the type of files we want to analyze
-				docs[s].append(os.path.join(dirpath, basename))
+	total = 0
+	for s, count in sources.items():
+		print(str(s) + ": " + str(count))
+		total += count
+	print("Total: " + str(total))
 
+def get_event_type_counts():
 	event_map = {}
 	for event_type in EVENT_TYPES_TO_SUBTYPES:
 		event_map[event_type] = 0
 
-	for t, doclist in docs.items():
-		for d in doclist:
-			filename, ext = os.path.splitext(os.path.basename(d))
+	docs = []
+	for dirpath, dirnames, filenames in os.walk(PATH_TO_DATA):
+		for basename in filenames:
+			if basename.endswith(".apf.xml"):
+				# this is the type of files we want to analyze
+				docs.append(os.path.join(dirpath, basename))
 
-			result_path = os.path.join(PATH_TO_RESULT, t, filename + ".xml")
-
-			info_list = get_all_info(d)
-			for i in info_list:
-				info = analyze_event(i)
-				e_type = info['type'].lower()
-				event_map[e_type] += 1
+	for d in docs:
+		info_list = get_all_info(d)
+		for i in info_list:
+			info = analyze_event(i)
+			e_type = info['type'].lower()
+			event_map[e_type] += 1
 		
-
+	total = 0
 	for e_type, count in event_map.items():
 		print(str(e_type) + ": " + str(count))
+		total += count
+	print("Total: " + str(total))
 
+def generate_split():
+	thresholds = _get_all_sources()
 
+	train = open(TRAIN_FILE, 'w')
+	test = open(TEST_FILE, 'w')
 
+	# Filter sources dict to find threshold
+	for s, count in thresholds.items():
+		thresholds[s] = math.ceil(THRESHOLD*count)
 
+	docs = []
+	for dirpath, dirnames, filenames in os.walk(PATH_TO_DATA):
+		for basename in filenames:
+			if basename.endswith(".apf.xml"):
+				# this is the type of files we want to analyze
+				docs.append(os.path.join(dirpath, basename))
 
-			#root = ET.Element('root')
-			#for info in info_list:
-			#	root.append(info)
+	current_counts = {}
+	for s in thresholds:
+		current_counts[s] = 0
 
-			#ET.ElementTree(root).write(result_path)
+	train_root = ET.Element('root')
+	test_root = ET.Element('root')
+	train_count = 0
+	test_count = 0
+	for d in docs:
+		s = get_source(d)
+		all_events = get_all_info(d)
+
+		if current_counts[s] < thresholds[s]:
+			for i in all_events:
+				train_root.append(i)
+			train_count += len(all_events)
+		else:
+			for i in all_events:
+				test_root.append(i)
+			test_count += len(all_events)
+
+		current_counts[s] += 1
+		
+	train.write(minidom.parseString(ET.tostring(train_root, 'utf-8')).toprettyxml())
+	test.write(minidom.parseString(ET.tostring(test_root, 'utf-8')).toprettyxml())
+
+	print("Train set: " + str(train_count))
+	print("Test set: " + str(test_count))
+
+	train.close()
+	test.close()
 
 
 
 if __name__ == '__main__':
-	generate_feature_file()
+	get_event_type_counts()
