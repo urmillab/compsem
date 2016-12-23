@@ -213,13 +213,13 @@ def get_source_type_counts():
 		total += count
 	print("Total: " + str(total))
 
-def get_event_type_counts():
+def get_event_type_counts(path, print_results=False):
 	event_map = {}
 	for event_type in EVENT_TYPES_TO_SUBTYPES:
 		event_map[event_type] = 0
 
 	docs = []
-	for dirpath, dirnames, filenames in os.walk(PATH_TO_DATA):
+	for dirpath, dirnames, filenames in os.walk(path):
 		for basename in filenames:
 			if basename.endswith(".apf.xml"):
 				# this is the type of files we want to analyze
@@ -231,12 +231,15 @@ def get_event_type_counts():
 			info = analyze_event(i)
 			e_type = info['type'].lower()
 			event_map[e_type] += 1
-		
-	total = 0
-	for e_type, count in event_map.items():
-		print(str(e_type) + ": " + str(count))
-		total += count
-	print("Total: " + str(total))
+	
+	if print_results:	
+		total = 0
+		for e_type, count in event_map.items():
+			print(str(e_type) + ": " + str(count))
+			total += count
+		print("Total: " + str(total))
+
+	return event_map
 
 def generate_split():
 	thresholds = _get_all_sources()
