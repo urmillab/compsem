@@ -160,6 +160,11 @@ def _get_anchor_type_pairs(path):
 
 	return pairs_list
 
+def _init_type_result_map():
+	event_map = {}
+	for event_type in EVENT_TYPES_TO_SUBTYPES:
+		event_map[event_type] = [0, 0]
+	return event_map
 
 def verb_lookup_and_frequency_baseline(print_intermediate=False):
 	anchor_dict = _build_anchor_dict(analyze_event.TRAIN_FILE, print_intermediate)
@@ -172,6 +177,7 @@ def verb_lookup_and_frequency_baseline(print_intermediate=False):
 	num_lookup_matches_correct = 0
 
 	# Predict based on anchor, follow up with most frequent type
+	event_type_results = _init_type_result_map()
 	for anchor, true_type in pairs_list:
 		looked_up = False
 		predicted_type = max_event
@@ -188,13 +194,28 @@ def verb_lookup_and_frequency_baseline(print_intermediate=False):
 			correct += 1
 			if looked_up:
 				num_lookup_matches_correct += 1
+			event_type_results[true_type][0] += 1
+
 		else:
 			incorrect += 1
+			event_type_results[true_type][1] += 1
+
 	total = correct + incorrect
 
 	print("----------LOOKUP + MOST FREQ EVENT TYPE RESULTS----------")
 	print("Correct: " + str(correct) + "/" + str(total) + " = " + str(correct/total))
 	print("Incorrect: " + str(incorrect) + "/" + str(total) + " = " + str(incorrect/total))
+
+	for event_type, result in event_type_results.items():
+		subcorrect = result[0]
+		subincorrect = result[1]
+		subtotal = subcorrect + subincorrect
+
+		print("Event type: " + event_type)
+		print("Correct: " + str(subcorrect) + "/" + str(subtotal) + " = " + str(subcorrect/subtotal))
+		print("Incorrect: " + str(subincorrect) + "/" + str(subtotal) + " = " + str(subincorrect/subtotal))
+
+
 	print("Num lookups: " + str(num_lookup_matches) + ", Num correct lookups: " + str(num_lookup_matches_correct))
 
 def main():
