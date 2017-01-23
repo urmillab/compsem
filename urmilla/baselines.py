@@ -5,8 +5,11 @@ import xml.etree.ElementTree as ET
 
 from constants import EVENT_TYPES_TO_SUBTYPES
 from nltk.stem.wordnet import WordNetLemmatizer
+from gensim.models import Word2Vec
+from nltk.corpus import brown
 
 WNL = WordNetLemmatizer()
+CORPUS = brown.sents()
 
 def _init_type_count_map():
 	event_map = {}
@@ -145,7 +148,6 @@ def _build_anchor_dict(path, print_intermediate):
 		for anchor, event_map in anchor_dict.items():
 			print(anchor + ": " + str(event_map.keys()))
 
-
 	return anchor_dict
 
 def _get_anchor_type_pairs(path):
@@ -168,7 +170,7 @@ def _init_type_result_map():
 
 def verb_lookup_and_frequency_baseline(print_intermediate=False):
 	anchor_dict = _build_anchor_dict(analyze_event.TRAIN_FILE, print_intermediate)
-	max_event = _get_most_freq_type(False)
+	max_event = _get_most_freq_type(print_intermediate)
 	pairs_list= _get_anchor_type_pairs(analyze_event.TEST_FILE)
 
 	correct = 0
@@ -218,10 +220,63 @@ def verb_lookup_and_frequency_baseline(print_intermediate=False):
 
 	print("Num lookups: " + str(num_lookup_matches) + ", Num correct lookups: " + str(num_lookup_matches_correct))
 
+def word2vec_baseline(print_intermediate=False):
+	# Train word2vec model on chosen corpus
+	word2vec_model = Word2Vec(CORPUS)
+
+	# Create lookup table from anchor -> event type for training data
+	anchor_dict = _build_anchor_dict(analyze_event.TRAIN_FILE, print_intermediate)
+
+	# For each anchor in test data, determine which anchor in training most similar to using model
+	pairs_list= _get_anchor_type_pairs(analyze_event.TEST_FILE)
+
+	correct = 0
+	incorrect = 0
+	multiword = 0
+	for anchor, true_type in pairs_list:
+		if len(anchor.split()) > 1:
+			multiword += 1
+
+		# Find most related train word determined by model
+		max_similar_word = None
+		max_similar_score = 0.0
+		for train_word, events in anchor_dict.items():
+			try: 
+				score = word2vec_model.similarity(anchor, train_word)
+			except KeyError:
+				continue
+
+			if score > max_similar_score:
+				max_similar_word = train_word
+				max_similar_score = score
+
+		# Treat any anchor not found in model as incorrect
+		if max_similar_word == None:
+			incorrect += 1
+			continue
+
+		# Assign type of most related word to this test anchor
+		event_map = anchor_dict[max_similar_word]
+		predicted_type = max(event_map, key=lambda i: event_map[i])
+
+		if true_type == predicted_type:
+			correct += 1
+		else:
+			incorrect += 1
+
+	total = correct + incorrect
+
+	print("----------WORD2VEC SIMILARITY RESULTS----------")
+	print("Correct: " + str(correct) + "/" + str(total) + " = " + str(correct/total))
+	print("Incorrect: " + str(incorrect) + "/" + str(total) + " = " + str(incorrect/total))
+	print("Multiword anchor: " + str(multiword) + "/" + str(total) + " = " + str(multiword/total))
+
+	
 def main():
-	most_frequent_type_baseline(print_intermediate=False)
-	most_frequent_subtype_baseline(print_intermediate=False)
-	verb_lookup_and_frequency_baseline(print_intermediate=False)
+	#most_frequent_type_baseline(print_intermediate=False)
+	#most_frequent_subtype_baseline(print_intermediate=False)
+	#verb_lookup_and_frequency_baseline(print_intermediate=False)
+	word2vec_baseline(print_intermediate=False)
 
 if __name__ == "__main__":
 	main()
