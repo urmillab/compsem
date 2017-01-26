@@ -8,8 +8,10 @@ from nltk.stem.wordnet import WordNetLemmatizer
 from gensim.models import Word2Vec
 from nltk.corpus import brown
 
+
 WNL = WordNetLemmatizer()
-CORPUS = brown.sents()
+BROWN_CORPUS = brown.sents()
+PATH_TO_GOOGLE_NEWS_CORPUS = '../resources/GoogleNews-vectors-negative300.bin'
 
 def _init_type_count_map():
 	event_map = {}
@@ -220,9 +222,16 @@ def verb_lookup_and_frequency_baseline(print_intermediate=False):
 
 	print("Num lookups: " + str(num_lookup_matches) + ", Num correct lookups: " + str(num_lookup_matches_correct))
 
-def word2vec_baseline(print_intermediate=False):
+def word2vec_baseline(print_intermediate=False, corpus='Brown'):
 	# Train word2vec model on chosen corpus
-	word2vec_model = Word2Vec(CORPUS)
+	word2vec_model = None
+	if corpus == 'Brown':
+		word2vec_model = Word2Vec(BROWN_CORPUS)
+	elif corpus == 'Google':
+		word2vec_model = Word2Vec.load_word2vec_format(PATH_TO_GOOGLE_NEWS_CORPUS, binary=True)
+	else:
+		print("ERROR: Undefined corpus")
+		return
 
 	# Create lookup table from anchor -> event type for training data
 	anchor_dict = _build_anchor_dict(analyze_event.TRAIN_FILE, print_intermediate)
@@ -276,7 +285,7 @@ def main():
 	#most_frequent_type_baseline(print_intermediate=False)
 	#most_frequent_subtype_baseline(print_intermediate=False)
 	#verb_lookup_and_frequency_baseline(print_intermediate=False)
-	word2vec_baseline(print_intermediate=False)
+	word2vec_baseline(print_intermediate=False, corpus='Google')
 
 if __name__ == "__main__":
 	main()
