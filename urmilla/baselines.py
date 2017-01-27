@@ -82,6 +82,7 @@ def most_frequent_type_baseline(print_intermediate=False):
 	print("----------MOST FREQ EVENT TYPE RESULTS----------")
 	print("Correct: " + str(correct) + "/" + str(total) + " = " + str(correct/total))
 	print("Incorrect: " + str(incorrect) + "/" + str(total) + " = " + str(incorrect/total))
+	print("Most frequent type: " + max_event)
 
 def _get_most_freq_subtype(print_intermediate):
 	train_counts = _get_subtype_counts(analyze_event.TRAIN_FILE, print_results=print_intermediate)
@@ -90,7 +91,6 @@ def _get_most_freq_subtype(print_intermediate):
 	if print_intermediate:
 		for e,c in train_counts.items():
 			print(e + ": " + str(c))
-		print("Most frequent subtype: " + max_event)
 
 	return max_event
 
@@ -110,6 +110,7 @@ def most_frequent_subtype_baseline(print_intermediate=False):
 	print("----------MOST FREQ EVENT SUBTYPE RESULTS----------")
 	print("Correct: " + str(correct) + "/" + str(total) + " = " + str(correct/total))
 	print("Incorrect: " + str(incorrect) + "/" + str(total) + " = " + str(incorrect/total))
+	print("Most frequent subtype: " + max_event)
 
 def _lemmatize(anchor):
 	# Get lemmatized form of anchor if it exists, else keep original anchor
@@ -282,10 +283,10 @@ def word2vec_baseline(print_intermediate=False, corpus='Brown'):
 
 	
 def main():
-	#most_frequent_type_baseline(print_intermediate=False)
-	#most_frequent_subtype_baseline(print_intermediate=False)
-	#verb_lookup_and_frequency_baseline(print_intermediate=False)
-	word2vec_baseline(print_intermediate=False, corpus='Google')
+	most_frequent_type_baseline(print_intermediate=False)
+	most_frequent_subtype_baseline(print_intermediate=False)
+	verb_lookup_and_frequency_baseline(print_intermediate=False)
+	word2vec_baseline(print_intermediate=False, corpus='Brown')
 
 if __name__ == "__main__":
 	main()

@@ -14,7 +14,7 @@ PATH_TO_DATA = os.path.join(os.getcwd(), "../resources/ace2005/ace2005/data/Engl
 PATH_TO_RESULT = os.path.join(os.getcwd(), "data")
 TRAIN_FILE = os.path.join(os.getcwd(), "../resources/genre_split/train.xml")
 TEST_FILE = os.path.join(os.getcwd(), "../resources/genre_split/test.xml")
-THRESHOLD = 0.9
+THRESHOLD = 0.663
 #WNL = WordNetLemmatizer()
 BATCH_SIZE = 6
 OUTPUT = "breakdown.txt"
@@ -284,8 +284,9 @@ def generate_split():
 	train.write(minidom.parseString(ET.tostring(train_root, 'utf-8')).toprettyxml())
 	test.write(minidom.parseString(ET.tostring(test_root, 'utf-8')).toprettyxml())
 
-	print("Train set: " + str(train_count))
-	print("Test set: " + str(test_count))
+	total = train_count + test_count
+	print("Train set: " + str(train_count) + ' ,' + str(train_count/total))
+	print("Test set: " + str(test_count) + ' ,' + str(test_count/total))
 
 	train.close()
 	test.close()
@@ -293,4 +294,4 @@ def generate_split():
 
 
 if __name__ == '__main__':
-	get_event_type_counts()
+	generate_split()
