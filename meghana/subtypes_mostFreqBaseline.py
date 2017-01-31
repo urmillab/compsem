@@ -64,6 +64,7 @@ def get_event_subtype_counts(PATH_TO_DATA):
 	
 	#analyze all docs 
 	for document in docs:
+		print(document)
 		#get all event annotations from document 
 		event_anno_list = get_all_info(document)
 		for event in event_anno_list: 
