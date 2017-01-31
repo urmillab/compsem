@@ -2,8 +2,9 @@ import xml.etree.ElementTree as ET
 from itertools import zip_longest
 #from nltk.stem.wordnet import WordNetLemmatizer
 #from nltk.probability import FreqDist
-import os
 import math
+import operator
+import os
 import numpy as np
 from scipy import spatial
 from xml.dom import minidom
@@ -11,7 +12,6 @@ from xml.dom import minidom
 from constants import EVENT_ROLES, EVENT_TYPES_TO_SUBTYPES, DOCUMENT_TYPES
 
 PATH_TO_DATA = os.path.join(os.getcwd(), "../resources/ace2005/ace2005/data/English_adj")
-PATH_TO_RESULT = os.path.join(os.getcwd(), "data")
 TRAIN_FILE = os.path.join(os.getcwd(), "../resources/genre_split/train.xml")
 TEST_FILE = os.path.join(os.getcwd(), "../resources/genre_split/test.xml")
 THRESHOLD = 0.663
@@ -31,6 +31,7 @@ def analyze_event(event_el):
 	retv["type"] = event_el.attrib.get("TYPE")
 	retv["subtype"] = event_el.attrib.get("SUBTYPE")
 
+
 	# event element has child event_mention
 	emention_el = event_el.find("event_mention")
 
@@ -40,7 +41,7 @@ def analyze_event(event_el):
 	retv["anchor"] = charseq_el.text
 
 	# event_mention has children event_mention_argument
-	retv["arguments"] = [ ]
+	retv["arguments"] = []
 	for arg in emention_el.findall("event_mention_argument"):
 		retv["arguments"].append(arg.attrib.get("ROLE"))
 
@@ -241,6 +242,30 @@ def get_event_type_counts(path, print_results=False):
 
 	return event_map
 
+def get_events_per_document_average():
+	docs = []
+	for dirpath, dirnames, filenames in os.walk(PATH_TO_DATA):
+		for basename in filenames:
+			if basename.endswith(".apf.xml"):
+				# this is the type of files we want to analyze
+				docs.append(os.path.join(dirpath, basename))
+
+	total_events = 0
+	max_num_events = (0, None)
+	min_num_events = (float("inf"), None)
+	for d in docs:
+		num_events = len(get_all_info(d))
+		total_events += num_events
+		if num_events > max_num_events[0]:
+			max_num_events = (num_events, d)
+		if num_events < min_num_events[0]:
+			min_num_events = (num_events, d)
+	
+
+	print("Average # events per document: " + str(float(total_events)/len(docs)))
+	print("Max # events: " + str(max_num_events[0]) + ", " + max_num_events[1])
+	print("Min # events: " + str(min_num_events[0]) + ", " + min_num_events[1])
+
 def generate_split():
 	thresholds = _get_all_sources()
 
@@ -292,6 +317,50 @@ def generate_split():
 	test.close()
 
 
+def count_event_sequences(length, top_n):
+	docs = []
+	for dirpath, dirnames, filenames in os.walk(PATH_TO_DATA):
+		for basename in filenames:
+			if basename.endswith(".apf.xml"):
+				# this is the type of files we want to analyze
+				docs.append(os.path.join(dirpath, basename))
+
+	events = []
+	for d in docs:
+		info_list = get_all_info(d)
+		for i in info_list:
+			info = analyze_event(i)
+			events.append(info["type"])
+
+	total_sequences = 0
+	event_map = {}
+	for i in range(len(events)):
+		event_seq = []
+
+		# Break when the seq length greater than remaining events
+		if i + length > len(events):
+			break
+
+		# Get the sequence
+		for j in range(i, i + length):
+			event_seq.append(events[j])
+
+		# Add to map
+		event_seq = tuple(event_seq)
+		if event_seq in event_map:
+			event_map[event_seq] += 1
+		else:
+			event_map[event_seq] = 1
+
+		total_sequences += 1
+
+	# Print top n event sequences
+	sorted_seqs = sorted(event_map.items(), key=operator.itemgetter(1))
+	sorted_seqs.reverse()
+
+	for seq, count in sorted_seqs[:top_n]:
+		print(str(seq) + ": " + str(count) + ", " + str(float(count)/total_sequences))
+
 
 if __name__ == '__main__':
-	generate_split()
+	count_event_sequences(4, 10)
