@@ -10,7 +10,7 @@ from constants import EVENT_ROLES, EVENT_TYPES_TO_SUBTYPES, DOCUMENT_TYPES
 
 PATH_TO_TRAIN_DATA = os.path.join(os.getcwd(), "../resources/test_train_data_by_genre/train")
 PATH_TO_TEST_DATA = os.path.join(os.getcwd(), "../resources/test_train_data_by_genre/test")
-PATH_TO_ALL_DATA = os.path.join(os.getcwd(), "../resources/ace2005/ace2005/data/English_adj")
+PATH_TO_ALL_DATA = os.path.join(os.getcwd(), "../resources/manualanno")
 
 #returns dictionary of information about the event 
 def analyze_event(event_el):
@@ -80,15 +80,16 @@ def annotate_text(PATH_TO_DATA):
 		for basename in filenames:
 			if basename.endswith(".apf.xml"): # this is the type of files we want to analyze
 				xml_docs.append(os.path.join(dirpath, basename))
-
+	counter = 1 
 	text_file = open("body_text_output.txt", "w")
 	for xml, sgm in itertools.izip_longest(xml_docs, sgm_docs):
-		print("-------------------------------DOC BREAK --------------------------------")
+		print("-------------------------------DOC (" + str(counter) + ")  BREAK --------------------------------")
 		print(xml)
 		print
-		text_file.write("-------------------------------DOC BREAK --------------------------------" +"\n")
+		text_file.write("-------------------------------DOC (" + str(counter) + ")  BREAK --------------------------------" +"\n")
 		text_file.write(xml+"\n")
 		text_file.write("\n")
+		counter += 1
 		#xml info extraction
 		event_anno_list = get_all_info(xml)
 		for event in event_anno_list:
@@ -122,8 +123,9 @@ def annotate_text(PATH_TO_DATA):
 			doc_text_string = doc_text_string.replace(e_phrase, annotated_phrase)
 
 		print(doc_text_string)
-		#text_file.write(doc_text_string+"\n")
+		text_file.write(doc_text_string+"\n")
 	
+	text_file.close()
 if __name__ == '__main__':
 	annotate_text(PATH_TO_ALL_DATA)
 	

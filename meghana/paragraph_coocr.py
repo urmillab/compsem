@@ -4,9 +4,10 @@ import xml.etree.ElementTree as ET
 import os
 import math
 import numpy as np
-# from scipy import spatial
+from scipy import spatial
 from xml.dom import minidom
 from constants import EVENT_ROLES, EVENT_TYPES_TO_SUBTYPES, DOCUMENT_TYPES
+from nltk import tokenize 
 
 PATH_TO_TRAIN_DATA = os.path.join(os.getcwd(), "../resources/test_train_data_by_genre/train")
 PATH_TO_TEST_DATA = os.path.join(os.getcwd(), "../resources/test_train_data_by_genre/test")
@@ -86,10 +87,12 @@ def annotate_text(PATH_TO_DATA):
 		print("-------------------------------DOC BREAK --------------------------------")
 		print(xml)
 		print
-		text_file.write("-------------------------------DOC BREAK --------------------------------" +"\n")
-		text_file.write(xml+"\n")
-		text_file.write("\n")
+		# text_file.write("-------------------------------DOC BREAK --------------------------------" +"\n")
+		# text_file.write(xml+"\n")
+		# text_file.write("\n")
+		
 		#xml info extraction
+		print("** Event Annotations **")
 		event_anno_list = get_all_info(xml)
 		for event in event_anno_list:
 			e_info = analyze_event(event)
@@ -100,16 +103,16 @@ def annotate_text(PATH_TO_DATA):
 			text_file.write(e_type + " - " + e_anchor + " - " +  e_phrase+"\n") 
 		
 		#sgm info extraction
-		# print(sgm)
 		sgm_file = open(sgm, 'r')
 		soup = BeautifulSoup(sgm_file, "html.parser")
 		doc_text_string = soup.get_text()
-		# print (doc_text_string)
 
-		# para_list = doc_text_string.split("\n\n")
-		# for para in para_list: 
-		# 	# print("PARA") 
-		# 	print(para) 
+		#splitting on paragraphs 
+		para_list = doc_text_string.split("\n\n")
+		for para in para_list: 
+			sentence_list = tokenize.sent_tokenize(para)
+			print("PARA") 
+			print(para) 
 		#annotating for for event mentions within document text 
 		for event in event_anno_list: 
 			e_info = analyze_event(event)
@@ -127,3 +130,4 @@ def annotate_text(PATH_TO_DATA):
 if __name__ == '__main__':
 	annotate_text(PATH_TO_ALL_DATA)
 	
+  
