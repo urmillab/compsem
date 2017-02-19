@@ -37,12 +37,24 @@ EVENT_ROLES = {
 	"time-within" : 34,
 }
 
+EVENT_TYPES = {
+	"life" : 0,
+	"movement" : 1,
+	"transaction" : 2,
+	"business" : 3,
+	"conflict": 4,
+	"contact" : 5,
+	"personnel" : 6,
+	"justice" : 7
+	
+}
+
 EVENT_TYPES_TO_SUBTYPES = {
-	"life": ["be-born", "marry", "divorce", "injure", "die"],
+	"life" : ["be-born", "marry", "divorce", "injure", "die"],
 	"movement" : ["transport"],
 	"transaction" : ["transfer-ownership", "transfer-money"],
 	"business" : ["start-org", "merge-org", "declare-bankruptcy", "end-org"],
-	"conflict":  ["attack", "demonstrate"],
+	"conflict": ["attack", "demonstrate"],
 	"contact" : ["meet", "phone-write"],
 	"personnel" : ["start-position", "end-position", "nominate", "elect"],
 	"justice" : ["arrest-jail", "release-parole", "trial-hearing", "charge-indict", \

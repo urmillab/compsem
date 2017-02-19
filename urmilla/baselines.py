@@ -128,12 +128,18 @@ def _build_anchor_dict(path, print_intermediate):
 	tree = ET.parse(path) 
 	root = tree.getroot()
 
+	if print_intermediate:
+		print(path)
+
 	anchor_dict = {}
 	for event_el in root: 
 		event_type = event_el.attrib.get("TYPE").lower()
-		anchor = event_el.find("event_mention").find("anchor").find("charseq").text.lower()
+		anchor = event_el.find("event_mention").find("anchor").find("charseq").text.lower()		
 
 		lemmatized = _lemmatize(anchor)
+
+		if print_intermediate:
+			print(event_type + ",  " + lemmatized)
 
 		# Count the type classification for each anchor type
 		if lemmatized in anchor_dict:
@@ -147,9 +153,6 @@ def _build_anchor_dict(path, print_intermediate):
 			anchor_dict[lemmatized] = {}
 			anchor_dict[lemmatized][event_type] = 1
 
-	if print_intermediate:
-		for anchor, event_map in anchor_dict.items():
-			print(anchor + ": " + str(event_map.keys()))
 
 	return anchor_dict
 
@@ -223,22 +226,26 @@ def verb_lookup_and_frequency_baseline(print_intermediate=False):
 
 	print("Num lookups: " + str(num_lookup_matches) + ", Num correct lookups: " + str(num_lookup_matches_correct))
 
-def word2vec_baseline(print_intermediate=False, corpus='Brown'):
+def word2vec_baseline(word2vec_model, train_file_path, test_file_path, print_intermediate=False):
 	# Train word2vec model on chosen corpus
-	word2vec_model = None
-	if corpus == 'Brown':
-		word2vec_model = Word2Vec(BROWN_CORPUS)
-	elif corpus == 'Google':
-		word2vec_model = Word2Vec.load_word2vec_format(PATH_TO_GOOGLE_NEWS_CORPUS, binary=True)
-	else:
-		print("ERROR: Undefined corpus")
-		return
+	# word2vec_model = None
+	# if corpus == 'Brown':
+	# 	if print_intermediate:
+	# 		print("Loading Brown corpus")
+	# 	word2vec_model = Word2Vec(BROWN_CORPUS)
+	# elif corpus == 'Google':
+	# 	if print_intermediate:
+	# 		print("Loading Google News corpus")
+	# 	word2vec_model = Word2Vec.load_word2vec_format(PATH_TO_GOOGLE_NEWS_CORPUS, binary=True)
+	# else:
+	# 	print("ERROR: Undefined corpus")
+	# 	return
 
 	# Create lookup table from anchor -> event type for training data
-	anchor_dict = _build_anchor_dict(analyze_event.TRAIN_FILE, print_intermediate)
+	anchor_dict = _build_anchor_dict(train_file_path, print_intermediate)
 
 	# For each anchor in test data, determine which anchor in training most similar to using model
-	pairs_list= _get_anchor_type_pairs(analyze_event.TEST_FILE)
+	pairs_list= _get_anchor_type_pairs(test_file_path)
 
 	correct = 0
 	incorrect = 0
@@ -283,10 +290,16 @@ def word2vec_baseline(print_intermediate=False, corpus='Brown'):
 
 	
 def main():
-	most_frequent_type_baseline(print_intermediate=False)
-	most_frequent_subtype_baseline(print_intermediate=False)
-	verb_lookup_and_frequency_baseline(print_intermediate=False)
-	word2vec_baseline(print_intermediate=False, corpus='Brown')
+	#most_frequent_type_baseline(print_intermediate=False)
+	#most_frequent_subtype_baseline(print_intermediate=False)
+	#verb_lookup_and_frequency_baseline(print_intermediate=False)
+
+	word2vec_model = Word2Vec.load_word2vec_format(PATH_TO_GOOGLE_NEWS_CORPUS, binary=True)
+	for d in os.listdir(analyze_event.PATH_TO_TYPE_SPLIT_DATA):
+		print(d)
+		train = os.path.join(analyze_event.PATH_TO_TYPE_SPLIT_DATA, d, 'train.xml')
+		test = os.path.join(analyze_event.PATH_TO_TYPE_SPLIT_DATA, d, 'test.xml')
+		word2vec_baseline(word2vec_model, train, test, print_intermediate=False)
 
 if __name__ == "__main__":
 	main()

@@ -6,6 +6,7 @@ import math
 import operator
 import os
 import numpy as np
+from random import shuffle
 from scipy import spatial
 from xml.dom import minidom
 #from sklearn.metrics import jaccard_similarity_score
@@ -14,7 +15,9 @@ from constants import EVENT_ROLES, EVENT_TYPES_TO_SUBTYPES, DOCUMENT_TYPES
 PATH_TO_DATA = os.path.join(os.getcwd(), "../resources/ace2005/ace2005/data/English_adj")
 TRAIN_FILE = os.path.join(os.getcwd(), "../resources/genre_split/train.xml")
 TEST_FILE = os.path.join(os.getcwd(), "../resources/genre_split/test.xml")
+PATH_TO_TYPE_SPLIT_DATA = os.path.join(os.getcwd(), "type split data")
 THRESHOLD = 0.663
+PER_TYPE_THRESHOLD = 0.01
 #WNL = WordNetLemmatizer()
 BATCH_SIZE = 6
 OUTPUT = "breakdown.txt"
@@ -28,6 +31,7 @@ def _grouper(n, iterable, fillvalue=None):
 
 def analyze_event(event_el):
 	retv = { }
+	retv["anno"] = event_el
 	retv["type"] = event_el.attrib.get("TYPE")
 	retv["subtype"] = event_el.attrib.get("SUBTYPE")
 
@@ -317,7 +321,7 @@ def generate_split():
 	test.close()
 
 
-def count_event_sequences(length, top_n):
+def count_event_sequences(length, top_n, fine_grain=False):
 	docs = []
 	for dirpath, dirnames, filenames in os.walk(PATH_TO_DATA):
 		for basename in filenames:
@@ -325,42 +329,132 @@ def count_event_sequences(length, top_n):
 				# this is the type of files we want to analyze
 				docs.append(os.path.join(dirpath, basename))
 
-	events = []
+	total_sequences = 0
+	event_seq_count = {}
+	event_seq_instances = {}
+	for d in docs:
+		events = []
+		info_list = get_all_info(d)
+		for i in info_list:
+			info = analyze_event(i)
+			if fine_grain:
+				events.append((info["subtype"], info["anchor"]))
+			else:
+				events.append((info["type"], info["anchor"]))
+
+		
+		for i in range(len(events)):
+			event_seq = []
+			anchor_seq = []
+
+			# Break when the seq length greater than remaining events
+			if i + length > len(events):
+				break
+
+			# Get the sequence
+			for j in range(i, i + length):
+				event_seq.append(events[j][0])
+				anchor_seq.append(events[j][1])
+
+			# Add to map
+			event_seq = tuple(event_seq)
+			if event_seq in event_seq_count:
+				event_seq_count[event_seq] += 1
+			else:
+				event_seq_count[event_seq] = 1
+
+			if event_seq in event_seq_instances:
+				event_seq_instances[event_seq].append(tuple(anchor_seq))
+			else:
+				event_seq_instances[event_seq] = [tuple(anchor_seq)]
+
+			total_sequences += 1
+
+	# Print top n event sequences
+	sorted_seqs = sorted(event_seq_count.items(), key=operator.itemgetter(1))
+	sorted_seqs.reverse()
+
+	for seq, count in sorted_seqs[:top_n]:
+		print('-'.join(seq) + ": " + str(count) + ", " + str(float(count)/total_sequences))
+
+	if fine_grain:
+		f = open("fg_sequences_" + str(length) + ".txt", 'w')
+	else:
+		f = open("cg_sequences_" + str(length) + ".txt", 'w')
+
+	for seq, anchor_list in event_seq_instances.items():
+		f.write('-'.join(seq) + '\n')
+		for anchor in anchor_list:
+			f.write(', '.join(anchor))
+			f.write('; ')
+		f.write('\n\n')
+	f.close()
+
+def create_test_sets_for_event_types():
+	docs = []
+	for dirpath, dirnames, filenames in os.walk(PATH_TO_DATA):
+		for basename in filenames:
+			if basename.endswith(".apf.xml"):
+				# this is the type of files we want to analyze
+				docs.append(os.path.join(dirpath, basename))
+
+	events = {}
+	for t in EVENT_TYPES_TO_SUBTYPES:
+		events[t] = []
+
 	for d in docs:
 		info_list = get_all_info(d)
 		for i in info_list:
 			info = analyze_event(i)
-			events.append(info["type"])
+			events[info["type"].lower()].append(info["anno"])
+	
+	for t, event_list in events.items():
+		size_train_set = 0
+		size_test_set = 0
 
-	total_sequences = 0
-	event_map = {}
-	for i in range(len(events)):
-		event_seq = []
+		train_root = ET.Element('root')
+		test_root = ET.Element('root')
 
-		# Break when the seq length greater than remaining events
-		if i + length > len(events):
-			break
+		size = len(event_list)
+		num_train_positive = int(PER_TYPE_THRESHOLD * size) if int(PER_TYPE_THRESHOLD * size) else 1
 
-		# Get the sequence
-		for j in range(i, i + length):
-			event_seq.append(events[j])
+		print(t)
+		print("Train (positive) set: " + str(num_train_positive))
 
-		# Add to map
-		event_seq = tuple(event_seq)
-		if event_seq in event_map:
-			event_map[event_seq] += 1
-		else:
-			event_map[event_seq] = 1
+		folder = os.path.join(PATH_TO_TYPE_SPLIT_DATA, t)
+		if not os.path.isdir(folder):
+			os.mkdir(folder)
 
-		total_sequences += 1
+		shuffle(event_list)
+		for anno in event_list:
+			if num_train_positive > 0:
+				size_train_set += 1
+				train_root.append(anno)
+				num_train_positive -= 1
+			else:
+				size_test_set += 1
+				test_root.append(anno)
 
-	# Print top n event sequences
-	sorted_seqs = sorted(event_map.items(), key=operator.itemgetter(1))
-	sorted_seqs.reverse()
 
-	for seq, count in sorted_seqs[:top_n]:
-		print(str(seq) + ": " + str(count) + ", " + str(float(count)/total_sequences))
+		for other_t, other_event_list in events.items():
+			if other_t == t:
+				continue
+
+			for e in other_event_list:
+				size_train_set += 1
+				train_root.append(e)
+
+		train_set = open(os.path.join(folder,"train.xml"), 'w')
+		test_set = open(os.path.join(folder, "test.xml"), 'w')
+
+		train_set.write(minidom.parseString(ET.tostring(train_root, 'utf-8')).toprettyxml())
+		test_set.write(minidom.parseString(ET.tostring(test_root, 'utf-8')).toprettyxml())
+
+		
+		print("Train (negative) set: " + str(size_train_set - num_train_positive))
+		print("Test set: " + str(size_test_set))
+
 
 
 if __name__ == '__main__':
-	count_event_sequences(4, 10)
+	create_test_sets_for_event_types()
