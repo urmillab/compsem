@@ -81,7 +81,7 @@ def annotate_text(PATH_TO_DATA):
 			if basename.endswith(".apf.xml"): # this is the type of files we want to analyze
 				xml_docs.append(os.path.join(dirpath, basename))
 	counter = 1 
-	text_file = open("two_precent.txt", "w")
+	text_file = open("body_text_output.txt", "w")
 	for xml, sgm in itertools.izip_longest(xml_docs, sgm_docs):
 		print("-------------------------------DOC (" + str(counter) + ")  BREAK --------------------------------")
 		print(xml)
