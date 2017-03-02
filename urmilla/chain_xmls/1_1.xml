@@ -1,0 +1,747 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Generic" ID="CNN_IP_20030402.1600.00-2-EV1" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_mention ID="CNN_IP_20030402.1600.00-2-EV1-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="195" START="185">battlefront</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="195" START="129">That's CNN's Karl Penhaul with the very latest from the battlefront</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="195" START="185">battlefront</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030402.1600.00-2-EV6" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Die" TENSE="Past" TYPE="Life">
+		
+  
+		<event_argument REFID="CNN_IP_20030402.1600.00-2-E88" ROLE="Victim"/>
+		
+  
+		<event_mention ID="CNN_IP_20030402.1600.00-2-EV6-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="315" START="287">39 Americans have been killed</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="365" START="264">Military officials say 39 Americans have been killed in combat, 9 more by
+friendly fire or an accident</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="315" START="310">killed</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030402.1600.00-2-E88-169" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="298" START="287">39 Americans</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030402.1600.00-2-EV7" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Past" TYPE="Conflict">
+		
+  
+		<event_argument REFID="CNN_IP_20030402.1600.00-2-E89" ROLE="Target"/>
+		
+  
+		<event_mention ID="CNN_IP_20030402.1600.00-2-EV7-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="350" START="328">9 more by
+friendly fire</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="365" START="264">Military officials say 39 Americans have been killed in combat, 9 more by
+friendly fire or an accident</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="350" START="347">fire</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030402.1600.00-2-E89-170" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="333" START="328">9 more</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="CNN_IP_20030402.1600.00-2-EV8" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Past" TYPE="Conflict">
+		
+  
+		<event_argument REFID="CNN_IP_20030402.1600.00-2-E88" ROLE="Target"/>
+		
+  
+		<event_mention ID="CNN_IP_20030402.1600.00-2-EV8-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="325" START="287">39 Americans have been killed in combat</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="365" START="264">Military officials say 39 Americans have been killed in combat, 9 more by
+friendly fire or an accident</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="325" START="320">combat</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030402.1600.00-2-E88-169" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="298" START="287">39 Americans</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="CNN_IP_20030402.1600.00-2-EV8-2">
+			
+    
+			<extent>
+				
+      
+				<charseq END="425" START="420">combat</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="493" START="368">Britain reports 6 of its troops have been
+killed by combat, 19 more in nonhostile action and 2 deaths have not been
+classified</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="425" START="420">combat</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030402.1600.00-2-EV9" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Die" TENSE="Past" TYPE="Life">
+		
+  
+		<event_argument REFID="CNN_IP_20030402.1600.00-2-E91" ROLE="Victim"/>
+		
+  
+		<event_mention ID="CNN_IP_20030402.1600.00-2-EV9-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="415" START="384">6 of its troops have been
+killed</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="493" START="368">Britain reports 6 of its troops have been
+killed by combat, 19 more in nonhostile action and 2 deaths have not been
+classified</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="415" START="410">killed</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030402.1600.00-2-E91-172" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="398" START="384">6 of its troops</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030402.1600.00-2-EV10" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Die" TENSE="Past" TYPE="Life">
+		
+  
+		<event_mention ID="CNN_IP_20030402.1600.00-2-EV10-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="468" START="463">deaths</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="493" START="368">Britain reports 6 of its troops have been
+killed by combat, 19 more in nonhostile action and 2 deaths have not been
+classified</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="468" START="463">deaths</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030402.1600.00-2-EV11" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Die" TENSE="Past" TYPE="Life">
+		
+  
+		<event_argument REFID="CNN_IP_20030402.1600.00-2-E89" ROLE="Victim"/>
+		
+  
+		<event_mention ID="CNN_IP_20030402.1600.00-2-EV11-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="333" START="310">killed in combat, 9 more</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="365" START="264">Military officials say 39 Americans have been killed in combat, 9 more by
+friendly fire or an accident</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="315" START="310">killed</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030402.1600.00-2-E89-170" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="333" START="328">9 more</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030402.1600.00-2-EV12" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Die" TENSE="Past" TYPE="Life">
+		
+  
+		<event_argument REFID="CNN_IP_20030402.1600.00-2-E92" ROLE="Victim"/>
+		
+  
+		<event_mention ID="CNN_IP_20030402.1600.00-2-EV12-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="434" START="410">killed by combat, 19 more</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="493" START="368">Britain reports 6 of its troops have been
+killed by combat, 19 more in nonhostile action and 2 deaths have not been
+classified</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="415" START="410">killed</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030402.1600.00-2-E92-174" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="434" START="428">19 more</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="CNN_IP_20030402.1600.00-2-EV13" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Injure" TENSE="Unspecified" TYPE="Life">
+		
+  
+		<event_mention ID="CNN_IP_20030402.1600.00-2-EV13-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="542" START="533">casualties</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="622" START="496">Iraq does not report on its military casualties, but Iraqi
+officials say 420 civilians have been killed and about 4,000 injured</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="542" START="533">casualties</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030402.1600.00-2-EV14" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Die" TENSE="Past" TYPE="Life">
+		
+  
+		<event_argument REFID="CNN_IP_20030402.1600.00-2-E1" ROLE="Victim"/>
+		
+  
+		<event_mention ID="CNN_IP_20030402.1600.00-2-EV14-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="598" START="569">420 civilians have been killed</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="622" START="496">Iraq does not report on its military casualties, but Iraqi
+officials say 420 civilians have been killed and about 4,000 injured</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="598" START="593">killed</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030402.1600.00-2-E1-180" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="581" START="569">420 civilians</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030402.1600.00-2-EV15" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Injure" TENSE="Past" TYPE="Life">
+		
+  
+		<event_argument REFID="CNN_IP_20030402.1600.00-2-E2" ROLE="Victim"/>
+		
+  
+		<event_mention ID="CNN_IP_20030402.1600.00-2-EV15-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="622" START="604">about 4,000 injured</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="622" START="496">Iraq does not report on its military casualties, but Iraqi
+officials say 420 civilians have been killed and about 4,000 injured</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="622" START="616">injured</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030402.1600.00-2-E2-2" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="614" START="604">about 4,000</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="CNN_IP_20030402.1600.00-2-EV16" MODALITY="Other" POLARITY="Positive" SUBTYPE="Attack" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_mention ID="CNN_IP_20030402.1600.00-2-EV16-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="728" START="726">war</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="785" START="690">Seven
+Americans remain prisoners of war in Iraq and 15 Americans are listed as
+missing in action</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="728" START="726">war</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030402.1600.00-2-EV17" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Transport" TENSE="Unspecified" TYPE="Movement">
+		
+  
+		<event_argument REFID="CNN_IP_20030402.1600.00-2-E9" ROLE="Person"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030402.1600.00-2-E16" ROLE="Destination"/>
+		
+  
+		<event_mention ID="CNN_IP_20030402.1600.00-2-EV17-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1130" START="1088">Jessica is going to be arriving at
+Ramstein</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1190" START="877">Judy, in the next hour, on our special
+&quot;WOLF BLITZER REPORTS,&quot; I'm going to be speaking live to her older
+brother who is in the Army, her younger sister who wants to be in the
+Army, just around the same time as Jessica is going to be arriving at
+Ramstein, the air base in Germany for some serious medical treatment</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1118" START="1111">arriving</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030402.1600.00-2-E9-21" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1094" START="1088">Jessica</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030402.1600.00-2-E16-24" ROLE="Destination">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1130" START="1123">Ramstein</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

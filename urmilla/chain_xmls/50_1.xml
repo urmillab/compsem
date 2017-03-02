@@ -1,0 +1,1020 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Generic" ID="AGGRESSIVEVOICEDAILY_20050224.1207-EV1" MODALITY="Other" POLARITY="Positive" SUBTYPE="Attack" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_argument REFID="AGGRESSIVEVOICEDAILY_20050224.1207-E45" ROLE="Attacker"/>
+		
+  
+		<event_argument REFID="AGGRESSIVEVOICEDAILY_20050224.1207-E47" ROLE="Place"/>
+		
+  
+		<event_argument REFID="AGGRESSIVEVOICEDAILY_20050224.1207-E45" ROLE="Target"/>
+		
+  
+		<event_argument REFID="AGGRESSIVEVOICEDAILY_20050224.1207-E46" ROLE="Attacker"/>
+		
+  
+		<event_mention ID="AGGRESSIVEVOICEDAILY_20050224.1207-EV1-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="254" START="200">people the right to shoot an attacker in a public place</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="254" START="162">Some Florida legislators want to give
+people the right to shoot an attacker in a public place</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="224" START="220">shoot</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="AGGRESSIVEVOICEDAILY_20050224.1207-E46-68" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="236" START="226">an attacker</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="AGGRESSIVEVOICEDAILY_20050224.1207-E47-69" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="254" START="241">a public place</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="AGGRESSIVEVOICEDAILY_20050224.1207-E45-67" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="205" START="200">people</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="AGGRESSIVEVOICEDAILY_20050224.1207-EV1-2">
+			
+    
+			<extent>
+				
+      
+				<charseq END="414" START="301">people to shoot to kill in
+self-defense if they are attacked &quot;in any other place where he or she
+has a right to be</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="414" START="258">A House committee voted Wednesday to allow people to shoot to kill in
+self-defense if they are attacked &quot;in any other place where he or she
+has a right to be</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="315" START="311">shoot</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="AGGRESSIVEVOICEDAILY_20050224.1207-E45-72" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="306" START="301">people</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="AGGRESSIVEVOICEDAILY_20050224.1207-E47-73" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="414" START="366">any other place where he or she
+has a right to be</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="AGGRESSIVEVOICEDAILY_20050224.1207-E45-72" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="306" START="301">people</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="AGGRESSIVEVOICEDAILY_20050224.1207-EV2" MODALITY="Other" POLARITY="Positive" SUBTYPE="Attack" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_argument REFID="AGGRESSIVEVOICEDAILY_20050224.1207-E47" ROLE="Place"/>
+		
+  
+		<event_argument REFID="AGGRESSIVEVOICEDAILY_20050224.1207-E45" ROLE="Target"/>
+		
+  
+		<event_argument REFID="AGGRESSIVEVOICEDAILY_20050224.1207-E7" ROLE="Target"/>
+		
+  
+		<event_mention ID="AGGRESSIVEVOICEDAILY_20050224.1207-EV2-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="414" START="301">people to shoot to kill in
+self-defense if they are attacked &quot;in any other place where he or she
+has a right to be</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="414" START="258">A House committee voted Wednesday to allow people to shoot to kill in
+self-defense if they are attacked &quot;in any other place where he or she
+has a right to be</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="360" START="353">attacked</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="AGGRESSIVEVOICEDAILY_20050224.1207-E47-73" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="414" START="366">any other place where he or she
+has a right to be</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="AGGRESSIVEVOICEDAILY_20050224.1207-E45-72" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="306" START="301">people</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="AGGRESSIVEVOICEDAILY_20050224.1207-EV2-2">
+			
+    
+			<extent>
+				
+      
+				<charseq END="738" START="716">a person being attacked</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="850" START="646">Florida courts consider deadly force a last resort and have held that
+a person being attacked has the &quot;duty to use every reasonable means to
+avoid the danger, including retreat, prior to using deadly force</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="738" START="731">attacked</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="AGGRESSIVEVOICEDAILY_20050224.1207-E45-7" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="738" START="716">a person being attacked</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="AGGRESSIVEVOICEDAILY_20050224.1207-EV2-3">
+			
+    
+			<extent>
+				
+      
+				<charseq END="926" START="890">who is under attack in a public
+place</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="950" START="855">But this legislation says a person who is under attack in a public
+place &quot;has no duty to retreat</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="908" START="903">attack</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="AGGRESSIVEVOICEDAILY_20050224.1207-E47-10" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="926" START="913">a public
+place</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="AGGRESSIVEVOICEDAILY_20050224.1207-E45-9" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="892" START="890">who</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="AGGRESSIVEVOICEDAILY_20050224.1207-EV2-4">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1018" START="1002">they are attacked</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1095" START="956">Law-abiding people should not be told that if they are attacked,
+they should turn around and run,&quot; NRA lobbyist Marion Hammer told
+lawmakers</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1018" START="1011">attacked</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="AGGRESSIVEVOICEDAILY_20050224.1207-E7-12" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1005" START="1002">they</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="AGGRESSIVEVOICEDAILY_20050224.1207-EV3" MODALITY="Other" POLARITY="Positive" SUBTYPE="Die" TENSE="Unspecified" TYPE="Life">
+		
+  
+		<event_argument REFID="AGGRESSIVEVOICEDAILY_20050224.1207-E39" ROLE="Instrument"/>
+		
+  
+		<event_argument REFID="AGGRESSIVEVOICEDAILY_20050224.1207-E3" ROLE="Victim"/>
+		
+  
+		<event_mention ID="AGGRESSIVEVOICEDAILY_20050224.1207-EV3-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="629" START="569">death or great bodily harm,&quot; such as firing a gun at a person</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="642" START="504">State law defines deadly force as that which is likely to cause
+&quot;death or great bodily harm,&quot; such as firing a gun at a person or a
+vehicle</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="573" START="569">death</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="AGGRESSIVEVOICEDAILY_20050224.1207-E39-63" ROLE="Instrument">
+				
+      
+				<extent>
+					
+        
+					<charseq END="617" START="613">a gun</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="AGGRESSIVEVOICEDAILY_20050224.1207-E3-3" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="629" START="622">a person</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="AGGRESSIVEVOICEDAILY_20050224.1207-EV4" MODALITY="Other" POLARITY="Positive" SUBTYPE="Injure" TENSE="Unspecified" TYPE="Life">
+		
+  
+		<event_argument REFID="AGGRESSIVEVOICEDAILY_20050224.1207-E39" ROLE="Instrument"/>
+		
+  
+		<event_argument REFID="AGGRESSIVEVOICEDAILY_20050224.1207-E3" ROLE="Victim"/>
+		
+  
+		<event_mention ID="AGGRESSIVEVOICEDAILY_20050224.1207-EV4-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="629" START="591">harm,&quot; such as firing a gun at a person</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="642" START="504">State law defines deadly force as that which is likely to cause
+&quot;death or great bodily harm,&quot; such as firing a gun at a person or a
+vehicle</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="594" START="591">harm</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="AGGRESSIVEVOICEDAILY_20050224.1207-E39-63" ROLE="Instrument">
+				
+      
+				<extent>
+					
+        
+					<charseq END="617" START="613">a gun</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="AGGRESSIVEVOICEDAILY_20050224.1207-E3-3" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="629" START="622">a person</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="AGGRESSIVEVOICEDAILY_20050224.1207-EV5" MODALITY="Other" POLARITY="Positive" SUBTYPE="Attack" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_argument REFID="AGGRESSIVEVOICEDAILY_20050224.1207-E39" ROLE="Instrument"/>
+		
+  
+		<event_argument REFID="AGGRESSIVEVOICEDAILY_20050224.1207-E3" ROLE="Target"/>
+		
+  
+		<event_argument REFID="AGGRESSIVEVOICEDAILY_20050224.1207-E4" ROLE="Target"/>
+		
+  
+		<event_mention ID="AGGRESSIVEVOICEDAILY_20050224.1207-EV5-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="642" START="606">firing a gun at a person or a
+vehicle</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="642" START="504">State law defines deadly force as that which is likely to cause
+&quot;death or great bodily harm,&quot; such as firing a gun at a person or a
+vehicle</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="611" START="606">firing</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="AGGRESSIVEVOICEDAILY_20050224.1207-E39-63" ROLE="Instrument">
+				
+      
+				<extent>
+					
+        
+					<charseq END="617" START="613">a gun</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="AGGRESSIVEVOICEDAILY_20050224.1207-E3-3" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="629" START="622">a person</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="AGGRESSIVEVOICEDAILY_20050224.1207-E4-4" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="642" START="634">a
+vehicle</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="AGGRESSIVEVOICEDAILY_20050224.1207-EV6" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Die" TENSE="Unspecified" TYPE="Life">
+		
+  
+		<event_argument REFID="AGGRESSIVEVOICEDAILY_20050224.1207-E45" ROLE="Agent"/>
+		
+  
+		<event_argument REFID="AGGRESSIVEVOICEDAILY_20050224.1207-E46" ROLE="Victim"/>
+		
+  
+		<event_mention ID="AGGRESSIVEVOICEDAILY_20050224.1207-EV6-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="738" START="670">deadly force a last resort and have held that
+a person being attacked</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="850" START="646">Florida courts consider deadly force a last resort and have held that
+a person being attacked has the &quot;duty to use every reasonable means to
+avoid the danger, including retreat, prior to using deadly force</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="675" START="670">deadly</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="AGGRESSIVEVOICEDAILY_20050224.1207-E45-7" ROLE="Agent">
+				
+      
+				<extent>
+					
+        
+					<charseq END="738" START="716">a person being attacked</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="AGGRESSIVEVOICEDAILY_20050224.1207-EV6-2">
+			
+    
+			<extent>
+				
+      
+				<charseq END="844" START="716">a person being attacked has the &quot;duty to use every reasonable means to
+avoid the danger, including retreat, prior to using deadly</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="850" START="646">Florida courts consider deadly force a last resort and have held that
+a person being attacked has the &quot;duty to use every reasonable means to
+avoid the danger, including retreat, prior to using deadly force</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="844" START="839">deadly</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="AGGRESSIVEVOICEDAILY_20050224.1207-E45-7" ROLE="Agent">
+				
+      
+				<extent>
+					
+        
+					<charseq END="738" START="716">a person being attacked</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="AGGRESSIVEVOICEDAILY_20050224.1207-EV6-3">
+			
+    
+			<extent>
+				
+      
+				<charseq END="2084" START="1996">he/she must make sure it is impossible to escape
+before using deadly force on an attacker</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="2084" START="1957">Currently, if one's
+life is threatened he/she must make sure it is impossible to escape
+before using deadly force on an attacker</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="2063" START="2058">deadly</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="AGGRESSIVEVOICEDAILY_20050224.1207-E46-62" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2084" START="2074">an attacker</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="AGGRESSIVEVOICEDAILY_20050224.1207-E45-61" ROLE="Agent">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2001" START="1996">he/she</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="AGGRESSIVEVOICEDAILY_20050224.1207-EV7" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Phone-Write" TENSE="Past" TYPE="Contact">
+		
+  
+		<event_argument REFID="AGGRESSIVEVOICEDAILY_20050224.1207-E1" ROLE="Entity"/>
+		
+  
+		<event_argument REFID="AGGRESSIVEVOICEDAILY_20050224.1207-E13" ROLE="Entity"/>
+		
+  
+		<event_mention ID="AGGRESSIVEVOICEDAILY_20050224.1207-EV7-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1341" START="1254">Baxley held up a stack of more than 800 e-mails from Floridians who
+he said have written</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1365" START="1254">Baxley held up a stack of more than 800 e-mails from Floridians who
+he said have written him to support the bill</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1341" START="1335">written</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="AGGRESSIVEVOICEDAILY_20050224.1207-E1-22" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1259" START="1254">Baxley</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="AGGRESSIVEVOICEDAILY_20050224.1207-E13-24" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1320" START="1318">who</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="AGGRESSIVEVOICEDAILY_20050224.1207-EV8" MODALITY="Other" POLARITY="Positive" SUBTYPE="Die" TENSE="Unspecified" TYPE="Life">
+		
+  
+		<event_argument REFID="AGGRESSIVEVOICEDAILY_20050224.1207-E45" ROLE="Agent"/>
+		
+  
+		<event_argument REFID="AGGRESSIVEVOICEDAILY_20050224.1207-E47" ROLE="Place"/>
+		
+  
+		<event_mention ID="AGGRESSIVEVOICEDAILY_20050224.1207-EV8-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="414" START="301">people to shoot to kill in
+self-defense if they are attacked &quot;in any other place where he or she
+has a right to be</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="414" START="258">A House committee voted Wednesday to allow people to shoot to kill in
+self-defense if they are attacked &quot;in any other place where he or she
+has a right to be</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="323" START="320">kill</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="AGGRESSIVEVOICEDAILY_20050224.1207-E45-72" ROLE="Agent">
+				
+      
+				<extent>
+					
+        
+					<charseq END="306" START="301">people</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="AGGRESSIVEVOICEDAILY_20050224.1207-E47-73" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="414" START="366">any other place where he or she
+has a right to be</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

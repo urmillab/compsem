@@ -1,0 +1,661 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Specific" ID="CNN_IP_20030412.1600.05-EV1" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_mention ID="CNN_IP_20030412.1600.05-EV1-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="369" START="367">war</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="403" START="268">CNN medical correspondent, Dr. Sanjay Gupta, has been traveling
+with the Devil Docs throughout the war and now they are close to Baghdad</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="369" START="367">war</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="CNN_IP_20030412.1600.05-EV2" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Injure" TENSE="Unspecified" TYPE="Life">
+		
+  
+		<event_argument REFID="CNN_IP_20030412.1600.05-E41" ROLE="Victim"/>
+		
+  
+		<event_mention ID="CNN_IP_20030412.1600.05-EV2-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="611" START="598">their injuries</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="611" START="559">For others, the stories can be seen in their injuries</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="611" START="604">injuries</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030412.1600.05-E41-62" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="602" START="598">their</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030412.1600.05-EV3" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_mention ID="CNN_IP_20030412.1600.05-EV3-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="976" START="967">firefights</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="990" START="861">Even while statutes were coming down and there
+was dancing in the streets, the consequences of continuing firefights are
+seen here</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="976" START="967">firefights</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="CNN_IP_20030412.1600.05-EV4" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Transport" TENSE="Unspecified" TYPE="Movement">
+		
+  
+		<event_argument REFID="CNN_IP_20030412.1600.05-E16" ROLE="Vehicle"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030412.1600.05-E15" ROLE="Person"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030412.1600.05-E12" ROLE="Destination"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030412.1600.05-E14" ROLE="Agent"/>
+		
+  
+		<event_mention ID="CNN_IP_20030412.1600.05-EV4-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1304" START="1218">Corpsmen quickly take patients by ambulance
+away from the blowing sand to a triage tent</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1304" START="1218">Corpsmen quickly take patients by ambulance
+away from the blowing sand to a triage tent</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1238" START="1235">take</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030412.1600.05-E16-22" ROLE="Vehicle">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1260" START="1252">ambulance</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030412.1600.05-E15-21" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1247" START="1240">patients</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030412.1600.05-E12-23" ROLE="Destination">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1304" START="1292">a triage tent</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030412.1600.05-E14-20" ROLE="Agent">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1225" START="1218">Corpsmen</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030412.1600.05-EV5" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Transport" TENSE="Past" TYPE="Movement">
+		
+  
+		<event_argument REFID="CNN_IP_20030412.1600.05-E17" ROLE="Person"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030412.1600.05-E12" ROLE="Destination"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030412.1600.05-T3" ROLE="Time-Within"/>
+		
+  
+		<event_mention ID="CNN_IP_20030412.1600.05-EV5-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1410" START="1354">45 minutes as we watched, 32 patients were
+delivered here</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1530" START="1349">Over 45 minutes as we watched, 32 patients were
+delivered here, evaluated and nine operations started; 29 of those
+delivered, Marines involved in a firefight in the center of Baghdad</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1405" START="1397">delivered</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030412.1600.05-E17-28" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1390" START="1380">32 patients</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030412.1600.05-E12-29" ROLE="Destination">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1410" START="1407">here</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030412.1600.05-T3-1" ROLE="Time-Within">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1363" START="1354">45 minutes</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030412.1600.05-EV6" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Transport" TENSE="Past" TYPE="Movement">
+		
+  
+		<event_argument REFID="CNN_IP_20030412.1600.05-E18" ROLE="Person"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030412.1600.05-E12" ROLE="Destination"/>
+		
+  
+		<event_mention ID="CNN_IP_20030412.1600.05-EV6-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1472" START="1407">here, evaluated and nine operations started; 29 of those
+delivered</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1530" START="1349">Over 45 minutes as we watched, 32 patients were
+delivered here, evaluated and nine operations started; 29 of those
+delivered, Marines involved in a firefight in the center of Baghdad</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1472" START="1464">delivered</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030412.1600.05-E18-30" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1472" START="1452">29 of those
+delivered</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030412.1600.05-E12-29" ROLE="Destination">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1410" START="1407">here</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030412.1600.05-EV7" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Past" TYPE="Conflict">
+		
+  
+		<event_argument REFID="CNN_IP_20030412.1600.05-E18" ROLE="Attacker"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030412.1600.05-E20" ROLE="Place"/>
+		
+  
+		<event_mention ID="CNN_IP_20030412.1600.05-EV7-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1530" START="1475">Marines involved in a firefight in the center of Baghdad</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1530" START="1349">Over 45 minutes as we watched, 32 patients were
+delivered here, evaluated and nine operations started; 29 of those
+delivered, Marines involved in a firefight in the center of Baghdad</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1505" START="1497">firefight</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030412.1600.05-E18-32" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1530" START="1475">Marines involved in a firefight in the center of Baghdad</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030412.1600.05-E20-33" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1530" START="1510">the center of Baghdad</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030412.1600.05-EV8" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Injure" TENSE="Past" TYPE="Life">
+		
+  
+		<event_argument REFID="CNN_IP_20030412.1600.05-E21" ROLE="Instrument"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030412.1600.05-E18" ROLE="Victim"/>
+		
+  
+		<event_mention ID="CNN_IP_20030412.1600.05-EV8-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1611" START="1533">Their stories could be seen in the shrapnel wounds of rocket-propelled
+grenades</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1657" START="1533">Their stories could be seen in the shrapnel wounds of rocket-propelled
+grenades and bullet wounds from semi-automatic weapons</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1582" START="1577">wounds</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030412.1600.05-E21-36" ROLE="Instrument">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1611" START="1587">rocket-propelled
+grenades</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030412.1600.05-E18-35" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1537" START="1533">Their</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030412.1600.05-EV9" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Injure" TENSE="Past" TYPE="Life">
+		
+  
+		<event_argument REFID="CNN_IP_20030412.1600.05-E23" ROLE="Instrument"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030412.1600.05-E18" ROLE="Victim"/>
+		
+  
+		<event_mention ID="CNN_IP_20030412.1600.05-EV9-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1629" START="1533">Their stories could be seen in the shrapnel wounds of rocket-propelled
+grenades and bullet wounds</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1657" START="1533">Their stories could be seen in the shrapnel wounds of rocket-propelled
+grenades and bullet wounds from semi-automatic weapons</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1629" START="1624">wounds</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030412.1600.05-E23-38" ROLE="Instrument">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1622" START="1617">bullet</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030412.1600.05-E18-35" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1537" START="1533">Their</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

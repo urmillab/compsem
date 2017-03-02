@@ -1,0 +1,1447 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Specific" ID="fsh_29395-EV1" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Convict" TENSE="Past" TYPE="Justice">
+		
+  
+		<event_argument REFID="fsh_29395-E1" ROLE="Defendant"/>
+		
+  
+		<event_argument REFID="fsh_29395-V1" ROLE="Crime"/>
+		
+  
+		<event_mention ID="fsh_29395-EV1-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="171" START="88">Scott Peterson has been found guilty of
+murdering his wife Laci and their unborn son</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="207" START="88">Scott Peterson has been found guilty of
+murdering his wife Laci and their unborn son, and he now faces the
+death penalty</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="116" START="112">found</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="fsh_29395-E1-1" ROLE="Defendant">
+				
+      
+				<extent>
+					
+        
+					<charseq END="101" START="88">Scott Peterson</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="fsh_29395-V1-1" ROLE="Crime">
+				
+      
+				<extent>
+					
+        
+					<charseq END="171" START="128">murdering his wife Laci and their unborn son</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="fsh_29395-EV2" MODALITY="Other" POLARITY="Positive" SUBTYPE="Be-Born" TENSE="Past" TYPE="Life">
+		
+  
+		<event_argument REFID="fsh_29395-E32" ROLE="Person"/>
+		
+  
+		<event_mention ID="fsh_29395-EV2-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="2927" START="2911">the baby was born</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="2992" START="2827">Um,  so when they found the baby, the baby of course had been -- they
+don't know if the baby was born, through delivery,  or -- if maybe from
+um -- the corpse I guess</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="2927" START="2924">born</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="fsh_29395-E32-100" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2918" START="2911">the baby</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="fsh_29395-EV3" MODALITY="Other" POLARITY="Positive" SUBTYPE="Die" TENSE="Unspecified" TYPE="Life">
+		
+  
+		<event_argument REFID="fsh_29395-E4" ROLE="Victim"/>
+		
+  
+		<event_mention ID="fsh_29395-EV3-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="4491" START="4473">a mother was killed</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="4552" START="4359">But,  actually they were
+trying to pass a law, and I don't know if it ever did take into
+effect,  that if in fact a mother was killed, and pregnant,  um -- for
+there to be a double murder charge</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="4491" START="4486">killed</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="fsh_29395-E4-135" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4480" START="4473">a mother</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="fsh_29395-EV4" MODALITY="Asserted" POLARITY="Negative" SUBTYPE="Die" TENSE="Past" TYPE="Life">
+		
+  
+		<event_argument REFID="fsh_29395-E32" ROLE="Victim"/>
+		
+  
+		<event_argument REFID="fsh_29395-E1" ROLE="Agent"/>
+		
+  
+		<event_mention ID="fsh_29395-EV4-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="5032" START="5008">he didn't murder the baby</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="5041" START="4987">Um,  I guess because he didn't murder the baby directly</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="5023" START="5018">murder</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="fsh_29395-E32-145" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="5032" START="5025">the baby</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="fsh_29395-E1-144" ROLE="Agent">
+				
+      
+				<extent>
+					
+        
+					<charseq END="5009" START="5008">he</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="fsh_29395-EV5" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Die" TENSE="Past" TYPE="Life">
+		
+  
+		<event_argument REFID="fsh_29395-E1" ROLE="Agent"/>
+		
+  
+		<event_argument REFID="fsh_29395-E15" ROLE="Victim"/>
+		
+  
+		<event_argument REFID="fsh_29395-E32" ROLE="Victim"/>
+		
+  
+		<event_mention ID="fsh_29395-EV5-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="171" START="88">Scott Peterson has been found guilty of
+murdering his wife Laci and their unborn son</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="207" START="88">Scott Peterson has been found guilty of
+murdering his wife Laci and their unborn son, and he now faces the
+death penalty</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="136" START="128">murdering</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="fsh_29395-E1-1" ROLE="Agent">
+				
+      
+				<extent>
+					
+        
+					<charseq END="101" START="88">Scott Peterson</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="fsh_29395-E15-111" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="145" START="138">his wife</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="fsh_29395-E15-165" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="150" START="147">Laci</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="fsh_29395-E32-214" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="171" START="156">their unborn son</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="fsh_29395-EV6" MODALITY="Other" POLARITY="Positive" SUBTYPE="Trial-Hearing" TENSE="Unspecified" TYPE="Justice">
+		
+  
+		<event_mention ID="fsh_29395-EV6-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="77" START="72">Trials</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="77" START="63">Criminal Trials</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="77" START="72">Trials</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="fsh_29395-EV7" MODALITY="Asserted" POLARITY="Negative" SUBTYPE="Be-Born" TENSE="Unspecified" TYPE="Life">
+		
+  
+		<event_argument REFID="fsh_29395-E32" ROLE="Person"/>
+		
+  
+		<event_mention ID="fsh_29395-EV7-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="171" START="156">their unborn son</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="207" START="88">Scott Peterson has been found guilty of
+murdering his wife Laci and their unborn son, and he now faces the
+death penalty</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="167" START="162">unborn</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="fsh_29395-E32-214" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="171" START="156">their unborn son</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="fsh_29395-EV8" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Trial-Hearing" TENSE="Unspecified" TYPE="Justice">
+		
+  
+		<event_argument REFID="fsh_29395-E1" ROLE="Defendant"/>
+		
+  
+		<event_mention ID="fsh_29395-EV8-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="268" START="255">Peterson
+trial</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="268" START="211">There's been a lot of media coverage of the Peterson
+trial</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="268" START="264">trial</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="fsh_29395-E1-217" ROLE="Defendant">
+				
+      
+				<extent>
+					
+        
+					<charseq END="262" START="255">Peterson</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="fsh_29395-EV9" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Trial-Hearing" TENSE="Unspecified" TYPE="Justice">
+		
+  
+		<event_mention ID="fsh_29395-EV9-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="298" START="294">trial</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="321" START="272">Why do you think this trial has been so publicized</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="298" START="294">trial</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="fsh_29395-EV10" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Trial-Hearing" TENSE="Unspecified" TYPE="Justice">
+		
+  
+		<event_mention ID="fsh_29395-EV10-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="350" START="345">trials</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="396" START="325">What
+other criminal trials have gotten a lot of media attention, and why</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="350" START="345">trials</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="fsh_29395-EV11" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Trial-Hearing" TENSE="Unspecified" TYPE="Justice">
+		
+  
+		<event_mention ID="fsh_29395-EV11-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="438" START="434">trial</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="453" START="399">What's the most memorable criminal trial you can recall</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="438" START="434">trial</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="fsh_29395-EV12" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Trial-Hearing" TENSE="Unspecified" TYPE="Justice">
+		
+  
+		<event_argument REFID="fsh_29395-E1" ROLE="Defendant"/>
+		
+  
+		<event_mention ID="fsh_29395-EV12-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="803" START="781">Scott -- Peterson trial</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="803" START="749">Uh, what do you know about this Scott -- Peterson trial</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="803" START="799">trial</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="fsh_29395-E1-16" ROLE="Defendant">
+				
+      
+				<extent>
+					
+        
+					<charseq END="797" START="781">Scott -- Peterson</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="fsh_29395-EV13" MODALITY="Other" POLARITY="Positive" SUBTYPE="Sentence" TENSE="Unspecified" TYPE="Justice">
+		
+  
+		<event_argument REFID="fsh_29395-E17" ROLE="Adjudicator"/>
+		
+  
+		<event_argument REFID="fsh_29395-E1" ROLE="Defendant"/>
+		
+  
+		<event_argument REFID="fsh_29395-V2" ROLE="Sentence"/>
+		
+  
+		<event_argument REFID="fsh_29395-V3" ROLE="Sentence"/>
+		
+  
+		<event_mention ID="fsh_29395-EV13-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="4016" START="3922">they're making the determination if -- in fact he will get
+the death penalty, or life in prison</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="4016" START="3918">And they're making the determination if -- in fact he will get
+the death penalty, or life in prison</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="3979" START="3977">get</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="fsh_29395-E17-192" ROLE="Adjudicator">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3925" START="3922">they</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="fsh_29395-E1-127" ROLE="Defendant">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3970" START="3969">he</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="fsh_29395-V2-1" ROLE="Sentence">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3997" START="3981">the death penalty</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="fsh_29395-V3-1" ROLE="Sentence">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4016" START="4003">life in prison</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="fsh_29395-EV14" MODALITY="Other" POLARITY="Positive" SUBTYPE="Charge-Indict" TENSE="Unspecified" TYPE="Justice">
+		
+  
+		<event_argument REFID="fsh_29395-V4" ROLE="Crime"/>
+		
+  
+		<event_mention ID="fsh_29395-EV14-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="4552" START="4531">a double murder charge</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="4552" START="4359">But,  actually they were
+trying to pass a law, and I don't know if it ever did take into
+effect,  that if in fact a mother was killed, and pregnant,  um -- for
+there to be a double murder charge</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="4552" START="4547">charge</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="fsh_29395-V4-1" ROLE="Crime">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4545" START="4531">a double murder</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="fsh_29395-EV15" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Convict" TENSE="Unspecified" TYPE="Justice">
+		
+  
+		<event_argument REFID="fsh_29395-E1" ROLE="Defendant"/>
+		
+  
+		<event_argument REFID="fsh_29395-V6" ROLE="Crime"/>
+		
+  
+		<event_mention ID="fsh_29395-EV15-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="4836" START="4795">he -- I believe he got
+first degree murder</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="4884" START="4743">And -- so it's kind of up in the air now -- because he -- I believe he got
+first degree murder and -- um and then got manslaughter on the baby</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="4816" START="4814">got</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="fsh_29395-E1-138" ROLE="Defendant">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4796" START="4795">he</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="fsh_29395-V6-1" ROLE="Crime">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4836" START="4818">first degree murder</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="fsh_29395-EV16" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Convict" TENSE="Unspecified" TYPE="Justice">
+		
+  
+		<event_argument REFID="fsh_29395-E1" ROLE="Defendant"/>
+		
+  
+		<event_argument REFID="fsh_29395-V7" ROLE="Crime"/>
+		
+  
+		<event_mention ID="fsh_29395-EV16-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="4872" START="4795">he -- I believe he got
+first degree murder and -- um and then got manslaughter</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="4884" START="4743">And -- so it's kind of up in the air now -- because he -- I believe he got
+first degree murder and -- um and then got manslaughter on the baby</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="4859" START="4857">got</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="fsh_29395-E1-138" ROLE="Defendant">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4796" START="4795">he</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="fsh_29395-V7-1" ROLE="Crime">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4872" START="4861">manslaughter</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="fsh_29395-EV17" MODALITY="Asserted" POLARITY="Negative" SUBTYPE="Convict" TENSE="Unspecified" TYPE="Justice">
+		
+  
+		<event_argument REFID="fsh_29395-E1" ROLE="Defendant"/>
+		
+  
+		<event_argument REFID="fsh_29395-V8" ROLE="Crime"/>
+		
+  
+		<event_mention ID="fsh_29395-EV17-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="4929" START="4891">he didn't get both first degree murders</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="4929" START="4888">So
+he didn't get both first degree murders</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="4903" START="4901">get</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="fsh_29395-E1-140" ROLE="Defendant">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4892" START="4891">he</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="fsh_29395-V8-1" ROLE="Crime">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4929" START="4910">first degree murders</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="fsh_29395-EV18" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Charge-Indict" TENSE="Unspecified" TYPE="Justice">
+		
+  
+		<event_argument REFID="fsh_29395-E17" ROLE="Adjudicator"/>
+		
+  
+		<event_argument REFID="fsh_29395-E1" ROLE="Defendant"/>
+		
+  
+		<event_mention ID="fsh_29395-EV18-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="5189" START="5134">charge
+on the baby, they couldn't automatically give him</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="5270" START="5111">And because of the the charge
+on the baby, they couldn't automatically give him the death penalty,
+but -- obviously there's enough -- um, complaints or whatever</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="5139" START="5134">charge</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="fsh_29395-E17-195" ROLE="Adjudicator">
+				
+      
+				<extent>
+					
+        
+					<charseq END="5157" START="5154">they</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="fsh_29395-E1-148" ROLE="Defendant">
+				
+      
+				<extent>
+					
+        
+					<charseq END="5189" START="5187">him</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="fsh_29395-EV19" MODALITY="Asserted" POLARITY="Negative" SUBTYPE="Sentence" TENSE="Unspecified" TYPE="Justice">
+		
+  
+		<event_argument REFID="fsh_29395-E17" ROLE="Adjudicator"/>
+		
+  
+		<event_argument REFID="fsh_29395-E1" ROLE="Defendant"/>
+		
+  
+		<event_argument REFID="fsh_29395-V9" ROLE="Sentence"/>
+		
+  
+		<event_mention ID="fsh_29395-EV19-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="5207" START="5154">they couldn't automatically give him the death penalty</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="5270" START="5111">And because of the the charge
+on the baby, they couldn't automatically give him the death penalty,
+but -- obviously there's enough -- um, complaints or whatever</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="5185" START="5182">give</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="fsh_29395-E17-195" ROLE="Adjudicator">
+				
+      
+				<extent>
+					
+        
+					<charseq END="5157" START="5154">they</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="fsh_29395-E1-148" ROLE="Defendant">
+				
+      
+				<extent>
+					
+        
+					<charseq END="5189" START="5187">him</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="fsh_29395-V9-1" ROLE="Sentence">
+				
+      
+				<extent>
+					
+        
+					<charseq END="5207" START="5191">the death penalty</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="fsh_29395-EV20" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Marry" TENSE="Unspecified" TYPE="Life">
+		
+  
+		<event_argument REFID="fsh_29395-E41" ROLE="Person"/>
+		
+  
+		<event_argument REFID="fsh_29395-T13" ROLE="Time-Holds"/>
+		
+  
+		<event_mention ID="fsh_29395-EV20-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="5830" START="5790">they were married that long, maybe a year</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="5837" START="5758">And actually I don't
+even think they were married that long, maybe a year or two</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="5806" START="5800">married</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="fsh_29395-E41-164" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="5793" START="5790">they</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="fsh_29395-T13-1" ROLE="Time-Holds">
+				
+      
+				<extent>
+					
+        
+					<charseq END="5830" START="5825">a year</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="fsh_29395-EV21" MODALITY="Other" POLARITY="Positive" SUBTYPE="Convict" TENSE="Unspecified" TYPE="Justice">
+		
+  
+		<event_argument REFID="fsh_29395-E16" ROLE="Defendant"/>
+		
+  
+		<event_argument REFID="fsh_29395-E17" ROLE="Adjudicator"/>
+		
+  
+		<event_mention ID="fsh_29395-EV21-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="4686" START="4597">they were in fact trying to enforce the death penalty on that
+charge if they were -- found</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="4709" START="4590">And -- they were in fact trying to enforce the death penalty on that
+charge if they were -- found guilty on both charges</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="4686" START="4682">found</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="fsh_29395-E16-136" ROLE="Defendant">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4672" START="4669">they</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="fsh_29395-E17-194" ROLE="Adjudicator">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4600" START="4597">they</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

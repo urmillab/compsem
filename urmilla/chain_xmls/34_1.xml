@@ -1,0 +1,236 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Specific" ID="AFP_ENG_20030519.0372-EV1" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="End-Org" TENSE="Past" TYPE="Business">
+		
+  
+		<event_argument REFID="AFP_ENG_20030519.0372-E10" ROLE="Org"/>
+		
+  
+		<event_argument REFID="AFP_ENG_20030519.0372-T14" ROLE="Time-At-Beginning"/>
+		
+  
+		<event_mention ID="AFP_ENG_20030519.0372-EV1-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1748" START="1685">crumbled along with Saddam
+Hussein's regime nearly six weeks ago</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1748" START="1576">In his frenzied first seven days, the telegenic Bremer repeatedly
+promised to restore the law and order that crumbled along with Saddam
+Hussein's regime nearly six weeks ago</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1692" START="1685">crumbled</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="AFP_ENG_20030519.0372-E10-49" ROLE="Org">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1727" START="1705">Saddam
+Hussein's regime</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="AFP_ENG_20030519.0372-T14-1" ROLE="Time-At-Beginning">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1748" START="1729">nearly six weeks ago</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="AFP_ENG_20030519.0372-EV4" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Past" TYPE="Conflict">
+		
+  
+		<event_argument REFID="AFP_ENG_20030519.0372-E33" ROLE="Place"/>
+		
+  
+		<event_argument REFID="AFP_ENG_20030519.0372-E5" ROLE="Place"/>
+		
+  
+		<event_mention ID="AFP_ENG_20030519.0372-EV4-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1880" START="1845">street violence plaguing the country</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1880" START="1752">But despite issuing a host of tough decrees, Bremer has failed to
+stem the rampant crime and street violence plaguing the country</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1859" START="1852">violence</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="AFP_ENG_20030519.0372-E33-52" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1850" START="1845">street</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="AFP_ENG_20030519.0372-E5-53" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1880" START="1870">the country</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="AFP_ENG_20030519.0372-EV5" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Past" TYPE="Conflict">
+		
+  
+		<event_mention ID="AFP_ENG_20030519.0372-EV5-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="2037" START="2035">war</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="2141" START="1884">Despite a security crackdown over the weekend in Baghdad and an
+announcement that some 7,000 policemen had returned to their jobs
+since the end of the war, ordinary Iraqis still felt unsafe on the
+street with gunfire rife and police a near invisible presence</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="2037" START="2035">war</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="AFP_ENG_20030519.0372-EV5-2">
+			
+    
+			<extent>
+				
+      
+				<charseq END="3360" START="3358">war</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="3365" START="3137">We want to have an Iraqi voice in everything we do here but it would
+be wrong to do that precipitously,&quot; said a source at the Organisation
+of Reconstruction and Humanitarian Assistance (ORHA), which is
+administering post-war Iraq</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="3360" START="3358">war</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

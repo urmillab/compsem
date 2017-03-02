@@ -1,0 +1,247 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Generic" ID="alt.atheism_20041104.2428-EV1" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_argument REFID="alt.atheism_20041104.2428-E33" ROLE="Attacker"/>
+		
+  
+		<event_mention ID="alt.atheism_20041104.2428-EV1-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="4799" START="4783">Israeli terrorism</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="4915" START="4630">But as long as &quot;criticism is anti-semitism&quot; is the
+mentality, don't act surprised that the Palestinians object
+to the Lebensraum (a/k/a settlements) and Israeli terrorism
+(bombings, shooting farmers in their fields, bulldozing crops,
+destroying schools, shooting children, etc. etc. etc</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="4799" START="4791">terrorism</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="alt.atheism_20041104.2428-E33-57" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4789" START="4783">Israeli</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="alt.atheism_20041104.2428-EV2" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_mention ID="alt.atheism_20041104.2428-EV2-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="4809" START="4802">bombings</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="4915" START="4630">But as long as &quot;criticism is anti-semitism&quot; is the
+mentality, don't act surprised that the Palestinians object
+to the Lebensraum (a/k/a settlements) and Israeli terrorism
+(bombings, shooting farmers in their fields, bulldozing crops,
+destroying schools, shooting children, etc. etc. etc</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="4809" START="4802">bombings</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="alt.atheism_20041104.2428-EV3" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_argument REFID="alt.atheism_20041104.2428-E71" ROLE="Place"/>
+		
+  
+		<event_argument REFID="alt.atheism_20041104.2428-E70" ROLE="Target"/>
+		
+  
+		<event_mention ID="alt.atheism_20041104.2428-EV3-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="4843" START="4812">shooting farmers in their fields</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="4915" START="4630">But as long as &quot;criticism is anti-semitism&quot; is the
+mentality, don't act surprised that the Palestinians object
+to the Lebensraum (a/k/a settlements) and Israeli terrorism
+(bombings, shooting farmers in their fields, bulldozing crops,
+destroying schools, shooting children, etc. etc. etc</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="4819" START="4812">shooting</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="alt.atheism_20041104.2428-E71-139" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4843" START="4832">their fields</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="alt.atheism_20041104.2428-E70-138" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4827" START="4821">farmers</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="alt.atheism_20041104.2428-EV4" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_argument REFID="alt.atheism_20041104.2428-E73" ROLE="Target"/>
+		
+  
+		<event_mention ID="alt.atheism_20041104.2428-EV4-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="4900" START="4884">shooting children</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="4915" START="4630">But as long as &quot;criticism is anti-semitism&quot; is the
+mentality, don't act surprised that the Palestinians object
+to the Lebensraum (a/k/a settlements) and Israeli terrorism
+(bombings, shooting farmers in their fields, bulldozing crops,
+destroying schools, shooting children, etc. etc. etc</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="4891" START="4884">shooting</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="alt.atheism_20041104.2428-E73-141" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4900" START="4893">children</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

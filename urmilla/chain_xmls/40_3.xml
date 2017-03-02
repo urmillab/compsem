@@ -1,0 +1,621 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Specific" ID="APW_ENG_20030520.0757-EV1" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Injure" TENSE="Past" TYPE="Life">
+		
+  
+		<event_argument REFID="APW_ENG_20030520.0757-E23" ROLE="Victim"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030520.0757-E24" ROLE="Victim"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030520.0757-E25" ROLE="Victim"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030520.0757-E26" ROLE="Victim"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030520.0757-E24" ROLE="Agent"/>
+		
+  
+		<event_mention ID="APW_ENG_20030520.0757-EV1-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1267" START="1190">killed 34 people 
+_  including nine attackers, eight Americans and two Britons</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1301" START="1177">The bombings killed 34 people 
+_  including nine attackers, eight Americans and two Britons  _  and
+wounded nearly 200 others</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1195" START="1190">killed</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030520.0757-E23-32" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1205" START="1197">34 people</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030520.0757-E24-33" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1234" START="1221">nine attackers</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030520.0757-E25-34" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1251" START="1237">eight Americans</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030520.0757-E26-35" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1267" START="1257">two Britons</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030520.0757-E24-33" ROLE="Agent">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1234" START="1221">nine attackers</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="APW_ENG_20030520.0757-EV7" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Arrest-Jail" TENSE="Past" TYPE="Justice">
+		
+  
+		<event_argument REFID="APW_ENG_20030520.0757-E17" ROLE="Person"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030520.0757-E20" ROLE="Place"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030520.0757-T3" ROLE="Time-Within"/>
+		
+  
+		<event_mention ID="APW_ENG_20030520.0757-EV7-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1047" START="937">Tuesday, Saudi security officials said three suspected al-Qaida
+militants were arrested in Jiddah, Saudi Arabia</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1174" START="934">On Tuesday, Saudi security officials said three suspected al-Qaida
+militants were arrested in Jiddah, Saudi Arabia, in sweeps following
+the near-simultaneous suicide attacks on three residential compounds
+on the outskirts of Riyadh on May 12</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1023" START="1016">arrested</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030520.0757-E17-25" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1009" START="976">three suspected al-Qaida
+militants</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030520.0757-E20-27" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1047" START="1028">Jiddah, Saudi Arabia</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030520.0757-T3-1" ROLE="Time-Within">
+				
+      
+				<extent>
+					
+        
+					<charseq END="943" START="937">Tuesday</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="APW_ENG_20030520.0757-EV8" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Past" TYPE="Conflict">
+		
+  
+		<event_argument REFID="APW_ENG_20030520.0757-E22" ROLE="Place"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030520.0757-E21" ROLE="Target"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030520.0757-T4" ROLE="Time-Within"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030520.0757-E24" ROLE="Attacker"/>
+		
+  
+		<event_mention ID="APW_ENG_20030520.0757-EV8-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1174" START="1100">attacks on three residential compounds
+on the outskirts of Riyadh on May 12</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1174" START="934">On Tuesday, Saudi security officials said three suspected al-Qaida
+militants were arrested in Jiddah, Saudi Arabia, in sweeps following
+the near-simultaneous suicide attacks on three residential compounds
+on the outskirts of Riyadh on May 12</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1106" START="1100">attacks</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030520.0757-E22-30" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1164" START="1142">the outskirts of Riyadh</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030520.0757-E21-29" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1164" START="1111">three residential compounds
+on the outskirts of Riyadh</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030520.0757-T4-1" ROLE="Time-Within">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1174" START="1169">May 12</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="APW_ENG_20030520.0757-EV8-2">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1234" START="1181">bombings killed 34 people 
+_  including nine attackers</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1301" START="1177">The bombings killed 34 people 
+_  including nine attackers, eight Americans and two Britons  _  and
+wounded nearly 200 others</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1188" START="1181">bombings</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030520.0757-E24-33" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1234" START="1221">nine attackers</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="APW_ENG_20030520.0757-EV9" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Die" TENSE="Past" TYPE="Life">
+		
+  
+		<event_argument REFID="APW_ENG_20030520.0757-E22" ROLE="Place"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030520.0757-T4" ROLE="Time-Within"/>
+		
+  
+		<event_mention ID="APW_ENG_20030520.0757-EV9-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1174" START="1092">suicide attacks on three residential compounds
+on the outskirts of Riyadh on May 12</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1174" START="934">On Tuesday, Saudi security officials said three suspected al-Qaida
+militants were arrested in Jiddah, Saudi Arabia, in sweeps following
+the near-simultaneous suicide attacks on three residential compounds
+on the outskirts of Riyadh on May 12</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1098" START="1092">suicide</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030520.0757-E22-30" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1164" START="1142">the outskirts of Riyadh</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030520.0757-T4-1" ROLE="Time-Within">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1174" START="1169">May 12</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="APW_ENG_20030520.0757-EV10" MODALITY="Other" POLARITY="Positive" SUBTYPE="Attack" TENSE="Future" TYPE="Conflict">
+		
+  
+		<event_argument REFID="APW_ENG_20030520.0757-E18" ROLE="Attacker"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030520.0757-E9" ROLE="Place"/>
+		
+  
+		<event_mention ID="APW_ENG_20030520.0757-EV10-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1477" START="1392">Osama bin Laden's al-Qaida group possibly
+launching fresh attacks in the United States</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1516" START="1305">Earlier this week, Saudi and U.S. officials said they had new
+intelligence pointing to Osama bin Laden's al-Qaida group possibly
+launching fresh attacks in the United States or against American
+interests overseas</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1456" START="1450">attacks</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030520.0757-E18-42" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1423" START="1392">Osama bin Laden's al-Qaida group</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030520.0757-E9-44" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1477" START="1461">the United States</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="APW_ENG_20030520.0757-EV12" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Injure" TENSE="Unspecified" TYPE="Life">
+		
+  
+		<event_argument REFID="APW_ENG_20030520.0757-E27" ROLE="Victim"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030520.0757-E24" ROLE="Agent"/>
+		
+  
+		<event_mention ID="APW_ENG_20030520.0757-EV12-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1301" START="1221">nine attackers, eight Americans and two Britons  _  and
+wounded nearly 200 others</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1301" START="1177">The bombings killed 34 people 
+_  including nine attackers, eight Americans and two Britons  _  and
+wounded nearly 200 others</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1283" START="1277">wounded</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030520.0757-E27-36" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1301" START="1285">nearly 200 others</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030520.0757-E24-33" ROLE="Agent">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1234" START="1221">nine attackers</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

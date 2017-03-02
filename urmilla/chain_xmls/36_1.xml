@@ -1,0 +1,721 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Specific" ID="APW_ENG_20030411.0304-EV1" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Charge-Indict" TENSE="Unspecified" TYPE="Justice">
+		
+  
+		<event_argument REFID="APW_ENG_20030411.0304-E8" ROLE="Defendant"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030411.0304-E5" ROLE="Prosecutor"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030411.0304-E19" ROLE="Place"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030411.0304-V2" ROLE="Crime"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030411.0304-E3" ROLE="Adjudicator"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030411.0304-E15" ROLE="Place"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030411.0304-V3" ROLE="Crime"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030411.0304-V4" ROLE="Crime"/>
+		
+  
+		<event_mention ID="APW_ENG_20030411.0304-EV1-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="287" START="148">former Zambian president Frederick Chiluba was
+reprimanded by a Lusaka magistrate when his client failed to appear
+in court on theft charges</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="294" START="134">The lawyer of former Zambian president Frederick Chiluba was
+reprimanded by a Lusaka magistrate when his client failed to appear
+in court on theft charges Friday</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="287" START="281">charges</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030411.0304-E8-32" ROLE="Defendant">
+				
+      
+				<extent>
+					
+        
+					<charseq END="189" START="148">former Zambian president Frederick Chiluba</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030411.0304-E5-12" ROLE="Prosecutor">
+				
+      
+				<extent>
+					
+        
+					<charseq END="228" START="210">a Lusaka magistrate</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030411.0304-E19-10" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="270" START="266">court</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030411.0304-V2-1" ROLE="Crime">
+				
+      
+				<extent>
+					
+        
+					<charseq END="279" START="275">theft</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="APW_ENG_20030411.0304-EV1-2">
+			
+    
+			<extent>
+				
+      
+				<charseq END="410" START="298">Chiluba, who is accused of stealing millions of dollars while in
+office, did not appear at the Lusaka magistrates</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="497" START="298">Chiluba, who is accused of stealing millions of dollars while in
+office, did not appear at the Lusaka magistrates court as scheduled
+because he has filed an appeal to have case heard at a higher court</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="320" START="314">accused</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030411.0304-E3-6" ROLE="Adjudicator">
+				
+      
+				<extent>
+					
+        
+					<charseq END="410" START="393">Lusaka magistrates</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030411.0304-E8-42" ROLE="Defendant">
+				
+      
+				<extent>
+					
+        
+					<charseq END="368" START="298">Chiluba, who is accused of stealing millions of dollars while in
+office</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030411.0304-E15-46" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="398" START="393">Lusaka</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030411.0304-V3-1" ROLE="Crime">
+				
+      
+				<extent>
+					
+        
+					<charseq END="368" START="325">stealing millions of dollars while in
+office</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="APW_ENG_20030411.0304-EV1-3">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1211" START="1070">Chiluba faces 65 counts of theft including that of 15 billion kwacha
+(US$3 million) in cash from the Zambia National Commercial Bank in
+Lusaka</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1211" START="1070">Chiluba faces 65 counts of theft including that of 15 billion kwacha
+(US$3 million) in cash from the Zambia National Commercial Bank in
+Lusaka</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1082" START="1078">faces</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030411.0304-E8-29" ROLE="Defendant">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1076" START="1070">Chiluba</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030411.0304-E15-24" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1211" START="1206">Lusaka</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030411.0304-V4-1" ROLE="Crime">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1211" START="1084">65 counts of theft including that of 15 billion kwacha
+(US$3 million) in cash from the Zambia National Commercial Bank in
+Lusaka</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="APW_ENG_20030411.0304-EV3" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Charge-Indict" TENSE="Unspecified" TYPE="Justice">
+		
+  
+		<event_argument REFID="APW_ENG_20030411.0304-E8" ROLE="Defendant"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030411.0304-V3" ROLE="Crime"/>
+		
+  
+		<event_mention ID="APW_ENG_20030411.0304-EV3-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="368" START="298">Chiluba, who is accused of stealing millions of dollars while in
+office</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="497" START="298">Chiluba, who is accused of stealing millions of dollars while in
+office, did not appear at the Lusaka magistrates court as scheduled
+because he has filed an appeal to have case heard at a higher court</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="320" START="314">accused</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030411.0304-E8-42" ROLE="Defendant">
+				
+      
+				<extent>
+					
+        
+					<charseq END="368" START="298">Chiluba, who is accused of stealing millions of dollars while in
+office</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030411.0304-V3-1" ROLE="Crime">
+				
+      
+				<extent>
+					
+        
+					<charseq END="368" START="325">stealing millions of dollars while in
+office</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="APW_ENG_20030411.0304-EV5" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Appeal" TENSE="Past" TYPE="Justice">
+		
+  
+		<event_argument REFID="APW_ENG_20030411.0304-V3" ROLE="Crime"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030411.0304-E1" ROLE="Adjudicator"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030411.0304-E8" ROLE="Plaintiff"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030411.0304-E19" ROLE="Place"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030411.0304-E10" ROLE="Adjudicator"/>
+		
+  
+		<event_mention ID="APW_ENG_20030411.0304-EV5-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="497" START="298">Chiluba, who is accused of stealing millions of dollars while in
+office, did not appear at the Lusaka magistrates court as scheduled
+because he has filed an appeal to have case heard at a higher court</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="497" START="298">Chiluba, who is accused of stealing millions of dollars while in
+office, did not appear at the Lusaka magistrates court as scheduled
+because he has filed an appeal to have case heard at a higher court</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="460" START="455">appeal</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030411.0304-V3-1" ROLE="Crime">
+				
+      
+				<extent>
+					
+        
+					<charseq END="368" START="325">stealing millions of dollars while in
+office</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030411.0304-E1-48" ROLE="Adjudicator">
+				
+      
+				<extent>
+					
+        
+					<charseq END="497" START="484">a higher court</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030411.0304-E8-42" ROLE="Plaintiff">
+				
+      
+				<extent>
+					
+        
+					<charseq END="368" START="298">Chiluba, who is accused of stealing millions of dollars while in
+office</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="APW_ENG_20030411.0304-EV5-2">
+			
+    
+			<extent>
+				
+      
+				<charseq END="701" START="501">Chiluba's lawyer, Chifumu Banda, told the court he had advised
+Chiluba not to appear in court Friday, following an agreement with
+the prosecution that the case be postponed for a month while the
+appeal</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="715" START="501">Chiluba's lawyer, Chifumu Banda, told the court he had advised
+Chiluba not to appear in court Friday, following an agreement with
+the prosecution that the case be postponed for a month while the
+appeal is considered</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="701" START="696">appeal</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030411.0304-E19-9" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="593" START="589">court</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030411.0304-E10-31" ROLE="Adjudicator">
+				
+      
+				<extent>
+					
+        
+					<charseq END="547" START="539">the court</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030411.0304-E8-4" ROLE="Plaintiff">
+				
+      
+				<extent>
+					
+        
+					<charseq END="507" START="501">Chiluba</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="APW_ENG_20030411.0304-EV6" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Trial-Hearing" TENSE="Future" TYPE="Justice">
+		
+  
+		<event_argument REFID="APW_ENG_20030411.0304-E8" ROLE="Defendant"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030411.0304-T4" ROLE="Time-At-End"/>
+		
+  
+		<event_mention ID="APW_ENG_20030411.0304-EV6-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="684" START="501">Chiluba's lawyer, Chifumu Banda, told the court he had advised
+Chiluba not to appear in court Friday, following an agreement with
+the prosecution that the case be postponed for a month</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="715" START="501">Chiluba's lawyer, Chifumu Banda, told the court he had advised
+Chiluba not to appear in court Friday, following an agreement with
+the prosecution that the case be postponed for a month while the
+appeal is considered</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="659" START="656">case</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030411.0304-E8-4" ROLE="Defendant">
+				
+      
+				<extent>
+					
+        
+					<charseq END="507" START="501">Chiluba</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030411.0304-T4-1" ROLE="Time-At-End">
+				
+      
+				<extent>
+					
+        
+					<charseq END="684" START="678">a month</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="APW_ENG_20030411.0304-EV7" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Charge-Indict" TENSE="Unspecified" TYPE="Justice">
+		
+  
+		<event_argument REFID="APW_ENG_20030411.0304-E4" ROLE="Defendant"/>
+		
+  
+		<event_mention ID="APW_ENG_20030411.0304-EV7-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="781" START="765">an accused person</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="939" START="721">The matter is before this court and whether an accused person
+wishes to request for an adjournment or they wish to be absent for
+any other reason, such a request must be done here,'' said Magistrate
+Christopher Shacifwa</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="774" START="768">accused</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030411.0304-E4-13" ROLE="Defendant">
+				
+      
+				<extent>
+					
+        
+					<charseq END="781" START="765">an accused person</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

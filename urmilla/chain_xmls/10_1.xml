@@ -1,0 +1,691 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Specific" ID="CNN_ENG_20030403_183513.1-EV1" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_argument REFID="CNN_ENG_20030403_183513.1-E13" ROLE="Place"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030403_183513.1-E13" ROLE="Target"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030403_183513.1-EV1-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="118" START="108">war on iraq</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="118" START="67">these are the latest developments in the war on iraq</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="110" START="108">war</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030403_183513.1-E13-32" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="118" START="115">iraq</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030403_183513.1-E13-32" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="118" START="115">iraq</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_ENG_20030403_183513.1-EV2" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Transport" TENSE="Past" TYPE="Movement">
+		
+  
+		<event_argument REFID="CNN_ENG_20030403_183513.1-E27" ROLE="Artifact"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030403_183513.1-E29" ROLE="Destination"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030403_183513.1-T2" ROLE="Time-Ending"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030403_183513.1-EV2-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="205" START="134">tonight said coalition troops have reached baghdad
+international airport</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="205" START="121">the
+pentagon tonight said coalition troops have reached baghdad
+international airport</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="175" START="169">reached</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030403_183513.1-E27-34" ROLE="Artifact">
+				
+      
+				<extent>
+					
+        
+					<charseq END="162" START="147">coalition troops</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030403_183513.1-E29-36" ROLE="Destination">
+				
+      
+				<extent>
+					
+        
+					<charseq END="205" START="177">baghdad
+international airport</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030403_183513.1-T2-1" ROLE="Time-Ending">
+				
+      
+				<extent>
+					
+        
+					<charseq END="140" START="134">tonight</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_ENG_20030403_183513.1-EV3" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Present" TYPE="Conflict">
+		
+  
+		<event_argument REFID="CNN_ENG_20030403_183513.1-E27" ROLE="Attacker"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030403_183513.1-E30" ROLE="Attacker"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030403_183513.1-E13" ROLE="Place"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030403_183513.1-E27" ROLE="Target"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030403_183513.1-E30" ROLE="Target"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030403_183513.1-EV3-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="262" START="208">troops are involved in heavy
+fighting with iraqi forces</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="262" START="208">troops are involved in heavy
+fighting with iraqi forces</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="246" START="237">fighting w</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030403_183513.1-E27-37" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="213" START="208">troops</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030403_183513.1-E30-25" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="262" START="251">iraqi forces</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030403_183513.1-E13-39" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="255" START="251">iraqi</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030403_183513.1-E27-37" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="213" START="208">troops</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030403_183513.1-E30-25" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="262" START="251">iraqi forces</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_ENG_20030403_183513.1-EV4" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_argument REFID="CNN_ENG_20030403_183513.1-E34" ROLE="Target"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030403_183513.1-EV4-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="400" START="365">airport buildings have been attacked</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="432" START="346">reports
+suggesting airport buildings have been attacked, but
+runways remain operational</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="400" START="393">attacked</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030403_183513.1-E34-43" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="381" START="365">airport buildings</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_ENG_20030403_183513.1-EV5" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_argument REFID="CNN_ENG_20030403_183513.1-E1" ROLE="Place"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030403_183513.1-E1" ROLE="Target"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030403_183513.1-T3" ROLE="Time-Within"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030403_183513.1-EV5-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="495" START="435">tonight, a series of large
+explosions rocking central baghdad</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="556" START="435">tonight, a series of large
+explosions rocking central baghdad, as we've been reporting
+to you over the course of this hour</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="471" START="462">explosions</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030403_183513.1-E1-45" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="495" START="481">central baghdad</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030403_183513.1-E1-45" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="495" START="481">central baghdad</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030403_183513.1-T3-1" ROLE="Time-Within">
+				
+      
+				<extent>
+					
+        
+					<charseq END="441" START="435">tonight</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_ENG_20030403_183513.1-EV6" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_argument REFID="CNN_ENG_20030403_183513.1-E10" ROLE="Attacker"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030403_183513.1-E11" ROLE="Attacker"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030403_183513.1-E32" ROLE="Target"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030403_183513.1-EV6-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="901" START="813">the army's 3rd infantry division 1st marine division,
+leading the assault against baghdad</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="901" START="813">the army's 3rd infantry division 1st marine division,
+leading the assault against baghdad</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="885" START="879">assault</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030403_183513.1-E10-11" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="844" START="813">the army's 3rd infantry division</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030403_183513.1-E11-12" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="864" START="846">1st marine division</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030403_183513.1-E32-8" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="901" START="895">baghdad</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_ENG_20030403_183513.1-EV7" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Past" TYPE="Conflict">
+		
+  
+		<event_argument REFID="CNN_ENG_20030403_183513.1-E12" ROLE="Target"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030403_183513.1-E14" ROLE="Target"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030403_183513.1-EV7-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1060" START="1007">destroyed dozens of iraqi tanks
+and personnel carriers</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1088" START="992">armored forces destroyed dozens of iraqi tanks
+and personnel carriers in their advance on baghdad</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1015" START="1007">destroyed</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030403_183513.1-E12-14" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1037" START="1017">dozens of iraqi tanks</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030403_183513.1-E14-16" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1060" START="1043">personnel carriers</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_ENG_20030403_183513.1-EV8" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Transport" TENSE="Unspecified" TYPE="Movement">
+		
+  
+		<event_argument REFID="CNN_ENG_20030403_183513.1-E32" ROLE="Destination"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030403_183513.1-EV8-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1088" START="1071">advance on baghdad</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1088" START="992">armored forces destroyed dozens of iraqi tanks
+and personnel carriers in their advance on baghdad</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1077" START="1071">advance</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030403_183513.1-E32-17" ROLE="Destination">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1088" START="1082">baghdad</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

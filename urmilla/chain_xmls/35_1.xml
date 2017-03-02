@@ -1,0 +1,854 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Specific" ID="APW_ENG_20030325.0786-EV1" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Divorce" TENSE="Unspecified" TYPE="Life">
+		
+  
+		<event_argument REFID="APW_ENG_20030325.0786-E29" ROLE="Person"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030325.0786-E28" ROLE="Person"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030325.0786-E24" ROLE="Person"/>
+		
+  
+		<event_mention ID="APW_ENG_20030325.0786-EV1-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="279" START="235">his estranged wife in his high-stakes
+divorce</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="284" START="149">Retired General Electric Co. Chairman Jack Welch is seeking
+work-related documents of his estranged wife in his high-stakes
+divorce case</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="279" START="273">divorce</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030325.0786-E28-63" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="252" START="235">his estranged wife</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030325.0786-E24-65" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="259" START="257">his</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="APW_ENG_20030325.0786-EV1-2">
+			
+    
+			<extent>
+				
+      
+				<charseq END="331" START="288">The Welches disclosed their plans to divorce</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="514" START="288">The Welches disclosed their plans to divorce a year ago, shortly
+after Suzy Wetlaufer  _  then editor of the Harvard Business Review 
+_ revealed she had become romantically involved with Welch while
+working on a story about him</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="331" START="325">divorce</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030325.0786-E29-66" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="298" START="288">The Welches</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="APW_ENG_20030325.0786-EV1-3">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1386" START="1380">divorce</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1416" START="1330">A judge ruled in February that depositions in the divorce case will
+remain confidential</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1386" START="1380">divorce</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="APW_ENG_20030325.0786-EV2" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="End-Position" TENSE="Past" TYPE="Personnel">
+		
+  
+		<event_argument REFID="APW_ENG_20030325.0786-E24" ROLE="Person"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030325.0786-E26" ROLE="Entity"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030325.0786-V4" ROLE="Position"/>
+		
+  
+		<event_mention ID="APW_ENG_20030325.0786-EV2-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="196" START="149">Retired General Electric Co. Chairman Jack Welch</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="284" START="149">Retired General Electric Co. Chairman Jack Welch is seeking
+work-related documents of his estranged wife in his high-stakes
+divorce case</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="155" START="149">Retired</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030325.0786-E24-60" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="196" START="149">Retired General Electric Co. Chairman Jack Welch</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030325.0786-E26-62" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="175" START="157">General Electric Co</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030325.0786-V4-1" ROLE="Position">
+				
+      
+				<extent>
+					
+        
+					<charseq END="185" START="178">Chairman</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="APW_ENG_20030325.0786-EV3" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Marry" TENSE="Past" TYPE="Life">
+		
+  
+		<event_argument REFID="APW_ENG_20030325.0786-E28" ROLE="Person"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030325.0786-E24" ROLE="Person"/>
+		
+  
+		<event_mention ID="APW_ENG_20030325.0786-EV3-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="909" START="893">she married Welch</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="909" START="718">He
+also wants to subpoena all documents maintained in Jane Beasley
+Welch's personnel file by Shearman &amp; Sterling, a prestigious
+corporate law firm where she worked before she married Welch</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="903" START="897">married</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030325.0786-E28-18" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="895" START="893">she</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030325.0786-E24-19" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="909" START="905">Welch</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="APW_ENG_20030325.0786-EV4" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="End-Position" TENSE="Unspecified" TYPE="Personnel">
+		
+  
+		<event_argument REFID="APW_ENG_20030325.0786-E28" ROLE="Person"/>
+		
+  
+		<event_mention ID="APW_ENG_20030325.0786-EV4-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1215" START="1167">Jane Beasley Welch's salary, benefits,
+retirement</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1255" START="1139">Welch also wants details on Jane Beasley Welch's salary, benefits,
+retirement plan and other compensation paid to her</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1215" START="1206">retirement</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030325.0786-E28-30" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1184" START="1167">Jane Beasley Welch</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="APW_ENG_20030325.0786-EV5" MODALITY="Other" POLARITY="Positive" SUBTYPE="Start-Position" TENSE="Future" TYPE="Personnel">
+		
+  
+		<event_argument REFID="APW_ENG_20030325.0786-E28" ROLE="Person"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030325.0786-E6" ROLE="Entity"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030325.0786-V5" ROLE="Position"/>
+		
+  
+		<event_mention ID="APW_ENG_20030325.0786-EV5-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1135" START="1043">the law
+firm's office in London, and documents related to her prospects of
+becoming a partner</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1135" START="913">Welch specifically is seeking performance evaluations, correspondence
+between his estranged wife and partners while she worked at the law
+firm's office in London, and documents related to her prospects of
+becoming a partner</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1125" START="1118">becoming</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030325.0786-E28-27" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1103" START="1101">her</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030325.0786-E6-25" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1054" START="1043">the law
+firm</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030325.0786-V5-1" ROLE="Position">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1135" START="1127">a partner</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="APW_ENG_20030325.0786-EV6" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Marry" TENSE="Past" TYPE="Life">
+		
+  
+		<event_argument REFID="APW_ENG_20030325.0786-E29" ROLE="Person"/>
+		
+  
+		<event_mention ID="APW_ENG_20030325.0786-EV6-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1871" START="1841">the Welches' previous
+marriages</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1953" START="1797">Webb also said details of the breakdowns of the Welches' previous
+marriages were likely to come up, and cited reports of alleged
+extramarital affairs by both</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1871" START="1863">marriages</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030325.0786-E29-50" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1851" START="1841">the Welches</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="APW_ENG_20030325.0786-EV7" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Divorce" TENSE="Past" TYPE="Life">
+		
+  
+		<event_argument REFID="APW_ENG_20030325.0786-E29" ROLE="Person"/>
+		
+  
+		<event_mention ID="APW_ENG_20030325.0786-EV7-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1851" START="1827">breakdowns of the Welches</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1953" START="1797">Webb also said details of the breakdowns of the Welches' previous
+marriages were likely to come up, and cited reports of alleged
+extramarital affairs by both</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1836" START="1827">breakdowns</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030325.0786-E29-50" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1851" START="1841">the Welches</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="APW_ENG_20030325.0786-EV8" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Phone-Write" TENSE="Past" TYPE="Contact">
+		
+  
+		<event_argument REFID="APW_ENG_20030325.0786-E9" ROLE="Place"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030325.0786-E28" ROLE="Entity"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030325.0786-E8" ROLE="Entity"/>
+		
+  
+		<event_mention ID="APW_ENG_20030325.0786-EV8-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1073" START="968">correspondence
+between his estranged wife and partners while she worked at the law
+firm's office in London</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1135" START="913">Welch specifically is seeking performance evaluations, correspondence
+between his estranged wife and partners while she worked at the law
+firm's office in London, and documents related to her prospects of
+becoming a partner</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="981" START="968">correspondence</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030325.0786-E9-24" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1073" START="1043">the law
+firm's office in London</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030325.0786-E28-21" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1008" START="991">his estranged wife</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030325.0786-E8-22" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1021" START="1014">partners</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="APW_ENG_20030325.0786-EV9" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Transfer-Money" TENSE="Past" TYPE="Transaction">
+		
+  
+		<event_argument REFID="APW_ENG_20030325.0786-E28" ROLE="Recipient"/>
+		
+  
+		<event_mention ID="APW_ENG_20030325.0786-EV9-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1248" START="1167">Jane Beasley Welch's salary, benefits,
+retirement plan and other compensation paid</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1255" START="1139">Welch also wants details on Jane Beasley Welch's salary, benefits,
+retirement plan and other compensation paid to her</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1248" START="1245">paid</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030325.0786-E28-30" ROLE="Recipient">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1184" START="1167">Jane Beasley Welch</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="APW_ENG_20030325.0786-EV10" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="End-Position" TENSE="Unspecified" TYPE="Personnel">
+		
+  
+		<event_argument REFID="APW_ENG_20030325.0786-E24" ROLE="Person"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030325.0786-E26" ROLE="Entity"/>
+		
+  
+		<event_mention ID="APW_ENG_20030325.0786-EV10-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1552" START="1497">Welch received as part of his retirement package from GE</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1608" START="1420">Earlier documents in the case have included embarrassing details
+about perks Welch received as part of his retirement package from GE
+at a time when corporate scandals were sparking outrage</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1536" START="1527">retirement</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030325.0786-E24-38" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1501" START="1497">Welch</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030325.0786-E26-40" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1552" START="1551">GE</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

@@ -1,0 +1,158 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Specific" ID="CNNHL_ENG_20030523_221118.14-EV1" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Meet" TENSE="Past" TYPE="Contact">
+		
+  
+		<event_argument REFID="CNNHL_ENG_20030523_221118.14-E14" ROLE="Place"/>
+		
+  
+		<event_argument REFID="CNNHL_ENG_20030523_221118.14-E7" ROLE="Entity"/>
+		
+  
+		<event_argument REFID="CNNHL_ENG_20030523_221118.14-E10" ROLE="Entity"/>
+		
+  
+		<event_argument REFID="CNNHL_ENG_20030523_221118.14-E11" ROLE="Entity"/>
+		
+  
+		<event_mention ID="CNNHL_ENG_20030523_221118.14-EV1-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="290" START="183">they have reunited with
+their families and friends, at the aircraft carrier's home port in
+norfolk, virginia</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="290" START="183">they have reunited with
+their families and friends, at the aircraft carrier's home port in
+norfolk, virginia</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="200" START="193">reunited</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNNHL_ENG_20030523_221118.14-E14-18" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="290" START="274">norfolk, virginia</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNNHL_ENG_20030523_221118.14-E7-11" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="186" START="183">they</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNNHL_ENG_20030523_221118.14-E10-13" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="232" START="207">their families and friends</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNNHL_ENG_20030523_221118.14-E11-14" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="232" START="207">their families and friends</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNNHL_ENG_20030523_221118.14-EV2" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Meet" TENSE="Past" TYPE="Contact">
+		
+  
+		<event_mention ID="CNNHL_ENG_20030523_221118.14-EV2-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="365" START="363">war</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="365" START="293">the &quot;truman&quot; is the first east coast-based carrier
+to return from the war</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="365" START="363">war</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

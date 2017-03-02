@@ -1,0 +1,310 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Specific" ID="CNN_ENG_20030604_092828.7-EV1" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Die" TENSE="Past" TYPE="Life">
+		
+  
+		<event_argument REFID="CNN_ENG_20030604_092828.7-E1" ROLE="Victim"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030604_092828.7-E2" ROLE="Victim"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030604_092828.7-E10" ROLE="Agent"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030604_092828.7-EV1-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="535" START="460">peterson awaiting
+trial in the murder of his wife lace sand their unborn son</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="535" START="460">peterson awaiting
+trial in the murder of his wife lace sand their unborn son</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="496" START="491">murder</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030604_092828.7-E1-2" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="508" START="501">his wife</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030604_092828.7-E2-6" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="535" START="520">their unborn son</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030604_092828.7-E10-24" ROLE="Agent">
+				
+      
+				<extent>
+					
+        
+					<charseq END="467" START="460">peterson</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_ENG_20030604_092828.7-EV2" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Trial-Hearing" TENSE="Unspecified" TYPE="Justice">
+		
+  
+		<event_argument REFID="CNN_ENG_20030604_092828.7-E10" ROLE="Defendant"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030604_092828.7-V2" ROLE="Crime"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030604_092828.7-EV2-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="254" START="235">scott's murder trial</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="254" START="159">a pair of laci peterson's missing shoes could be
+very important evidence in scott's murder trial</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="254" START="250">trial</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030604_092828.7-E10-16" ROLE="Defendant">
+				
+      
+				<extent>
+					
+        
+					<charseq END="239" START="235">scott</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030604_092828.7-V2-1" ROLE="Crime">
+				
+      
+				<extent>
+					
+        
+					<charseq END="248" START="243">murder</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_ENG_20030604_092828.7-EV3" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Arrest-Jail" TENSE="Past" TYPE="Justice">
+		
+  
+		<event_argument REFID="CNN_ENG_20030604_092828.7-E10" ROLE="Person"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030604_092828.7-EV3-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="457" START="435">scott peterson's arrest</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="457" START="313">no sign of geragos or peterson in
+court yesterday when a judge was considering whether to unseal
+warrants obtained before scott peterson's arrest</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="457" START="452">arrest</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030604_092828.7-E10-23" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="448" START="435">scott peterson</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_ENG_20030604_092828.7-EV4" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Trial-Hearing" TENSE="Future" TYPE="Justice">
+		
+  
+		<event_argument REFID="CNN_ENG_20030604_092828.7-E10" ROLE="Defendant"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030604_092828.7-V1" ROLE="Crime"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030604_092828.7-EV4-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="535" START="460">peterson awaiting
+trial in the murder of his wife lace sand their unborn son</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="535" START="460">peterson awaiting
+trial in the murder of his wife lace sand their unborn son</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="482" START="478">trial</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030604_092828.7-E10-24" ROLE="Defendant">
+				
+      
+				<extent>
+					
+        
+					<charseq END="467" START="460">peterson</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030604_092828.7-V1-1" ROLE="Crime">
+				
+      
+				<extent>
+					
+        
+					<charseq END="535" START="487">the murder of his wife lace sand their unborn son</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

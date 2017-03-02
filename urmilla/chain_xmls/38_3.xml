@@ -1,0 +1,235 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Specific" ID="APW_ENG_20030422.0469-EV5" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Transport" TENSE="Past" TYPE="Movement">
+		
+  
+		<event_argument REFID="APW_ENG_20030422.0469-E12" ROLE="Person"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030422.0469-E28" ROLE="Destination"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030422.0469-T14" ROLE="Time-Holds"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030422.0469-T12" ROLE="Time-At-End"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030422.0469-T13" ROLE="Time-Within"/>
+		
+  
+		<event_mention ID="APW_ENG_20030422.0469-EV5-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="4832" START="4687">U.N. inspectors went back to Iraq for the first time in four years in
+late November and discovered no weapons of mass destruction during 3{
+months</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="4845" START="4687">U.N. inspectors went back to Iraq for the first time in four years in
+late November and discovered no weapons of mass destruction during 3{
+months of searching</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="4711" START="4703">went back</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030422.0469-E12-170" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4701" START="4687">U.N. inspectors</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030422.0469-E28-72" ROLE="Destination">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4719" START="4716">Iraq</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030422.0469-T14-1" ROLE="Time-Holds">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4832" START="4824">3{
+months</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030422.0469-T12-1" ROLE="Time-At-End">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4752" START="4743">four years</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030422.0469-T13-1" ROLE="Time-Within">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4769" START="4757">late November</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="APW_ENG_20030422.0469-EV11" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Transport" TENSE="Past" TYPE="Movement">
+		
+  
+		<event_argument REFID="APW_ENG_20030422.0469-E71" ROLE="Person"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030422.0469-E28" ROLE="Origin"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030422.0469-T15" ROLE="Time-Before"/>
+		
+  
+		<event_mention ID="APW_ENG_20030422.0469-EV11-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="4991" START="4885">all U.N.
+international staff, including the inspectors, to leave Iraq just
+before the war began on March 20</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="4991" START="4848">Secretary-General Kofi Annan ordered all U.N.
+international staff, including the inspectors, to leave Iraq just
+before the war began on March 20</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="4948" START="4944">leave</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030422.0469-E71-140" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4938" START="4885">all U.N.
+international staff, including the inspectors</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030422.0469-E28-87" ROLE="Origin">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4953" START="4950">Iraq</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030422.0469-T15-1" ROLE="Time-Before">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4991" START="4984">March 20</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

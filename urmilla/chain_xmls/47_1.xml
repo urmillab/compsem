@@ -1,0 +1,441 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Generic" ID="AGGRESSIVEVOICEDAILY_20041223.1449-EV1" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Transfer-Money" TENSE="Unspecified" TYPE="Transaction">
+		
+  
+		<event_argument REFID="AGGRESSIVEVOICEDAILY_20041223.1449-E10" ROLE="Giver"/>
+		
+  
+		<event_argument REFID="AGGRESSIVEVOICEDAILY_20041223.1449-E13" ROLE="Beneficiary"/>
+		
+  
+		<event_argument REFID="AGGRESSIVEVOICEDAILY_20041223.1449-E13" ROLE="Recipient"/>
+		
+  
+		<event_mention ID="AGGRESSIVEVOICEDAILY_20041223.1449-EV1-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1470" START="1412">Planned Parenthood, which
+gives a lot of money to Democrats</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1565" START="1370">Of course outspoken organizations such as Planned Parenthood, which
+gives a lot of money to Democrats, will fight with everything they've
+got to keep the Democratic platform as liberal as possible</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1442" START="1438">gives</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="AGGRESSIVEVOICEDAILY_20041223.1449-E10-19" ROLE="Giver">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1429" START="1412">Planned Parenthood</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="AGGRESSIVEVOICEDAILY_20041223.1449-E13-20" ROLE="Beneficiary">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1470" START="1462">Democrats</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="AGGRESSIVEVOICEDAILY_20041223.1449-E13-20" ROLE="Recipient">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1470" START="1462">Democrats</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="AGGRESSIVEVOICEDAILY_20041223.1449-EV2" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Elect" TENSE="Unspecified" TYPE="Personnel">
+		
+  
+		<event_mention ID="AGGRESSIVEVOICEDAILY_20041223.1449-EV2-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="488" START="480">elections</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="494" START="413">Of course, I'm sure the
+Democrats would also like to start winning elections again</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="488" START="480">elections</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="AGGRESSIVEVOICEDAILY_20041223.1449-EV3" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="End-Position" TENSE="Past" TYPE="Personnel">
+		
+  
+		<event_argument REFID="AGGRESSIVEVOICEDAILY_20041223.1449-E2" ROLE="Person"/>
+		
+  
+		<event_argument REFID="AGGRESSIVEVOICEDAILY_20041223.1449-V1" ROLE="Position"/>
+		
+  
+		<event_argument REFID="AGGRESSIVEVOICEDAILY_20041223.1449-T3" ROLE="Time-Within"/>
+		
+  
+		<event_mention ID="AGGRESSIVEVOICEDAILY_20041223.1449-EV3-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="924" START="864">former Vermont
+Gov. Howard Dean, who supports abortion rights</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1135" START="742">The fight is a central theme of the contest to head the Democratic
+National, particularly between two leading candidates: former Vermont
+Gov. Howard Dean, who supports abortion rights, and former Indiana Rep.
+Tim Roemer, an abortion foe who argues that the party cannot rebound
+from its losses in the November election unless it shows more tolerance
+on one of society's most emotional conflicts</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="869" START="864">former</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="AGGRESSIVEVOICEDAILY_20041223.1449-E2-3" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="924" START="864">former Vermont
+Gov. Howard Dean, who supports abortion rights</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="AGGRESSIVEVOICEDAILY_20041223.1449-V1-1" ROLE="Position">
+				
+      
+				<extent>
+					
+        
+					<charseq END="881" START="879">Gov</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="AGGRESSIVEVOICEDAILY_20041223.1449-T3-1" ROLE="Time-Within">
+				
+      
+				<extent>
+					
+        
+					<charseq END="869" START="864">former</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="AGGRESSIVEVOICEDAILY_20041223.1449-EV4" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="End-Position" TENSE="Past" TYPE="Personnel">
+		
+  
+		<event_argument REFID="AGGRESSIVEVOICEDAILY_20041223.1449-E4" ROLE="Person"/>
+		
+  
+		<event_argument REFID="AGGRESSIVEVOICEDAILY_20041223.1449-V2" ROLE="Position"/>
+		
+  
+		<event_argument REFID="AGGRESSIVEVOICEDAILY_20041223.1449-T4" ROLE="Time-Within"/>
+		
+  
+		<event_mention ID="AGGRESSIVEVOICEDAILY_20041223.1449-EV4-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="960" START="931">former Indiana Rep.
+Tim Roemer</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1135" START="742">The fight is a central theme of the contest to head the Democratic
+National, particularly between two leading candidates: former Vermont
+Gov. Howard Dean, who supports abortion rights, and former Indiana Rep.
+Tim Roemer, an abortion foe who argues that the party cannot rebound
+from its losses in the November election unless it shows more tolerance
+on one of society's most emotional conflicts</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="936" START="931">former</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="AGGRESSIVEVOICEDAILY_20041223.1449-E4-6" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="960" START="931">former Indiana Rep.
+Tim Roemer</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="AGGRESSIVEVOICEDAILY_20041223.1449-V2-1" ROLE="Position">
+				
+      
+				<extent>
+					
+        
+					<charseq END="948" START="946">Rep</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="AGGRESSIVEVOICEDAILY_20041223.1449-T4-1" ROLE="Time-Within">
+				
+      
+				<extent>
+					
+        
+					<charseq END="936" START="931">former</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="AGGRESSIVEVOICEDAILY_20041223.1449-EV5" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Elect" TENSE="Past" TYPE="Personnel">
+		
+  
+		<event_argument REFID="AGGRESSIVEVOICEDAILY_20041223.1449-T5" ROLE="Time-Within"/>
+		
+  
+		<event_mention ID="AGGRESSIVEVOICEDAILY_20041223.1449-EV5-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1059" START="1043">November election</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1135" START="742">The fight is a central theme of the contest to head the Democratic
+National, particularly between two leading candidates: former Vermont
+Gov. Howard Dean, who supports abortion rights, and former Indiana Rep.
+Tim Roemer, an abortion foe who argues that the party cannot rebound
+from its losses in the November election unless it shows more tolerance
+on one of society's most emotional conflicts</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1059" START="1052">election</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="AGGRESSIVEVOICEDAILY_20041223.1449-T5-1" ROLE="Time-Within">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1050" START="1043">November</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="AGGRESSIVEVOICEDAILY_20041223.1449-EV6" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Elect" TENSE="Past" TYPE="Personnel">
+		
+  
+		<event_mention ID="AGGRESSIVEVOICEDAILY_20041223.1449-EV6-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1603" START="1595">elections</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1694" START="1569">Results from the last few elections suggest that wouldn't be such a
+good idea if they ever want to gain more power in Congress</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1603" START="1595">elections</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

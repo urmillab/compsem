@@ -1,0 +1,193 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Specific" ID="AGGRESSIVEVOICEDAILY_20041226.1712-EV1" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Die" TENSE="Past" TYPE="Life">
+		
+  
+		<event_argument REFID="AGGRESSIVEVOICEDAILY_20041226.1712-E2" ROLE="Victim"/>
+		
+  
+		<event_argument REFID="AGGRESSIVEVOICEDAILY_20041226.1712-E13" ROLE="Place"/>
+		
+  
+		<event_argument REFID="AGGRESSIVEVOICEDAILY_20041226.1712-T6" ROLE="Time-Within"/>
+		
+  
+		<event_mention ID="AGGRESSIVEVOICEDAILY_20041226.1712-EV1-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="691" START="608">the Minister of Defense, Reggie White, died of
+heart attack this morning in his home</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="708" START="585">On a much sadder note, the Minister of Defense, Reggie White, died of
+heart attack this morning in his home at the age of 43</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="650" START="647">died</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="AGGRESSIVEVOICEDAILY_20041226.1712-E2-20" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="630" START="608">the Minister of Defense</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="AGGRESSIVEVOICEDAILY_20041226.1712-E13-21" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="691" START="684">his home</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="AGGRESSIVEVOICEDAILY_20041226.1712-T6-1" ROLE="Time-Within">
+				
+      
+				<extent>
+					
+        
+					<charseq END="679" START="668">this morning</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="AGGRESSIVEVOICEDAILY_20041226.1712-EV2" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="End-Position" TENSE="Past" TYPE="Personnel">
+		
+  
+		<event_argument REFID="AGGRESSIVEVOICEDAILY_20041226.1712-E3" ROLE="Entity"/>
+		
+  
+		<event_argument REFID="AGGRESSIVEVOICEDAILY_20041226.1712-E2" ROLE="Person"/>
+		
+  
+		<event_argument REFID="AGGRESSIVEVOICEDAILY_20041226.1712-T9" ROLE="Time-Within"/>
+		
+  
+		<event_mention ID="AGGRESSIVEVOICEDAILY_20041226.1712-EV2-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="829" START="787">He retired
+after the 2000 season as the NFL</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="865" START="787">He retired
+after the 2000 season as the NFL's all-time leader in sacks with 198</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="796" START="790">retired</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="AGGRESSIVEVOICEDAILY_20041226.1712-E3-5" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="829" START="827">NFL</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="AGGRESSIVEVOICEDAILY_20041226.1712-E2-3" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="788" START="787">He</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="AGGRESSIVEVOICEDAILY_20041226.1712-T9-1" ROLE="Time-Within">
+				
+      
+				<extent>
+					
+        
+					<charseq END="811" START="808">2000</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

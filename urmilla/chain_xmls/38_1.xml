@@ -1,0 +1,513 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Specific" ID="APW_ENG_20030422.0469-EV1" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Meet" TENSE="Past" TYPE="Contact">
+		
+  
+		<event_argument REFID="APW_ENG_20030422.0469-E1" ROLE="Entity"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030422.0469-E3" ROLE="Entity"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030422.0469-E4" ROLE="Entity"/>
+		
+  
+		<event_mention ID="APW_ENG_20030422.0469-EV1-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="784" START="639">Jean-Marc de La Sabliere, made the proposal
+at a Security Council meeting where members heard a briefing by chief
+U.N. weapons inspector Hans Blix</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="862" START="613">France's U.N. ambassador, Jean-Marc de La Sabliere, made the proposal
+at a Security Council meeting where members heard a briefing by chief
+U.N. weapons inspector Hans Blix and for the first time exchanged
+views on potentially divisive postwar issues</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="711" START="705">meeting</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030422.0469-E1-186" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="662" START="639">Jean-Marc de La Sabliere</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030422.0469-E3-4" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="725" START="719">members</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030422.0469-E4-6" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="784" START="747">chief
+U.N. weapons inspector Hans Blix</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="APW_ENG_20030422.0469-EV2" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Past" TYPE="Conflict">
+		
+  
+		<event_mention ID="APW_ENG_20030422.0469-EV2-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="855" START="849">postwar</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="862" START="613">France's U.N. ambassador, Jean-Marc de La Sabliere, made the proposal
+at a Security Council meeting where members heard a briefing by chief
+U.N. weapons inspector Hans Blix and for the first time exchanged
+views on potentially divisive postwar issues</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="855" START="849">postwar</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="APW_ENG_20030422.0469-EV3" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_argument REFID="APW_ENG_20030422.0469-E48" ROLE="Attacker"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030422.0469-E28" ROLE="Place"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030422.0469-T15" ROLE="Time-Within"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030422.0469-E28" ROLE="Target"/>
+		
+  
+		<event_mention ID="APW_ENG_20030422.0469-EV3-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="430" START="410">U.S. war
+against Iraq</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="609" START="353">The surprise move by France, which led opposition to the U.S. war
+against Iraq, followed last week's call by U.S. President George W.
+Bush for sanctions to be lifted quickly, so Iraq can trade freely and
+its oil revenue can be used to finance reconstruction</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="417" START="415">war</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030422.0469-E48-180" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="412" START="410">U.S</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030422.0469-E28-130" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="430" START="427">Iraq</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="APW_ENG_20030422.0469-EV3-2">
+			
+    
+			<extent>
+				
+      
+				<charseq END="4991" START="4950">Iraq just
+before the war began on March 20</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="4991" START="4848">Secretary-General Kofi Annan ordered all U.N.
+international staff, including the inspectors, to leave Iraq just
+before the war began on March 20</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="4973" START="4971">war</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030422.0469-E28-87" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4953" START="4950">Iraq</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030422.0469-T15-1" ROLE="Time-Within">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4991" START="4984">March 20</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="APW_ENG_20030422.0469-EV3-3">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1346" START="1344">war</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1346" START="1273">Along with France, Russia, Germany and China also strongly opposed
+the war</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1346" START="1344">war</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="APW_ENG_20030422.0469-EV3-4">
+			
+    
+			<extent>
+				
+      
+				<charseq END="2511" START="2496">war against Iraq</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="2511" START="2379">This is one of the difficult decisions the council will face in the
+weeks ahead on divisive issues stemming from the war against Iraq</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="2498" START="2496">war</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030422.0469-E28-62" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2511" START="2508">Iraq</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="APW_ENG_20030422.0469-EV6" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Past" TYPE="Conflict">
+		
+  
+		<event_argument REFID="APW_ENG_20030422.0469-E28" ROLE="Attacker"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030422.0469-E10" ROLE="Place"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030422.0469-T6" ROLE="Time-Within"/>
+		
+  
+		<event_mention ID="APW_ENG_20030422.0469-EV6-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1060" START="1031">Iraq's 1990 invasion of
+Kuwait</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1060" START="986">The Security Council imposed sanctions after Iraq's 1990 invasion of
+Kuwait</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1050" START="1043">invasion</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030422.0469-E28-122" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1034" START="1031">Iraq</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030422.0469-E10-13" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1060" START="1055">Kuwait</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030422.0469-T6-1" ROLE="Time-Within">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1041" START="1038">1990</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="APW_ENG_20030422.0469-EV7" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Meet" TENSE="Past" TYPE="Contact">
+		
+  
+		<event_mention ID="APW_ENG_20030422.0469-EV7-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1390" START="1384">meeting</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1469" START="1349">But de La Sabliere said before the meeting that Security
+Council ``must take into account the new realities on the ground</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1390" START="1384">meeting</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

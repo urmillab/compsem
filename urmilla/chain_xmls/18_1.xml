@@ -1,0 +1,822 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Specific" ID="CNN_ENG_20030508_170552.18-EV2" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Die" TENSE="Past" TYPE="Life">
+		
+  
+		<event_argument REFID="CNN_ENG_20030508_170552.18-E2" ROLE="Victim"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030508_170552.18-E3" ROLE="Place"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030508_170552.18-EV2-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="775" START="740">he was killed outside bagdad airport</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1045" START="685">i wasn't in a position that my dear friend
+was in when he was killed outside bagdad airport but i had
+long thought and i was in iraq in the previous war that
+really all the talk that had been about the rush to war,
+the push for war, the drive for war, all that propaganda,
+was essentially nonsensical because in 1990, saddam hussein
+made the only self criticism</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="752" START="747">killed</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030508_170552.18-E2-9" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="741" START="740">he</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030508_170552.18-E3-10" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="775" START="762">bagdad airport</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_ENG_20030508_170552.18-EV3" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_argument REFID="CNN_ENG_20030508_170552.18-E5" ROLE="Place"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030508_170552.18-EV3-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="836" START="813">iraq in the previous war</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1045" START="685">i wasn't in a position that my dear friend
+was in when he was killed outside bagdad airport but i had
+long thought and i was in iraq in the previous war that
+really all the talk that had been about the rush to war,
+the push for war, the drive for war, all that propaganda,
+was essentially nonsensical because in 1990, saddam hussein
+made the only self criticism</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="836" START="834">war</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030508_170552.18-E5-13" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="816" START="813">iraq</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="CNN_ENG_20030508_170552.18-EV4" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_mention ID="CNN_ENG_20030508_170552.18-EV4-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="897" START="895">war</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1045" START="685">i wasn't in a position that my dear friend
+was in when he was killed outside bagdad airport but i had
+long thought and i was in iraq in the previous war that
+really all the talk that had been about the rush to war,
+the push for war, the drive for war, all that propaganda,
+was essentially nonsensical because in 1990, saddam hussein
+made the only self criticism</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="897" START="895">war</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="CNN_ENG_20030508_170552.18-EV4-2">
+			
+    
+			<extent>
+				
+      
+				<charseq END="915" START="913">war</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1045" START="685">i wasn't in a position that my dear friend
+was in when he was killed outside bagdad airport but i had
+long thought and i was in iraq in the previous war that
+really all the talk that had been about the rush to war,
+the push for war, the drive for war, all that propaganda,
+was essentially nonsensical because in 1990, saddam hussein
+made the only self criticism</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="915" START="913">war</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="CNN_ENG_20030508_170552.18-EV4-3">
+			
+    
+			<extent>
+				
+      
+				<charseq END="934" START="932">war</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1045" START="685">i wasn't in a position that my dear friend
+was in when he was killed outside bagdad airport but i had
+long thought and i was in iraq in the previous war that
+really all the talk that had been about the rush to war,
+the push for war, the drive for war, all that propaganda,
+was essentially nonsensical because in 1990, saddam hussein
+made the only self criticism</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="934" START="932">war</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_ENG_20030508_170552.18-EV5" MODALITY="Other" POLARITY="Positive" SUBTYPE="Attack" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_argument REFID="CNN_ENG_20030508_170552.18-E46" ROLE="Attacker"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030508_170552.18-E6" ROLE="Target"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030508_170552.18-EV5-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1084" START="1057">i could either
+invade kuwait</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1124" START="1048">he said, i could either
+invade kuwait or finish developing the nuclear weapon</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1077" START="1072">invade</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030508_170552.18-E46-16" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1057" START="1057">i</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030508_170552.18-E6-17" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1084" START="1079">kuwait</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_ENG_20030508_170552.18-EV6" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_argument REFID="CNN_ENG_20030508_170552.18-E46" ROLE="Attacker"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030508_170552.18-EV6-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1330" START="1279">he inaugurated at
+that point like a dozen-year's war</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1543" START="1259">but that means that he inaugurated at
+that point like a dozen-year's war where the united states
+could be criticized for doing too little and acting too
+slowly but all we're arguing about lately is to do with
+those that should have been finished in '91 when it could
+have been finished</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1330" START="1328">war</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030508_170552.18-E46-25" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1280" START="1279">he</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_ENG_20030508_170552.18-EV7" MODALITY="Other" POLARITY="Positive" SUBTYPE="Demonstrate" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_argument REFID="CNN_ENG_20030508_170552.18-E10" ROLE="Entity"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030508_170552.18-EV7-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1642" START="1624">shiite
+insurrection</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1656" START="1593">taken the risk of supporting a shiite
+insurrection at that point</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1642" START="1631">insurrection</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030508_170552.18-E10-28" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1629" START="1624">shiite</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_ENG_20030508_170552.18-EV8" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Die" TENSE="Unspecified" TYPE="Life">
+		
+  
+		<event_argument REFID="CNN_ENG_20030508_170552.18-E17" ROLE="Instrument"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030508_170552.18-E18" ROLE="Victim"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030508_170552.18-E50" ROLE="Agent"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030508_170552.18-EV8-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="2608" START="2519">they use the gunships to kill, we
+think, not less than 50,000 inhabitants of southern iraq</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="2676" START="2519">they use the gunships to kill, we
+think, not less than 50,000 inhabitants of southern iraq
+and trying to do that to the kurds, as well, so it was a
+knife edge</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="2547" START="2544">kill</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030508_170552.18-E17-52" ROLE="Instrument">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2539" START="2528">the gunships</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030508_170552.18-E18-54" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2608" START="2560">not less than 50,000 inhabitants of southern iraq</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030508_170552.18-E50-110" ROLE="Agent">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2522" START="2519">they</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_ENG_20030508_170552.18-EV9" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Die" TENSE="Past" TYPE="Life">
+		
+  
+		<event_argument REFID="CNN_ENG_20030508_170552.18-E32" ROLE="Victim"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030508_170552.18-EV9-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="3467" START="3437">who
+have been horribly murdered</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="3576" START="3437">who
+have been horribly murdered and tortured and reduced to
+misery since by a half application of violence through
+sanctions and overflights</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="3467" START="3460">murdered</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030508_170552.18-E32-85" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3439" START="3437">who</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_ENG_20030508_170552.18-EV11" MODALITY="Asserted" POLARITY="Negative" SUBTYPE="Transport" TENSE="Unspecified" TYPE="Movement">
+		
+  
+		<event_argument REFID="CNN_ENG_20030508_170552.18-E20" ROLE="Agent"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030508_170552.18-E30" ROLE="Destination"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030508_170552.18-EV11-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="3135" START="3088">they made the decision not to move toward bagdad</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="3156" START="3083">when they made the decision not to move toward bagdad with
+bad information</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="3121" START="3118">move</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030508_170552.18-E20-99" ROLE="Agent">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3091" START="3088">they</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030508_170552.18-E30-74" ROLE="Destination">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3135" START="3130">bagdad</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_ENG_20030508_170552.18-EV12" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Injure" TENSE="Past" TYPE="Life">
+		
+  
+		<event_argument REFID="CNN_ENG_20030508_170552.18-E32" ROLE="Victim"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030508_170552.18-EV12-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="3480" START="3437">who
+have been horribly murdered and tortured</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="3576" START="3437">who
+have been horribly murdered and tortured and reduced to
+misery since by a half application of violence through
+sanctions and overflights</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="3480" START="3473">tortured</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030508_170552.18-E32-85" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3439" START="3437">who</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_ENG_20030508_170552.18-EV13" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Past" TYPE="Conflict">
+		
+  
+		<event_argument REFID="CNN_ENG_20030508_170552.18-E46" ROLE="Attacker"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030508_170552.18-EV13-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1231" START="1223">i invaded</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1231" START="1127">maybe before the weapon and then later he said, oh, i
+should have got the nuclear weapon before i invaded</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1231" START="1225">invaded</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030508_170552.18-E46-23" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1223" START="1223">i</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

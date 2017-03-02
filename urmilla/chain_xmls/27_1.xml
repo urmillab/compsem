@@ -1,0 +1,286 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Specific" ID="CNNHL_ENG_20030428_123600.14-EV1" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Transport" TENSE="Past" TYPE="Movement">
+		
+  
+		<event_argument REFID="CNNHL_ENG_20030428_123600.14-E2" ROLE="Vehicle"/>
+		
+  
+		<event_argument REFID="CNNHL_ENG_20030428_123600.14-E17" ROLE="Person"/>
+		
+  
+		<event_argument REFID="CNNHL_ENG_20030428_123600.14-E14" ROLE="Destination"/>
+		
+  
+		<event_argument REFID="CNNHL_ENG_20030428_123600.14-T2" ROLE="Time-Within"/>
+		
+  
+		<event_mention ID="CNNHL_ENG_20030428_123600.14-EV1-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="266" START="166">a russian soyuz capsule dropped them off
+this morning after docking perfectly at the orbiting outpost</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="266" START="166">a russian soyuz capsule dropped them off
+this morning after docking perfectly at the orbiting outpost</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="196" START="190">dropped</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNNHL_ENG_20030428_123600.14-E2-19" ROLE="Vehicle">
+				
+      
+				<extent>
+					
+        
+					<charseq END="188" START="166">a russian soyuz capsule</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNNHL_ENG_20030428_123600.14-E17-21" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="201" START="198">them</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNNHL_ENG_20030428_123600.14-E14-22" ROLE="Destination">
+				
+      
+				<extent>
+					
+        
+					<charseq END="266" START="247">the orbiting outpost</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNNHL_ENG_20030428_123600.14-T2-1" ROLE="Time-Within">
+				
+      
+				<extent>
+					
+        
+					<charseq END="218" START="207">this morning</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNNHL_ENG_20030428_123600.14-EV2" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Transport" TENSE="Future" TYPE="Movement">
+		
+  
+		<event_argument REFID="CNNHL_ENG_20030428_123600.14-E2" ROLE="Vehicle"/>
+		
+  
+		<event_argument REFID="CNNHL_ENG_20030428_123600.14-E3" ROLE="Person"/>
+		
+  
+		<event_argument REFID="CNNHL_ENG_20030428_123600.14-E4" ROLE="Destination"/>
+		
+  
+		<event_argument REFID="CNNHL_ENG_20030428_123600.14-T6" ROLE="Time-Starting"/>
+		
+  
+		<event_mention ID="CNNHL_ENG_20030428_123600.14-EV2-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="683" START="632">the soyuz will carry that crew back to earth may 4th</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="683" START="632">the soyuz will carry that crew back to earth may 4th</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="651" START="647">carry</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNNHL_ENG_20030428_123600.14-E2-7" ROLE="Vehicle">
+				
+      
+				<extent>
+					
+        
+					<charseq END="640" START="632">the soyuz</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNNHL_ENG_20030428_123600.14-E3-9" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="661" START="653">that crew</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNNHL_ENG_20030428_123600.14-E4-10" ROLE="Destination">
+				
+      
+				<extent>
+					
+        
+					<charseq END="675" START="671">earth</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNNHL_ENG_20030428_123600.14-T6-1" ROLE="Time-Starting">
+				
+      
+				<extent>
+					
+        
+					<charseq END="683" START="677">may 4th</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNNHL_ENG_20030428_123600.14-EV3" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Transport" TENSE="Past" TYPE="Movement">
+		
+  
+		<event_argument REFID="CNNHL_ENG_20030428_123600.14-E14" ROLE="Destination"/>
+		
+  
+		<event_mention ID="CNNHL_ENG_20030428_123600.14-EV3-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="319" START="293">flight to the space station</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="372" START="269">it was
+the first manned flight to the space station since the february first
+shuttle &quot;columbia&quot; disaster</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="298" START="293">flight</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNNHL_ENG_20030428_123600.14-E14-23" ROLE="Destination">
+				
+      
+				<extent>
+					
+        
+					<charseq END="319" START="303">the space station</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

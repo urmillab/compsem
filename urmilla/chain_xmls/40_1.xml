@@ -1,0 +1,194 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Specific" ID="APW_ENG_20030520.0757-EV2" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Transport" TENSE="Unspecified" TYPE="Movement">
+		
+  
+		<event_argument REFID="APW_ENG_20030520.0757-E1" ROLE="Person"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030520.0757-E44" ROLE="Destination"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030520.0757-E37" ROLE="Origin"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030520.0757-T2" ROLE="Time-Within"/>
+		
+  
+		<event_mention ID="APW_ENG_20030520.0757-EV2-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="467" START="354">the eve of a visit to the Saudi capital, Foreign Minister
+Alexander Downer said security at the Australian embassy</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="493" START="351">On the eve of a visit to the Saudi capital, Foreign Minister
+Alexander Downer said security at the Australian embassy appeared to
+be sufficient</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="371" START="367">visit</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030520.0757-E1-62" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="410" START="395">Foreign Minister</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030520.0757-E44-59" ROLE="Destination">
+				
+      
+				<extent>
+					
+        
+					<charseq END="392" START="376">the Saudi capital</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030520.0757-E37-2" ROLE="Origin">
+				
+      
+				<extent>
+					
+        
+					<charseq END="467" START="446">the Australian embassy</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030520.0757-T2-1" ROLE="Time-Within">
+				
+      
+				<extent>
+					
+        
+					<charseq END="392" START="354">the eve of a visit to the Saudi capital</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="APW_ENG_20030520.0757-EV11" MODALITY="Asserted" POLARITY="Negative" SUBTYPE="End-Org" TENSE="Unspecified" TYPE="Business">
+		
+  
+		<event_argument REFID="APW_ENG_20030520.0757-E37" ROLE="Place"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030520.0757-E14" ROLE="Place"/>
+		
+  
+		<event_mention ID="APW_ENG_20030520.0757-EV11-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="211" START="180">open its embassy in Saudi Arabia</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="347" START="160">Australia will keep open its embassy in Saudi Arabia despite
+decisions by the United States, Britain and Germany to close their
+diplomatic outposts in the country amid growing terror fears</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="183" START="180">open</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030520.0757-E37-51" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="211" START="185">its embassy in Saudi Arabia</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030520.0757-E14-52" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="211" START="200">Saudi Arabia</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

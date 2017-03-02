@@ -1,0 +1,1364 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Generic" ID="CNN_IP_20030402.1600.00-2-EV2" MODALITY="Other" POLARITY="Positive" SUBTYPE="Attack" TENSE="Future" TYPE="Conflict">
+		
+  
+		<event_argument REFID="CNN_IP_20030402.1600.00-2-E86" ROLE="Target"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030402.1600.00-2-E44" ROLE="Attacker"/>
+		
+  
+		<event_mention ID="CNN_IP_20030402.1600.00-2-EV2-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="2890" START="2835">we are
+paying great attention to their ability to defend</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="2904" START="2812">So, in regard to that, we are
+paying great attention to their ability to defend on the ground</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="2890" START="2885">defend</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030402.1600.00-2-E86-163" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2872" START="2868">their</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030402.1600.00-2-E44-52" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2836" START="2835">we</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030402.1600.00-2-EV3" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Transport" TENSE="Past" TYPE="Movement">
+		
+  
+		<event_argument REFID="CNN_IP_20030402.1600.00-2-E58" ROLE="Person"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030402.1600.00-2-E35" ROLE="Destination"/>
+		
+  
+		<event_mention ID="CNN_IP_20030402.1600.00-2-EV3-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="3491" START="3441">The Army's 3rd Infantry has punched through
+Karbala</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="3613" START="3441">The Army's 3rd Infantry has punched through
+Karbala, meeting only light resistance from the Medina Republican Guard,
+and moving along highway nine within 25 miles of Baghdad</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="3475" START="3469">punched</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030402.1600.00-2-E58-110" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3463" START="3441">The Army's 3rd Infantry</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030402.1600.00-2-E35-96" ROLE="Destination">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3491" START="3485">Karbala</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030402.1600.00-2-EV4" MODALITY="Other" POLARITY="Positive" SUBTYPE="End-Org" TENSE="Future" TYPE="Business">
+		
+  
+		<event_argument REFID="CNN_IP_20030402.1600.00-2-E85" ROLE="Org"/>
+		
+  
+		<event_mention ID="CNN_IP_20030402.1600.00-2-EV4-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="4210" START="4193">the
+regime is gone</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="4210" START="4063">He said, quote, &quot;The dagger is clearly pointed at the heart of
+the regime now, and it will remain pointed at it,&quot; he said, &quot;until the
+regime is gone</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="4210" START="4207">gone</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030402.1600.00-2-E85-160" ROLE="Org">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4202" START="4193">the
+regime</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030402.1600.00-2-EV5" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_mention ID="CNN_IP_20030402.1600.00-2-EV5-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1605" START="1603">war</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1628" START="1543">Let's get the very latest from the Pentagon for the overall war
+picture as they see it</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1605" START="1603">war</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="CNN_IP_20030402.1600.00-2-EV18" MODALITY="Other" POLARITY="Positive" SUBTYPE="Attack" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_mention ID="CNN_IP_20030402.1600.00-2-EV18-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1534" START="1527">fighting</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1540" START="1379">Well, at the
+Pentagon briefing this afternoon, officials describing several units of
+the Republican Guard as effectively no longer being a credible fighting
+force</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1534" START="1527">fighting</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="CNN_IP_20030402.1600.00-2-EV18-2">
+			
+    
+			<extent>
+				
+      
+				<charseq END="3782" START="3775">fighting</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="3883" START="3616">At the same
+time, the Marines from the 1st Division have secured a key Tigris River
+crossing near Al Kut and reported to have essentially destroyed the
+combat fighting ability of that light infantry Baghdad division that was
+supposed to be providing defense down there</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="3782" START="3775">fighting</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030402.1600.00-2-EV19" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Transport" TENSE="Past" TYPE="Movement">
+		
+  
+		<event_argument REFID="CNN_IP_20030402.1600.00-2-E34" ROLE="Person"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030402.1600.00-2-E35" ROLE="Destination"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030402.1600.00-2-E36" ROLE="Destination"/>
+		
+  
+		<event_mention ID="CNN_IP_20030402.1600.00-2-EV19-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="2266" START="2208">the U.S.
+troops arrived, both in Karbala and also in Al Kut</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="2266" START="2042">Also the Pentagon is seeing lighter
+than expected resistance indicating at least that they may have really
+seriously degraded those Republican Guard divisions before the U.S.
+troops arrived, both in Karbala and also in Al Kut</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="2230" START="2224">arrived</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030402.1600.00-2-E34-57" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2222" START="2208">the U.S.
+troops</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030402.1600.00-2-E35-59" ROLE="Destination">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2247" START="2241">Karbala</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030402.1600.00-2-E36-60" ROLE="Destination">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2266" START="2261">Al Kut</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030402.1600.00-2-EV20" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Transport" TENSE="Unspecified" TYPE="Movement">
+		
+  
+		<event_argument REFID="CNN_IP_20030402.1600.00-2-E34" ROLE="Person"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030402.1600.00-2-E38" ROLE="Destination"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030402.1600.00-2-E44" ROLE="Person"/>
+		
+  
+		<event_mention ID="CNN_IP_20030402.1600.00-2-EV20-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="2377" START="2354">they close
+in on Baghdad</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="2620" START="2312">But the Pentagon officials stress that as they close
+in on Baghdad, this becomes the real dangerous part as they enter that
+so- called red zone where Saddam Hussein is believed to have given his
+commanders authority to use chemical weapons, and that use of chemical
+weapons remains a real fear at the Pentagon</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="2366" START="2359">close
+in</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030402.1600.00-2-E34-62" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2357" START="2354">they</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030402.1600.00-2-E38-65" ROLE="Destination">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2377" START="2371">Baghdad</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="CNN_IP_20030402.1600.00-2-EV20-2">
+			
+    
+			<extent>
+				
+      
+				<charseq END="2745" START="2704">We are not expecting to drive into Baghdad</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="2809" START="2704">We are not expecting to drive into Baghdad suddenly and seize it in a
+coup de mains, or anything like that</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="2732" START="2728">drive</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030402.1600.00-2-E44-51" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2705" START="2704">We</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030402.1600.00-2-E38-81" ROLE="Destination">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2745" START="2739">Baghdad</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="CNN_IP_20030402.1600.00-2-EV21" MODALITY="Other" POLARITY="Positive" SUBTYPE="Attack" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_argument REFID="CNN_IP_20030402.1600.00-2-E15" ROLE="Instrument"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030402.1600.00-2-E86" ROLE="Attacker"/>
+		
+  
+		<event_mention ID="CNN_IP_20030402.1600.00-2-EV21-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="3023" START="2972">their ability to
+use chemical and biological weapons</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="3055" START="2958">Additionally, their ability to
+use chemical and biological weapons, they've proven it historically</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="2991" START="2989">use</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030402.1600.00-2-E15-22" ROLE="Instrument">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3023" START="2993">chemical and biological weapons</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030402.1600.00-2-E86-165" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2976" START="2972">their</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="CNN_IP_20030402.1600.00-2-EV21-2">
+			
+    
+			<extent>
+				
+      
+				<charseq END="3240" START="3217">them using those weapons</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="3248" START="3099">Clearly, as we threaten the core of
+the regime, which Baghdad and Tikrit represent, we believe that the
+likelihood of them using those weapons goes up</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="3226" START="3222">using</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030402.1600.00-2-E15-103" ROLE="Instrument">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3240" START="3228">those weapons</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030402.1600.00-2-E86-168" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3220" START="3217">them</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030402.1600.00-2-EV22" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Transport" TENSE="Past" TYPE="Movement">
+		
+  
+		<event_argument REFID="CNN_IP_20030402.1600.00-2-E53" ROLE="Agent"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030402.1600.00-2-E32" ROLE="Origin"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030402.1600.00-2-E56" ROLE="Person"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030402.1600.00-2-T12" ROLE="Time-Within"/>
+		
+  
+		<event_mention ID="CNN_IP_20030402.1600.00-2-EV22-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="3396" START="3283">less than 24 hours, the U.S. 101st Airborne Division has driven Iraqi
+Fedayeen fighters from the key city of Najaf</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="3438" START="3280">In less than 24 hours, the U.S. 101st Airborne Division has driven Iraqi
+Fedayeen fighters from the key city of Najaf, pushed north in a
+several-pronged attack</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="3345" START="3340">driven</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030402.1600.00-2-E53-104" ROLE="Agent">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3334" START="3303">the U.S. 101st Airborne Division</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030402.1600.00-2-E32-108" ROLE="Origin">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3396" START="3376">the key city of Najaf</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030402.1600.00-2-E56-106" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3369" START="3347">Iraqi
+Fedayeen fighters</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030402.1600.00-2-T12-1" ROLE="Time-Within">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3300" START="3283">less than 24 hours</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030402.1600.00-2-EV23" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Past" TYPE="Conflict">
+		
+  
+		<event_argument REFID="CNN_IP_20030402.1600.00-2-E53" ROLE="Attacker"/>
+		
+  
+		<event_mention ID="CNN_IP_20030402.1600.00-2-EV23-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="3438" START="3303">the U.S. 101st Airborne Division has driven Iraqi
+Fedayeen fighters from the key city of Najaf, pushed north in a
+several-pronged attack</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="3438" START="3280">In less than 24 hours, the U.S. 101st Airborne Division has driven Iraqi
+Fedayeen fighters from the key city of Najaf, pushed north in a
+several-pronged attack</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="3438" START="3433">attack</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030402.1600.00-2-E53-104" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3334" START="3303">the U.S. 101st Airborne Division</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030402.1600.00-2-EV24" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Past" TYPE="Conflict">
+		
+  
+		<event_argument REFID="CNN_IP_20030402.1600.00-2-E58" ROLE="Attacker"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030402.1600.00-2-E35" ROLE="Place"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030402.1600.00-2-E65" ROLE="Attacker"/>
+		
+  
+		<event_mention ID="CNN_IP_20030402.1600.00-2-EV24-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="3555" START="3441">The Army's 3rd Infantry has punched through
+Karbala, meeting only light resistance from the Medina Republican Guard</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="3613" START="3441">The Army's 3rd Infantry has punched through
+Karbala, meeting only light resistance from the Medina Republican Guard,
+and moving along highway nine within 25 miles of Baghdad</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="3522" START="3513">resistance</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030402.1600.00-2-E58-110" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3463" START="3441">The Army's 3rd Infantry</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030402.1600.00-2-E35-96" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3491" START="3485">Karbala</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030402.1600.00-2-E65-159" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3555" START="3529">the Medina Republican Guard</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030402.1600.00-2-EV25" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Past" TYPE="Conflict">
+		
+  
+		<event_argument REFID="CNN_IP_20030402.1600.00-2-E43" ROLE="Place"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030402.1600.00-2-T13" ROLE="Time-Ending"/>
+		
+  
+		<event_mention ID="CNN_IP_20030402.1600.00-2-EV25-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="4362" START="4342">Gulf War 12 years ago</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="4362" START="4233">Jamie, these descriptions of the weakening of the Republican Guard begin
+to bring back memories of the first Gulf War 12 years ago</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="4349" START="4347">War</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030402.1600.00-2-E43-86" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4345" START="4342">Gulf</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030402.1600.00-2-T13-1" ROLE="Time-Ending">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4362" START="4351">12 years ago</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="CNN_IP_20030402.1600.00-2-EV26" MODALITY="Other" POLARITY="Positive" SUBTYPE="Attack" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_mention ID="CNN_IP_20030402.1600.00-2-EV26-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="4689" START="4684">combat</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="4689" START="4669">Could be urban combat</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="4689" START="4684">combat</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030402.1600.00-2-EV27" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Past" TYPE="Conflict">
+		
+  
+		<event_argument REFID="CNN_IP_20030402.1600.00-2-E65" ROLE="Target"/>
+		
+  
+		<event_mention ID="CNN_IP_20030402.1600.00-2-EV27-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="4916" START="4886">the division has been destroyed</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="4969" START="4821">They also are careful to point out that
+even while they say that the division has been destroyed, they don't mean
+every single person has been killed</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="4916" START="4908">destroyed</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030402.1600.00-2-E65-130" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4897" START="4886">the division</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030402.1600.00-2-EV28" MODALITY="Other" POLARITY="Positive" SUBTYPE="Die" TENSE="Past" TYPE="Life">
+		
+  
+		<event_argument REFID="CNN_IP_20030402.1600.00-2-E73" ROLE="Victim"/>
+		
+  
+		<event_mention ID="CNN_IP_20030402.1600.00-2-EV28-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="4969" START="4935">every single person has been killed</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="4969" START="4821">They also are careful to point out that
+even while they say that the division has been destroyed, they don't mean
+every single person has been killed</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="4969" START="4964">killed</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030402.1600.00-2-E73-132" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4953" START="4935">every single person</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="CNN_IP_20030402.1600.00-2-EV29" MODALITY="Other" POLARITY="Positive" SUBTYPE="Transport" TENSE="Future" TYPE="Movement">
+		
+  
+		<event_argument REFID="CNN_IP_20030402.1600.00-2-E44" ROLE="Person"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030402.1600.00-2-E38" ROLE="Destination"/>
+		
+  
+		<event_mention ID="CNN_IP_20030402.1600.00-2-EV29-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="4786" START="4765">they draw into Baghdad</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="4786" START="4724">Could be the most loyal fighters left as they draw into Baghdad</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="4773" START="4770">draw</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030402.1600.00-2-E44-91" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4768" START="4765">they</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030402.1600.00-2-E38-71" ROLE="Destination">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4786" START="4780">Baghdad</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="CNN_IP_20030402.1600.00-2-EV30" MODALITY="Other" POLARITY="Positive" SUBTYPE="Attack" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_argument REFID="CNN_IP_20030402.1600.00-2-E65" ROLE="Attacker"/>
+		
+  
+		<event_mention ID="CNN_IP_20030402.1600.00-2-EV30-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="4993" START="4984">its combat</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="5034" START="4972">Simply that its combat effectiveness
+has been eliminated - Judy</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="4993" START="4988">combat</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030402.1600.00-2-E65-131" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4986" START="4984">its</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

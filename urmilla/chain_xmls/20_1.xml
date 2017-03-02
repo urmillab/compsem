@@ -1,0 +1,294 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Specific" ID="CNN_ENG_20030529_085826.10-EV1" MODALITY="Other" POLARITY="Positive" SUBTYPE="Meet" TENSE="Future" TYPE="Contact">
+		
+  
+		<event_argument REFID="CNN_ENG_20030529_085826.10-E6" ROLE="Entity"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030529_085826.10-E9" ROLE="Entity"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030529_085826.10-T2" ROLE="Time-Within"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030529_085826.10-EV1-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="171" START="68">israeli prime minister ariel sharon and palestinian prime minister
+mahmoud abbas scheduled to meet today</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="261" START="68">israeli prime minister ariel sharon and palestinian prime minister
+mahmoud abbas scheduled to meet today, their second chance now to
+discuss the bush administration's road map more mideast peace</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="165" START="162">meet</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030529_085826.10-E6-1" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="102" START="68">israeli prime minister ariel sharon</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030529_085826.10-E9-10" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="147" START="108">palestinian prime minister
+mahmoud abbas</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030529_085826.10-T2-1" ROLE="Time-Within">
+				
+      
+				<extent>
+					
+        
+					<charseq END="171" START="167">today</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_ENG_20030529_085826.10-EV2" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Meet" TENSE="Future" TYPE="Contact">
+		
+  
+		<event_argument REFID="CNN_ENG_20030529_085826.10-E12" ROLE="Entity"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030529_085826.10-E14" ROLE="Entity"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030529_085826.10-T3" ROLE="Time-Within"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030529_085826.10-EV2-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="344" START="264">both
+sides will meet with president bush when he arrives in the mideast
+next week</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="344" START="264">both
+sides will meet with president bush when he arrives in the mideast
+next week</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="283" START="280">meet</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030529_085826.10-E12-18" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="273" START="264">both
+sides</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030529_085826.10-E14-12" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="303" START="290">president bush</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030529_085826.10-T3-1" ROLE="Time-Within">
+				
+      
+				<extent>
+					
+        
+					<charseq END="344" START="336">next week</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_ENG_20030529_085826.10-EV3" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Transport" TENSE="Future" TYPE="Movement">
+		
+  
+		<event_argument REFID="CNN_ENG_20030529_085826.10-E14" ROLE="Person"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030529_085826.10-E16" ROLE="Destination"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030529_085826.10-T3" ROLE="Time-Within"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030529_085826.10-EV3-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="344" START="290">president bush when he arrives in the mideast
+next week</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="344" START="264">both
+sides will meet with president bush when he arrives in the mideast
+next week</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="319" START="313">arrives</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030529_085826.10-E14-12" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="303" START="290">president bush</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030529_085826.10-E16-21" ROLE="Destination">
+				
+      
+				<extent>
+					
+        
+					<charseq END="334" START="324">the mideast</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030529_085826.10-T3-1" ROLE="Time-Within">
+				
+      
+				<extent>
+					
+        
+					<charseq END="344" START="336">next week</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

@@ -1,0 +1,166 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Specific" ID="CNN_IP_20030404.1600.00-2-EV3" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_mention ID="CNN_IP_20030404.1600.00-2-EV3-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="3081" START="3079">war</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="3081" START="3001">The
+first American embedded journalist to have gotten killed in covering this
+war</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="3081" START="3079">war</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030404.1600.00-2-EV11" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Die" TENSE="Past" TYPE="Life">
+		
+  
+		<event_argument REFID="CNN_IP_20030404.1600.00-2-E47" ROLE="Victim"/>
+		
+  
+		<event_mention ID="CNN_IP_20030404.1600.00-2-EV11-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="2998" START="2893">one of them, not from our CNN, but from a
+very close friend of all of ours, Michael Kelly, paid that price</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="2998" START="2889">And one of them, not from our CNN, but from a
+very close friend of all of ours, Michael Kelly, paid that price</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="2998" START="2984">paid that price</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030404.1600.00-2-E47-162" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2903" START="2893">one of them</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030404.1600.00-2-EV18" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Die" TENSE="Past" TYPE="Life">
+		
+  
+		<event_argument REFID="CNN_IP_20030404.1600.00-2-E47" ROLE="Victim"/>
+		
+  
+		<event_mention ID="CNN_IP_20030404.1600.00-2-EV18-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="3081" START="3001">The
+first American embedded journalist to have gotten killed in covering this
+war</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="3081" START="3001">The
+first American embedded journalist to have gotten killed in covering this
+war</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="3060" START="3055">killed</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030404.1600.00-2-E47-86" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3081" START="3001">The
+first American embedded journalist to have gotten killed in covering this
+war</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

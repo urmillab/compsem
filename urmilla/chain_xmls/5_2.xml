@@ -1,0 +1,1378 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Generic" ID="CNN_IP_20030408.1600.03-EV2" MODALITY="Other" POLARITY="Positive" SUBTYPE="Injure" TENSE="Unspecified" TYPE="Life">
+		
+  
+		<event_mention ID="CNN_IP_20030408.1600.03-EV2-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1382" START="1376">torture</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1449" START="1318">What was to
+follow was a horrific education in terror and torture: in the smoking
+basement of the bombed building, a warren of cells</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1382" START="1376">torture</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="CNN_IP_20030408.1600.03-EV2-2">
+			
+    
+			<extent>
+				
+      
+				<charseq END="2933" START="2927">torture</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="2933" START="2821">The hook in the ceiling is for one purpose only,
+another hook in a different cell and a different form of torture</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="2933" START="2927">torture</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="CNN_IP_20030408.1600.03-EV2-3">
+			
+    
+			<extent>
+				
+      
+				<charseq END="2987" START="2981">torture</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="3001" START="2936">Saddam
+Hussein controlled Iraq through fear, torture and execution</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="2987" START="2981">torture</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="CNN_IP_20030408.1600.03-EV2-4">
+			
+    
+			<extent>
+				
+      
+				<charseq END="4473" START="4467">torture</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="4473" START="4338">No one knows yet whether the new Iraq will be the kind of
+place where these children can grow up free of the fear, the horror of
+torture</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="4473" START="4467">torture</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030408.1600.03-EV3" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Past" TYPE="Conflict">
+		
+  
+		<event_argument REFID="CNN_IP_20030408.1600.03-E1" ROLE="Target"/>
+		
+  
+		<event_mention ID="CNN_IP_20030408.1600.03-EV3-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1430" START="1412">the bombed building</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1449" START="1318">What was to
+follow was a horrific education in terror and torture: in the smoking
+basement of the bombed building, a warren of cells</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1421" START="1416">bombed</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030408.1600.03-E1-46" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1430" START="1412">the bombed building</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="CNN_IP_20030408.1600.03-EV4" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Injure" TENSE="Past" TYPE="Life">
+		
+  
+		<event_argument REFID="CNN_IP_20030408.1600.03-E25" ROLE="Place"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030408.1600.03-E75" ROLE="Victim"/>
+		
+  
+		<event_mention ID="CNN_IP_20030408.1600.03-EV4-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1480" START="1452">Here, prisoners were
+tortured</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1480" START="1452">Here, prisoners were
+tortured</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1480" START="1473">tortured</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030408.1600.03-E25-169" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1455" START="1452">Here</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030408.1600.03-E75-170" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1466" START="1458">prisoners</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030408.1600.03-EV5" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Die" TENSE="Past" TYPE="Life">
+		
+  
+		<event_argument REFID="CNN_IP_20030408.1600.03-E27" ROLE="Victim"/>
+		
+  
+		<event_mention ID="CNN_IP_20030408.1600.03-EV5-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1541" START="1531">People died</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1541" START="1531">People died</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1541" START="1538">died</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030408.1600.03-E27-152" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1536" START="1531">People</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="CNN_IP_20030408.1600.03-EV5-2">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1576" START="1566">People died</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1576" START="1566">People died</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1576" START="1573">died</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030408.1600.03-E27-47" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1571" START="1566">People</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030408.1600.03-EV6" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Injure" TENSE="Past" TYPE="Life">
+		
+  
+		<event_argument REFID="CNN_IP_20030408.1600.03-E45" ROLE="Victim"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030408.1600.03-E48" ROLE="Victim"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030408.1600.03-E1" ROLE="Place"/>
+		
+  
+		<event_mention ID="CNN_IP_20030408.1600.03-EV6-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="3289" START="3222">he was
+tortured here, along with his two brothers, who were executed</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="3289" START="3174">Hamid Fatil (ph) may look like he's acting, but he was
+tortured here, along with his two brothers, who were executed</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="3236" START="3229">tortured</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030408.1600.03-E45-107" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3223" START="3222">he</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030408.1600.03-E48-109" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3289" START="3255">his two brothers, who were executed</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030408.1600.03-E1-60" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3241" START="3238">here</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="CNN_IP_20030408.1600.03-EV7" MODALITY="Asserted" POLARITY="Negative" SUBTYPE="Trial-Hearing" TENSE="Unspecified" TYPE="Justice">
+		
+  
+		<event_argument REFID="CNN_IP_20030408.1600.03-E27" ROLE="Defendant"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030408.1600.03-E58" ROLE="Defendant"/>
+		
+  
+		<event_mention ID="CNN_IP_20030408.1600.03-EV7-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1623" START="1579">people in prison without court, without trial</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1623" START="1566">People died, people in prison without court, without trial</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1623" START="1619">trial</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030408.1600.03-E27-153" ROLE="Defendant">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1623" START="1579">people in prison without court, without trial</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="CNN_IP_20030408.1600.03-EV7-2">
+			
+    
+			<extent>
+				
+      
+				<charseq END="4123" START="4101">who were
+given no trial</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="4142" START="4061">The hundreds or thousands who died here who were
+given no trial, no voice, cry out</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="4123" START="4119">trial</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030408.1600.03-E58-133" ROLE="Defendant">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4103" START="4101">who</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030408.1600.03-EV8" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Transport" TENSE="Past" TYPE="Movement">
+		
+  
+		<event_argument REFID="CNN_IP_20030408.1600.03-E33" ROLE="Person"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030408.1600.03-E1" ROLE="Destination"/>
+		
+  
+		<event_mention ID="CNN_IP_20030408.1600.03-EV8-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1995" START="1972">So many people come here</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="2032" START="1972">So many people come here,
+but we don't know about them at all</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1990" START="1987">come</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030408.1600.03-E33-78" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1985" START="1972">So many people</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030408.1600.03-E1-52" ROLE="Destination">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1995" START="1992">here</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="CNN_IP_20030408.1600.03-EV9" MODALITY="Other" POLARITY="Positive" SUBTYPE="Transport" TENSE="Unspecified" TYPE="Movement">
+		
+  
+		<event_argument REFID="CNN_IP_20030408.1600.03-E1" ROLE="Destination"/>
+		
+  
+		<event_mention ID="CNN_IP_20030408.1600.03-EV9-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="2097" START="2089">come here</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="2163" START="2045">These ordinary Iraqis had been terrified to come here, until today,
+though one student on the left had been here before</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="2092" START="2089">come</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030408.1600.03-E1-53" ROLE="Destination">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2097" START="2094">here</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030408.1600.03-EV10" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Execute" TENSE="Past" TYPE="Justice">
+		
+  
+		<event_argument REFID="CNN_IP_20030408.1600.03-E48" ROLE="Person"/>
+		
+  
+		<event_mention ID="CNN_IP_20030408.1600.03-EV10-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="3289" START="3255">his two brothers, who were executed</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="3289" START="3174">Hamid Fatil (ph) may look like he's acting, but he was
+tortured here, along with his two brothers, who were executed</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="3289" START="3282">executed</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030408.1600.03-E48-109" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3289" START="3255">his two brothers, who were executed</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030408.1600.03-EV11" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Die" TENSE="Past" TYPE="Life">
+		
+  
+		<event_argument REFID="CNN_IP_20030408.1600.03-E39" ROLE="Victim"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030408.1600.03-E1" ROLE="Place"/>
+		
+  
+		<event_mention ID="CNN_IP_20030408.1600.03-EV11-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="2693" START="2671">relatives murdered here</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="2693" START="2657">These men had relatives murdered here</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="2688" START="2681">murdered</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030408.1600.03-E39-90" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2693" START="2671">relatives murdered here</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030408.1600.03-E1-58" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2693" START="2690">here</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="CNN_IP_20030408.1600.03-EV12" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Execute" TENSE="Past" TYPE="Justice">
+		
+  
+		<event_argument REFID="CNN_IP_20030408.1600.03-E7" ROLE="Place"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030408.1600.03-E11" ROLE="Agent"/>
+		
+  
+		<event_mention ID="CNN_IP_20030408.1600.03-EV12-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="3001" START="2936">Saddam
+Hussein controlled Iraq through fear, torture and execution</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="3001" START="2936">Saddam
+Hussein controlled Iraq through fear, torture and execution</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="3001" START="2993">execution</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030408.1600.03-E7-20" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2965" START="2962">Iraq</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030408.1600.03-E11-19" ROLE="Agent">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2949" START="2936">Saddam
+Hussein</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030408.1600.03-EV13" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Sentence" TENSE="Past" TYPE="Justice">
+		
+  
+		<event_argument REFID="CNN_IP_20030408.1600.03-E8" ROLE="Adjudicator"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030408.1600.03-E50" ROLE="Defendant"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030408.1600.03-V1" ROLE="Sentence"/>
+		
+  
+		<event_mention ID="CNN_IP_20030408.1600.03-EV13-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="3382" START="3356">They sentenced him to death</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="3382" START="3356">They sentenced him to death</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="3369" START="3361">sentenced</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030408.1600.03-E8-115" ROLE="Adjudicator">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3359" START="3356">They</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030408.1600.03-E50-114" ROLE="Defendant">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3373" START="3371">him</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030408.1600.03-V1-1" ROLE="Sentence">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3382" START="3378">death</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030408.1600.03-EV14" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Transport" TENSE="Past" TYPE="Movement">
+		
+  
+		<event_argument REFID="CNN_IP_20030408.1600.03-E50" ROLE="Person"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030408.1600.03-E12" ROLE="Destination"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030408.1600.03-E8" ROLE="Agent"/>
+		
+  
+		<event_mention ID="CNN_IP_20030408.1600.03-EV14-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="3412" START="3389">they sent him to Baghdad</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="3423" START="3385">And they sent him to Baghdad and killed</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="3397" START="3394">sent</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030408.1600.03-E50-117" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3401" START="3399">him</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030408.1600.03-E12-22" ROLE="Destination">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3412" START="3406">Baghdad</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030408.1600.03-E8-116" ROLE="Agent">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3392" START="3389">they</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030408.1600.03-EV19" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Die" TENSE="Past" TYPE="Life">
+		
+  
+		<event_argument REFID="CNN_IP_20030408.1600.03-E8" ROLE="Agent"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030408.1600.03-E12" ROLE="Place"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030408.1600.03-E50" ROLE="Victim"/>
+		
+  
+		<event_mention ID="CNN_IP_20030408.1600.03-EV19-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="3423" START="3389">they sent him to Baghdad and killed</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="3423" START="3385">And they sent him to Baghdad and killed</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="3423" START="3418">killed</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030408.1600.03-E8-116" ROLE="Agent">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3392" START="3389">they</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030408.1600.03-E12-22" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3412" START="3406">Baghdad</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="CNN_IP_20030408.1600.03-EV19-2">
+			
+    
+			<extent>
+				
+      
+				<charseq END="3438" START="3426">He
+was hanged</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="3452" START="3426">He
+was hanged there, hanged</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="3438" START="3433">hanged</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030408.1600.03-E50-118" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3427" START="3426">He</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="CNN_IP_20030408.1600.03-EV19-3">
+			
+    
+			<extent>
+				
+      
+				<charseq END="3452" START="3426">He
+was hanged there, hanged</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="3452" START="3426">He
+was hanged there, hanged</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="3452" START="3447">hanged</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030408.1600.03-E50-118" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3427" START="3426">He</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030408.1600.03-EV20" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Die" TENSE="Past" TYPE="Life">
+		
+  
+		<event_argument REFID="CNN_IP_20030408.1600.03-E58" ROLE="Victim"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030408.1600.03-E1" ROLE="Place"/>
+		
+  
+		<event_mention ID="CNN_IP_20030408.1600.03-EV20-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="4099" START="4087">who died here</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="4142" START="4061">The hundreds or thousands who died here who were
+given no trial, no voice, cry out</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="4094" START="4091">died</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030408.1600.03-E58-132" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4089" START="4087">who</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030408.1600.03-E1-66" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4099" START="4096">here</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

@@ -1,0 +1,122 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Specific" ID="APW_ENG_20030422.0469-EV8" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Meet" TENSE="Past" TYPE="Contact">
+		
+  
+		<event_argument REFID="APW_ENG_20030422.0469-E11" ROLE="Entity"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030422.0469-T2" ROLE="Time-Within"/>
+		
+  
+		<event_mention ID="APW_ENG_20030422.0469-EV8-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1876" START="1843">meeting later Tuesday, the council</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="2018" START="1812">At another closed-door council meeting later Tuesday, the council was
+to hear from Benon Sevan, head of the U.N. oil-for-food program,
+which had been providing food for 60 percent of Iraq's 24 million
+people</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1849" START="1843">meeting</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030422.0469-E11-40" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1876" START="1866">the council</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030422.0469-T2-1" ROLE="Time-Within">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1863" START="1851">later Tuesday</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="APW_ENG_20030422.0469-EV9" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_mention ID="APW_ENG_20030422.0469-EV9-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="2631" START="2624">fighting</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="2710" START="2515">These include not only Iraq's disarmament and the future of sanctions
+but the U.N. role in Iraq now that the fighting is over, control of
+Iraq's oil revenue, and lucrative reconstruction contracts</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="2631" START="2624">fighting</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

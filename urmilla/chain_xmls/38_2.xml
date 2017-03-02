@@ -1,0 +1,159 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Specific" ID="APW_ENG_20030422.0469-EV4" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Transport" TENSE="Past" TYPE="Movement">
+		
+  
+		<event_argument REFID="APW_ENG_20030422.0469-E44" ROLE="Person"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030422.0469-E28" ROLE="Destination"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030422.0469-E42" ROLE="Agent"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030422.0469-T18" ROLE="Time-After"/>
+		
+  
+		<event_mention ID="APW_ENG_20030422.0469-EV4-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="3147" START="3004">The Bush administration, which accused Blix of hindering its drive
+for international support for the war, has already sent its own teams
+to Iraq</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="3177" START="3004">The Bush administration, which accused Blix of hindering its drive
+for international support for the war, has already sent its own teams
+to Iraq to search for illegal weapons</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="3125" START="3122">sent</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030422.0469-E44-81" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3139" START="3127">its own teams</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030422.0469-E28-105" ROLE="Destination">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3147" START="3144">Iraq</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030422.0469-E42-75" ROLE="Agent">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3026" START="3004">The Bush administration</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030422.0469-T18-1" ROLE="Time-After">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3120" START="3114">already</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="APW_ENG_20030422.0469-EV10" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_mention ID="APW_ENG_20030422.0469-EV10-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="3107" START="3105">war</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="3177" START="3004">The Bush administration, which accused Blix of hindering its drive
+for international support for the war, has already sent its own teams
+to Iraq to search for illegal weapons</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="3107" START="3105">war</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

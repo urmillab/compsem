@@ -1,0 +1,158 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Specific" ID="CNNHL_ENG_20030425_183518.12-EV1" MODALITY="Other" POLARITY="Positive" SUBTYPE="Release-Parole" TENSE="Unspecified" TYPE="Justice">
+		
+  
+		<event_argument REFID="CNNHL_ENG_20030425_183518.12-E3" ROLE="Person"/>
+		
+  
+		<event_argument REFID="CNNHL_ENG_20030425_183518.12-E1" ROLE="Entity"/>
+		
+  
+		<event_mention ID="CNNHL_ENG_20030425_183518.12-EV1-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="435" START="351">negotiators say he demanded the release of four prisoners,
+including ramzi binalshibh</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="495" START="351">negotiators say he demanded the release of four prisoners,
+including ramzi binalshibh, a september 11th suspect apprehended last
+year in pakistan</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="389" START="383">release</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNNHL_ENG_20030425_183518.12-E3-5" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="435" START="420">ramzi binalshibh</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNNHL_ENG_20030425_183518.12-E1-25" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="361" START="351">negotiators</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="CNNHL_ENG_20030425_183518.12-EV2" MODALITY="Asserted" POLARITY="Negative" SUBTYPE="Attack" TENSE="Past" TYPE="Conflict">
+		
+  
+		<event_argument REFID="CNNHL_ENG_20030425_183518.12-E9" ROLE="Target"/>
+		
+  
+		<event_argument REFID="CNNHL_ENG_20030425_183518.12-E8" ROLE="Attacker"/>
+		
+  
+		<event_mention ID="CNNHL_ENG_20030425_183518.12-EV2-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="568" START="498">police captured the 17-year-old hijacking suspect
+without firing a shot</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="568" START="498">police captured the 17-year-old hijacking suspect
+without firing a shot</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="568" START="565">shot</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNNHL_ENG_20030425_183518.12-E9-8" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="546" START="514">the 17-year-old hijacking suspect</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNNHL_ENG_20030425_183518.12-E8-11" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="503" START="498">police</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

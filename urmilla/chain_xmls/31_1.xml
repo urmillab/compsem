@@ -1,0 +1,680 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Generic" ID="fsh_29361-EV1" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_argument REFID="fsh_29361-E8" ROLE="Attacker"/>
+		
+  
+		<event_argument REFID="fsh_29361-E16" ROLE="Attacker"/>
+		
+  
+		<event_argument REFID="fsh_29361-E16" ROLE="Place"/>
+		
+  
+		<event_argument REFID="fsh_29361-E8" ROLE="Target"/>
+		
+  
+		<event_argument REFID="fsh_29361-E16" ROLE="Target"/>
+		
+  
+		<event_mention ID="fsh_29361-EV1-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1584" START="1553">conflict between Arab and Israel</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1868" START="1368">I believe he -- -- in my opinion he- he was a
+good leader -- and, um,  I believe what,  eh, has to be done -- right now
+is to ((apply)) -- the United Nations', uh,  decisions about the
+conflict between Arab and Israel because there is -- -- there are a lot
+of,  uh, decisions have been made -- have been made -- and this, uh-
+For example, one of them was, uh, decision number two forty-two -- and
+this was about -- the ha- establishing two- two countries,  one for
+Israel and another one for Palestine</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1560" START="1553">conflict</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="fsh_29361-E8-77" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1573" START="1570">Arab</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="fsh_29361-E16-78" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1584" START="1579">Israel</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="fsh_29361-E16-78" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1584" START="1579">Israel</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="fsh_29361-E8-77" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1573" START="1570">Arab</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="fsh_29361-E16-78" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1584" START="1579">Israel</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="fsh_29361-EV2" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Die" TENSE="Past" TYPE="Life">
+		
+  
+		<event_argument REFID="fsh_29361-E6" ROLE="Victim"/>
+		
+  
+		<event_argument REFID="fsh_29361-E43" ROLE="Place"/>
+		
+  
+		<event_argument REFID="fsh_29361-T2" ROLE="Time-Within"/>
+		
+  
+		<event_mention ID="fsh_29361-EV2-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="77" START="63">Death of Arafat</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="77" START="63">Death of Arafat</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="67" START="63">Death</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="fsh_29361-E6-99" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="77" START="72">Arafat</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="fsh_29361-EV2-2">
+			
+    
+			<extent>
+				
+      
+				<charseq END="155" START="83">Controversial PLO leader Yasser Arafat died in
+a Paris hospital last week</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="155" START="83">Controversial PLO leader Yasser Arafat died in
+a Paris hospital last week</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="125" START="122">died</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="fsh_29361-E6-1" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="120" START="83">Controversial PLO leader Yasser Arafat</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="fsh_29361-E43-208" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="145" START="130">a Paris hospital</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="fsh_29361-T2-1" ROLE="Time-Within">
+				
+      
+				<extent>
+					
+        
+					<charseq END="155" START="147">last week</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="fsh_29361-EV2-3">
+			
+    
+			<extent>
+				
+      
+				<charseq END="185" START="172">Arafat's death</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="241" START="159">Do you think Arafat's death will help or
+hurt the Israeli-Palestinian peace process</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="185" START="181">death</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="fsh_29361-E6-210" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="177" START="172">Arafat</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="fsh_29361-EV2-4">
+			
+    
+			<extent>
+				
+      
+				<charseq END="349" START="335">Arafat
+has died</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="349" START="271">What do you think US policy should be toward Palestine now that Arafat
+has died</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="349" START="346">died</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="fsh_29361-E6-218" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="340" START="335">Arafat</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="fsh_29361-EV3" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_argument REFID="fsh_29361-E16" ROLE="Attacker"/>
+		
+  
+		<event_argument REFID="fsh_29361-E17" ROLE="Attacker"/>
+		
+  
+		<event_argument REFID="fsh_29361-E16" ROLE="Target"/>
+		
+  
+		<event_argument REFID="fsh_29361-E17" ROLE="Target"/>
+		
+  
+		<event_mention ID="fsh_29361-EV3-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="2535" START="2507">Israeli, Palestinian
+conflict</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="2819" START="2489">But, eh,  eh, for Israeli, Palestinian
+conflict there's a lot of decisions that has to be -- applied but until
+now -- she didn't put any pressure,  eh,  toward ((this and)) and I
+believe this policy has been, uh,  this kind of policy,  eh,  um,  eh,
+became more and more during -- eh, during, uh, eh, Bush -- -- President
+Bush time</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="2535" START="2528">conflict</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="fsh_29361-E16-98" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2513" START="2507">Israeli</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="fsh_29361-E17-100" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2526" START="2516">Palestinian</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="fsh_29361-E16-98" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2513" START="2507">Israeli</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="fsh_29361-E17-100" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2526" START="2516">Palestinian</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="fsh_29361-EV5" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Meet" TENSE="Past" TYPE="Contact">
+		
+  
+		<event_argument REFID="fsh_29361-E25" ROLE="Place"/>
+		
+  
+		<event_argument REFID="fsh_29361-E6" ROLE="Entity"/>
+		
+  
+		<event_argument REFID="fsh_29361-E22" ROLE="Entity"/>
+		
+  
+		<event_argument REFID="fsh_29361-T8" ROLE="Time-Within"/>
+		
+  
+		<event_mention ID="fsh_29361-EV5-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="3103" START="2957">that time, if you remember,  um,  Yasser Arafat -- and, uh,
+the prime minister of Israel, his name was Barak,  they met together
+in the White House</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="3254" START="2823">For example, before, eh, during Clinton,  I believe at
+that time -- Clinton was trying hard -- to solve this problem and I
+believe at that time, if you remember,  um,  Yasser Arafat -- and, uh,
+the prime minister of Israel, his name was Barak,  they met together
+in the White House -- and -- they almost came to an agreement -- to solve
+this problem -- and during Clinton, eh,  period -- they had, uh, this
+((Oslo)) a- eh, agreement</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="3075" START="3073">met</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="fsh_29361-E25-114" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3103" START="3089">the White House</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="fsh_29361-E6-108" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3003" START="2991">Yasser Arafat</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="fsh_29361-E22-109" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3044" START="3017">the prime minister of Israel</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="fsh_29361-T8-1" ROLE="Time-Within">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2965" START="2957">that time</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="fsh_29361-EV6" MODALITY="Other" POLARITY="Positive" SUBTYPE="Meet" TENSE="Unspecified" TYPE="Contact">
+		
+  
+		<event_argument REFID="fsh_29361-E29" ROLE="Entity"/>
+		
+  
+		<event_mention ID="fsh_29361-EV6-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="4927" START="4824">the
+people that are in charge, the- eh, the people that run the
+governments there -- do need to sit down</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="5025" START="4796">I think,  the people,  uh,  the
+people that are in charge, the- eh, the people that run the
+governments there -- do need to sit down an- and- and be in touch with
+each other and if they need a mediator or something like that, that</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="4927" START="4920">sit down</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="fsh_29361-E29-151" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4852" START="4824">the
+people that are in charge</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

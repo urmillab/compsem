@@ -1,0 +1,533 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Specific" ID="FLOPPINGACES_20041228.0927.010-EV8" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Transport" TENSE="Past" TYPE="Movement">
+		
+  
+		<event_argument REFID="FLOPPINGACES_20041228.0927.010-E25" ROLE="Person"/>
+		
+  
+		<event_argument REFID="FLOPPINGACES_20041228.0927.010-E50" ROLE="Destination"/>
+		
+  
+		<event_argument REFID="FLOPPINGACES_20041228.0927.010-T4" ROLE="Time-Within"/>
+		
+  
+		<event_mention ID="FLOPPINGACES_20041228.0927.010-EV8-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1675" START="1617">Prime Minister Tony Blair gave recently while
+visiting Iraq</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1675" START="1588">This
+brings to mind a speech Prime Minister Tony Blair gave recently while
+visiting Iraq</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1670" START="1663">visiting</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="FLOPPINGACES_20041228.0927.010-E25-53" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1641" START="1617">Prime Minister Tony Blair</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="FLOPPINGACES_20041228.0927.010-E50-55" ROLE="Destination">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1675" START="1672">Iraq</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="FLOPPINGACES_20041228.0927.010-T4-1" ROLE="Time-Within">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1655" START="1648">recently</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="FLOPPINGACES_20041228.0927.010-EV9" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Die" TENSE="Present" TYPE="Life">
+		
+  
+		<event_argument REFID="FLOPPINGACES_20041228.0927.010-E17" ROLE="Victim"/>
+		
+  
+		<event_argument REFID="FLOPPINGACES_20041228.0927.010-E50" ROLE="Place"/>
+		
+  
+		<event_argument REFID="FLOPPINGACES_20041228.0927.010-E32" ROLE="Victim"/>
+		
+  
+		<event_argument REFID="FLOPPINGACES_20041228.0927.010-E31" ROLE="Agent"/>
+		
+  
+		<event_mention ID="FLOPPINGACES_20041228.0927.010-EV9-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="2118" START="2099">people dying in Iraq</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="2286" START="2089">There are people dying in Iraq, but
+the reason people are dying is because of the terrorism and the
+intimidation and the people who are deliberately killing anyone trying
+to make this country better</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="2110" START="2106">dying</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="FLOPPINGACES_20041228.0927.010-E17-37" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2118" START="2099">people dying in Iraq</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="FLOPPINGACES_20041228.0927.010-E50-73" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2118" START="2115">Iraq</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="FLOPPINGACES_20041228.0927.010-EV9-2">
+			
+    
+			<extent>
+				
+      
+				<charseq END="2151" START="2115">Iraq, but
+the reason people are dying</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="2286" START="2089">There are people dying in Iraq, but
+the reason people are dying is because of the terrorism and the
+intimidation and the people who are deliberately killing anyone trying
+to make this country better</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="2151" START="2147">dying</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="FLOPPINGACES_20041228.0927.010-E50-73" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2118" START="2115">Iraq</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="FLOPPINGACES_20041228.0927.010-E17-108" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2141" START="2136">people</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="FLOPPINGACES_20041228.0927.010-EV9-3">
+			
+    
+			<extent>
+				
+      
+				<charseq END="2286" START="2206">the people who are deliberately killing anyone trying
+to make this country better</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="2286" START="2089">There are people dying in Iraq, but
+the reason people are dying is because of the terrorism and the
+intimidation and the people who are deliberately killing anyone trying
+to make this country better</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="2244" START="2238">killing</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="FLOPPINGACES_20041228.0927.010-E32-76" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2286" START="2246">anyone trying
+to make this country better</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="FLOPPINGACES_20041228.0927.010-E31-74" ROLE="Agent">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2286" START="2206">the people who are deliberately killing anyone trying
+to make this country better</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="FLOPPINGACES_20041228.0927.010-E31-75" ROLE="Agent">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2219" START="2217">who</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="FLOPPINGACES_20041228.0927.010-EV10" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Transport" TENSE="Unspecified" TYPE="Movement">
+		
+  
+		<event_argument REFID="FLOPPINGACES_20041228.0927.010-E47" ROLE="Person"/>
+		
+  
+		<event_argument REFID="FLOPPINGACES_20041228.0927.010-E39" ROLE="Destination"/>
+		
+  
+		<event_mention ID="FLOPPINGACES_20041228.0927.010-EV10-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="2938" START="2902">the Green Zone,
+they've got to travel</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="2954" START="2759">And those people from that
+electoral commission that I described as the heroes of the new
+Iraq--every day . . . a lot of them aren't living in the Green Zone,
+they've got to travel in from outside</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="2938" START="2933">travel</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="FLOPPINGACES_20041228.0927.010-E47-103" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2921" START="2918">they</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="FLOPPINGACES_20041228.0927.010-E39-95" ROLE="Destination">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2915" START="2902">the Green Zone</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="FLOPPINGACES_20041228.0927.010-EV11" MODALITY="Other" POLARITY="Positive" SUBTYPE="Attack" TENSE="Future" TYPE="Conflict">
+		
+  
+		<event_argument REFID="FLOPPINGACES_20041228.0927.010-E47" ROLE="Target"/>
+		
+  
+		<event_mention ID="FLOPPINGACES_20041228.0927.010-EV11-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="3058" START="3003">they're going to be subject to brutality or intimidation</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="3102" START="2957">They do not know at any point in
+time whether they're going to be subject to brutality or intimidation,
+even death, and yet they carry on doing it</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="3058" START="3034">brutality or intimidation</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="FLOPPINGACES_20041228.0927.010-E47-104" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3006" START="3003">they</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="FLOPPINGACES_20041228.0927.010-EV12" MODALITY="Other" POLARITY="Positive" SUBTYPE="Die" TENSE="Future" TYPE="Life">
+		
+  
+		<event_argument REFID="FLOPPINGACES_20041228.0927.010-E47" ROLE="Victim"/>
+		
+  
+		<event_mention ID="FLOPPINGACES_20041228.0927.010-EV12-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="3070" START="2957">They do not know at any point in
+time whether they're going to be subject to brutality or intimidation,
+even death</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="3102" START="2957">They do not know at any point in
+time whether they're going to be subject to brutality or intimidation,
+even death, and yet they carry on doing it</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="3070" START="3066">death</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="FLOPPINGACES_20041228.0927.010-E47-105" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2960" START="2957">They</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

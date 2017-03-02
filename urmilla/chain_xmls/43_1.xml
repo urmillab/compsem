@@ -1,0 +1,408 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Specific" ID="misc.invest.marketplace_20050208.2406-EV1" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Transfer-Money" TENSE="Past" TYPE="Transaction">
+		
+  
+		<event_argument REFID="misc.invest.marketplace_20050208.2406-E30" ROLE="Giver"/>
+		
+  
+		<event_argument REFID="misc.invest.marketplace_20050208.2406-E33" ROLE="Beneficiary"/>
+		
+  
+		<event_argument REFID="misc.invest.marketplace_20050208.2406-E33" ROLE="Recipient"/>
+		
+  
+		<event_mention ID="misc.invest.marketplace_20050208.2406-EV1-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="370" START="249">a company that raised an angel round of
+financing from a San Francisco angel investor who I never
+physically met initially</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="370" START="232">I am the head of a company that raised an angel round of
+financing from a San Francisco angel investor who I never
+physically met initially</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="269" START="264">raised</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="misc.invest.marketplace_20050208.2406-E30-54" ROLE="Giver">
+				
+      
+				<extent>
+					
+        
+					<charseq END="370" START="304">a San Francisco angel investor who I never
+physically met initially</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="misc.invest.marketplace_20050208.2406-E33-53" ROLE="Beneficiary">
+				
+      
+				<extent>
+					
+        
+					<charseq END="370" START="249">a company that raised an angel round of
+financing from a San Francisco angel investor who I never
+physically met initially</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="misc.invest.marketplace_20050208.2406-E33-53" ROLE="Recipient">
+				
+      
+				<extent>
+					
+        
+					<charseq END="370" START="249">a company that raised an angel round of
+financing from a San Francisco angel investor who I never
+physically met initially</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="misc.invest.marketplace_20050208.2406-EV2" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Transfer-Money" TENSE="Past" TYPE="Transaction">
+		
+  
+		<event_argument REFID="misc.invest.marketplace_20050208.2406-E38" ROLE="Giver"/>
+		
+  
+		<event_argument REFID="misc.invest.marketplace_20050208.2406-E39" ROLE="Giver"/>
+		
+  
+		<event_argument REFID="misc.invest.marketplace_20050208.2406-E2" ROLE="Giver"/>
+		
+  
+		<event_argument REFID="misc.invest.marketplace_20050208.2406-E4" ROLE="Giver"/>
+		
+  
+		<event_argument REFID="misc.invest.marketplace_20050208.2406-E6" ROLE="Giver"/>
+		
+  
+		<event_argument REFID="misc.invest.marketplace_20050208.2406-E8" ROLE="Giver"/>
+		
+  
+		<event_argument REFID="misc.invest.marketplace_20050208.2406-E10" ROLE="Giver"/>
+		
+  
+		<event_argument REFID="misc.invest.marketplace_20050208.2406-E12" ROLE="Giver"/>
+		
+  
+		<event_argument REFID="misc.invest.marketplace_20050208.2406-E13" ROLE="Giver"/>
+		
+  
+		<event_mention ID="misc.invest.marketplace_20050208.2406-EV2-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1502" START="1290">the CEOS and execs of companies such as Fred Smith of FEDEX,
+Norman Waitt Of Gateway, Jeff Skoll of Ebay, Roger Marino of
+EMC, Marc Turtletaub of The Money Store, Marc Cuban/Todd
+Wagner, and others have all parked</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1557" START="1290">the CEOS and execs of companies such as Fred Smith of FEDEX,
+Norman Waitt Of Gateway, Jeff Skoll of Ebay, Roger Marino of
+EMC, Marc Turtletaub of The Money Store, Marc Cuban/Todd
+Wagner, and others have all parked their money in film ventures
+and deals similar to ours</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1502" START="1497">parked</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="misc.invest.marketplace_20050208.2406-E38-64" ROLE="Giver">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1486" START="1290">the CEOS and execs of companies such as Fred Smith of FEDEX,
+Norman Waitt Of Gateway, Jeff Skoll of Ebay, Roger Marino of
+EMC, Marc Turtletaub of The Money Store, Marc Cuban/Todd
+Wagner, and others</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="misc.invest.marketplace_20050208.2406-E39-65" ROLE="Giver">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1486" START="1290">the CEOS and execs of companies such as Fred Smith of FEDEX,
+Norman Waitt Of Gateway, Jeff Skoll of Ebay, Roger Marino of
+EMC, Marc Turtletaub of The Money Store, Marc Cuban/Todd
+Wagner, and others</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="misc.invest.marketplace_20050208.2406-E2-2" ROLE="Giver">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1348" START="1330">Fred Smith of FEDEX</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="misc.invest.marketplace_20050208.2406-E4-4" ROLE="Giver">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1373" START="1351">Norman Waitt Of Gateway</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="misc.invest.marketplace_20050208.2406-E6-6" ROLE="Giver">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1393" START="1376">Jeff Skoll of Ebay</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="misc.invest.marketplace_20050208.2406-E8-8" ROLE="Giver">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1414" START="1396">Roger Marino of
+EMC</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="misc.invest.marketplace_20050208.2406-E10-10" ROLE="Giver">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1450" START="1417">Marc Turtletaub of The Money Store</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="misc.invest.marketplace_20050208.2406-E12-12" ROLE="Giver">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1462" START="1453">Marc Cuban</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="misc.invest.marketplace_20050208.2406-E13-13" ROLE="Giver">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1486" START="1481">others</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="misc.invest.marketplace_20050208.2406-EV3" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="End-Position" TENSE="Past" TYPE="Personnel">
+		
+  
+		<event_argument REFID="misc.invest.marketplace_20050208.2406-E18" ROLE="Person"/>
+		
+  
+		<event_argument REFID="misc.invest.marketplace_20050208.2406-V10" ROLE="Position"/>
+		
+  
+		<event_mention ID="misc.invest.marketplace_20050208.2406-EV3-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1890" START="1669">a recently exited
+executive with a large severance pay who is sitting in the middle
+of nowhere, USA, is bored, and has always secretly wanted to get
+into the film business for tax, vanity, or alternative investment
+reasons</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1890" START="1561">I need a similar self made entrepreneur who recently sold his
+company; is currently at the helm of one; or, a recently exited
+executive with a large severance pay who is sitting in the middle
+of nowhere, USA, is bored, and has always secretly wanted to get
+into the film business for tax, vanity, or alternative investment
+reasons</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1685" START="1680">exited</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="misc.invest.marketplace_20050208.2406-E18-20" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1890" START="1669">a recently exited
+executive with a large severance pay who is sitting in the middle
+of nowhere, USA, is bored, and has always secretly wanted to get
+into the film business for tax, vanity, or alternative investment
+reasons</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="misc.invest.marketplace_20050208.2406-V10-1" ROLE="Position">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1695" START="1687">executive</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

@@ -1,0 +1,213 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Specific" ID="CNN_ENG_20030402_190500.11-EV3" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Phone-Write" TENSE="Past" TYPE="Contact">
+		
+  
+		<event_argument REFID="CNN_ENG_20030402_190500.11-E13" ROLE="Entity"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030402_190500.11-E24" ROLE="Entity"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030402_190500.11-EV3-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1266" START="1215">saddam hussein's response to a letter from his niece</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1266" START="1197">it was said to be
+saddam hussein's response to a letter from his niece</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1251" START="1246">letter</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030402_190500.11-E13-32" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1228" START="1215">saddam hussein</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030402_190500.11-E24-33" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1266" START="1258">his niece</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="CNN_ENG_20030402_190500.11-EV6" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Past" TYPE="Conflict">
+		
+  
+		<event_argument REFID="CNN_ENG_20030402_190500.11-E21" ROLE="Attacker"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030402_190500.11-E22" ROLE="Target"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030402_190500.11-EV6-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1194" START="1156">iraqis who have fought coalition forces</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1194" START="1122">regardless, the statement
+praised iraqis who have fought coalition forces</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1177" START="1172">fought</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030402_190500.11-E21-28" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1194" START="1156">iraqis who have fought coalition forces</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030402_190500.11-E22-30" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1194" START="1179">coalition forces</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_ENG_20030402_190500.11-EV7" MODALITY="Other" POLARITY="Negative" SUBTYPE="Die" TENSE="Past" TYPE="Life">
+		
+  
+		<event_argument REFID="CNN_ENG_20030402_190500.11-E13" ROLE="Victim"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030402_190500.11-EV7-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1119" START="1086">the iraqi president is still alive</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1119" START="1042">u.s. officials say they aren't sure
+whether the iraqi president is still alive</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1119" START="1115">alive</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030402_190500.11-E13-26" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1104" START="1086">the iraqi president</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

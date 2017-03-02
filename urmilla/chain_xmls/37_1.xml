@@ -1,0 +1,140 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Specific" ID="APW_ENG_20030412.0531-EV2" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Elect" TENSE="Past" TYPE="Personnel">
+		
+  
+		<event_argument REFID="APW_ENG_20030412.0531-E139" ROLE="Place"/>
+		
+  
+		<event_mention ID="APW_ENG_20030412.0531-EV2-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="277" START="248">elections held, and East Timor</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="283" START="148">The dictator Suharto has fallen, the constitution has changed, the
+media was unshackled, democratic elections held, and East Timor
+freed</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="256" START="248">elections</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030412.0531-E139-214" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="277" START="268">East Timor</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="APW_ENG_20030412.0531-EV4" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="End-Position" TENSE="Past" TYPE="Personnel">
+		
+  
+		<event_argument REFID="APW_ENG_20030412.0531-E25" ROLE="Person"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030412.0531-E139" ROLE="Place"/>
+		
+  
+		<event_mention ID="APW_ENG_20030412.0531-EV4-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="277" START="148">The dictator Suharto has fallen, the constitution has changed, the
+media was unshackled, democratic elections held, and East Timor</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="283" START="148">The dictator Suharto has fallen, the constitution has changed, the
+media was unshackled, democratic elections held, and East Timor
+freed</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="178" START="173">fallen</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030412.0531-E25-36" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="159" START="148">The dictator</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030412.0531-E139-214" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="277" START="268">East Timor</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

@@ -1,0 +1,355 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Specific" ID="CNN_ENG_20030415_173752.0-EV1" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Transfer-Ownership" TENSE="Unspecified" TYPE="Transaction">
+		
+  
+		<event_argument REFID="CNN_ENG_20030415_173752.0-E14" ROLE="Artifact"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030415_173752.0-E23" ROLE="Seller"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030415_173752.0-E26" ROLE="Buyer"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030415_173752.0-T3" ROLE="Time-Within"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030415_173752.0-EV1-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="286" START="187">this was the italian ship that was taken -- that
+was captured by palestinian terrorists back in 1985</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="479" START="187">this was the italian ship that was taken -- that
+was captured by palestinian terrorists back in 1985 and
+some may remember the story of leon clinghover, he was in a
+cheal chair and the terrorists shot him and pushed him over
+the side of the ship into the mediterranean where he
+obviously, died</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="247" START="240">captured</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030415_173752.0-E14-33" ROLE="Artifact">
+				
+      
+				<extent>
+					
+        
+					<charseq END="190" START="187">this</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030415_173752.0-E14-34" ROLE="Artifact">
+				
+      
+				<extent>
+					
+        
+					<charseq END="286" START="196">the italian ship that was taken -- that
+was captured by palestinian terrorists back in 1985</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030415_173752.0-E23-38" ROLE="Seller">
+				
+      
+				<extent>
+					
+        
+					<charseq END="206" START="200">italian</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030415_173752.0-E26-40" ROLE="Buyer">
+				
+      
+				<extent>
+					
+        
+					<charseq END="273" START="252">palestinian terrorists</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030415_173752.0-T3-1" ROLE="Time-Within">
+				
+      
+				<extent>
+					
+        
+					<charseq END="286" START="283">1985</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_ENG_20030415_173752.0-EV2" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Past" TYPE="Conflict">
+		
+  
+		<event_argument REFID="CNN_ENG_20030415_173752.0-E26" ROLE="Attacker"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030415_173752.0-E1" ROLE="Place"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030415_173752.0-E28" ROLE="Target"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030415_173752.0-EV2-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="454" START="368">the terrorists shot him and pushed him over
+the side of the ship into the mediterranean</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="479" START="187">this was the italian ship that was taken -- that
+was captured by palestinian terrorists back in 1985 and
+some may remember the story of leon clinghover, he was in a
+cheal chair and the terrorists shot him and pushed him over
+the side of the ship into the mediterranean where he
+obviously, died</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="386" START="383">shot</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030415_173752.0-E26-2" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="381" START="368">the terrorists</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030415_173752.0-E1-6" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="454" START="438">the mediterranean</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030415_173752.0-E28-3" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="390" START="388">him</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_ENG_20030415_173752.0-EV3" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Die" TENSE="Past" TYPE="Life">
+		
+  
+		<event_argument REFID="CNN_ENG_20030415_173752.0-E28" ROLE="Victim"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030415_173752.0-E26" ROLE="Agent"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030415_173752.0-E1" ROLE="Place"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030415_173752.0-T3" ROLE="Time-Within"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030415_173752.0-EV3-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="479" START="283">1985 and
+some may remember the story of leon clinghover, he was in a
+cheal chair and the terrorists shot him and pushed him over
+the side of the ship into the mediterranean where he
+obviously, died</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="479" START="187">this was the italian ship that was taken -- that
+was captured by palestinian terrorists back in 1985 and
+some may remember the story of leon clinghover, he was in a
+cheal chair and the terrorists shot him and pushed him over
+the side of the ship into the mediterranean where he
+obviously, died</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="479" START="476">died</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030415_173752.0-E28-7" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="463" START="462">he</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030415_173752.0-E26-2" ROLE="Agent">
+				
+      
+				<extent>
+					
+        
+					<charseq END="381" START="368">the terrorists</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030415_173752.0-E1-6" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="454" START="438">the mediterranean</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030415_173752.0-T3-1" ROLE="Time-Within">
+				
+      
+				<extent>
+					
+        
+					<charseq END="286" START="283">1985</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

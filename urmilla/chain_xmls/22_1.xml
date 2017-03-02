@@ -1,0 +1,158 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Specific" ID="CNN_ENG_20030612_173004.2-EV1" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Past" TYPE="Conflict">
+		
+  
+		<event_argument REFID="CNN_ENG_20030612_173004.2-E2" ROLE="Instrument"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030612_173004.2-T2" ROLE="Time-Within"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030612_173004.2-EV1-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="357" START="323">anthrax attacks in the
+fall of 2001</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="390" START="276">it's part of the investigation into the deadly anthrax attacks in the
+fall of 2001 in which five people were killed</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="337" START="331">attacks</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030612_173004.2-E2-9" ROLE="Instrument">
+				
+      
+				<extent>
+					
+        
+					<charseq END="329" START="323">anthrax</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030612_173004.2-T2-1" ROLE="Time-Within">
+				
+      
+				<extent>
+					
+        
+					<charseq END="357" START="342">the
+fall of 2001</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_ENG_20030612_173004.2-EV2" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Die" TENSE="Past" TYPE="Life">
+		
+  
+		<event_argument REFID="CNN_ENG_20030612_173004.2-E2" ROLE="Instrument"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030612_173004.2-E9" ROLE="Victim"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030612_173004.2-EV2-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="390" START="323">anthrax attacks in the
+fall of 2001 in which five people were killed</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="390" START="276">it's part of the investigation into the deadly anthrax attacks in the
+fall of 2001 in which five people were killed</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="390" START="385">killed</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030612_173004.2-E2-9" ROLE="Instrument">
+				
+      
+				<extent>
+					
+        
+					<charseq END="329" START="323">anthrax</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030612_173004.2-E9-10" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="378" START="368">five people</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

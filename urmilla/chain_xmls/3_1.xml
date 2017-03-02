@@ -1,0 +1,1237 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Specific" ID="CNN_IP_20030404.1600.00-2-EV2" MODALITY="Other" POLARITY="Positive" SUBTYPE="Attack" TENSE="Past" TYPE="Conflict">
+		
+  
+		<event_argument REFID="CNN_IP_20030404.1600.00-2-E25" ROLE="Target"/>
+		
+  
+		<event_mention ID="CNN_IP_20030404.1600.00-2-EV2-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1828" START="1808">It was either shelled</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1838" START="1808">It was either shelled or bombed</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1828" START="1822">shelled</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030404.1600.00-2-E25-48" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1809" START="1808">It</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030404.1600.00-2-EV4" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_argument REFID="CNN_IP_20030404.1600.00-2-E23" ROLE="Target"/>
+		
+  
+		<event_mention ID="CNN_IP_20030404.1600.00-2-EV4-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1563" START="1527">Iraqi defenses pounded by the bombing</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1617" START="1494">Less than 20 minutes later, with Iraqi defenses pounded by the bombing,
+they no longer held the bridge over the Khoser River</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1563" START="1557">bombing</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030404.1600.00-2-E23-31" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1540" START="1527">Iraqi defenses</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="CNN_IP_20030404.1600.00-2-EV5" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_argument REFID="CNN_IP_20030404.1600.00-2-E21" ROLE="Attacker"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030404.1600.00-2-E93" ROLE="Attacker"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030404.1600.00-2-E15" ROLE="Place"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030404.1600.00-2-E107" ROLE="Target"/>
+		
+  
+		<event_mention ID="CNN_IP_20030404.1600.00-2-EV5-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="349" START="194">Attacking on the ground and calling in air strikes, Kurdish fighters and
+U.S. troops have dislodged stubborn Iraqi soldiers at a key bridge in
+northern Iraq</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="349" START="194">Attacking on the ground and calling in air strikes, Kurdish fighters and
+U.S. troops have dislodged stubborn Iraqi soldiers at a key bridge in
+northern Iraq</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="202" START="194">Attacking</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030404.1600.00-2-E21-1" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="261" START="246">Kurdish fighters</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030404.1600.00-2-E93-142" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="277" START="267">U.S. troops</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030404.1600.00-2-E15-184" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="349" START="321">a key bridge in
+northern Iraq</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030404.1600.00-2-E107-178" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="349" START="294">stubborn Iraqi soldiers at a key bridge in
+northern Iraq</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="CNN_IP_20030404.1600.00-2-EV6" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_argument REFID="CNN_IP_20030404.1600.00-2-E9" ROLE="Attacker"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030404.1600.00-2-E3" ROLE="Target"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030404.1600.00-2-E21" ROLE="Attacker"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030404.1600.00-2-E93" ROLE="Attacker"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030404.1600.00-2-E15" ROLE="Place"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030404.1600.00-2-E107" ROLE="Target"/>
+		
+  
+		<event_mention ID="CNN_IP_20030404.1600.00-2-EV6-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="859" START="800">the special forces calling in air strikes on Iraqi positions</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="873" START="773">Soldiers were Kurdish,
+but the special forces calling in air strikes on Iraqi positions were
+American</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="840" START="834">strikes</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030404.1600.00-2-E9-10" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="859" START="800">the special forces calling in air strikes on Iraqi positions</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030404.1600.00-2-E3-11" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="849" START="845">Iraqi</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="CNN_IP_20030404.1600.00-2-EV6-2">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1198" START="1159">the Americans are calling in air strikes</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1198" START="1102">The Iraqis are firing artillery like that in response
+to the Americans are calling in air strikes</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1198" START="1192">strikes</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030404.1600.00-2-E9-180" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1171" START="1159">the Americans</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="CNN_IP_20030404.1600.00-2-EV6-3">
+			
+    
+			<extent>
+				
+      
+				<charseq END="349" START="237">strikes, Kurdish fighters and
+U.S. troops have dislodged stubborn Iraqi soldiers at a key bridge in
+northern Iraq</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="349" START="194">Attacking on the ground and calling in air strikes, Kurdish fighters and
+U.S. troops have dislodged stubborn Iraqi soldiers at a key bridge in
+northern Iraq</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="243" START="237">strikes</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030404.1600.00-2-E21-1" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="261" START="246">Kurdish fighters</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030404.1600.00-2-E93-142" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="277" START="267">U.S. troops</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030404.1600.00-2-E15-184" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="349" START="321">a key bridge in
+northern Iraq</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030404.1600.00-2-E107-178" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="349" START="294">stubborn Iraqi soldiers at a key bridge in
+northern Iraq</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030404.1600.00-2-EV7" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Transport" TENSE="Past" TYPE="Movement">
+		
+  
+		<event_argument REFID="CNN_IP_20030404.1600.00-2-E1" ROLE="Destination"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030404.1600.00-2-E113" ROLE="Agent"/>
+		
+  
+		<event_mention ID="CNN_IP_20030404.1600.00-2-EV7-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="612" START="537">Kurdish militia and their flags speeding to
+a town abandoned by Iraqi forces</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="612" START="507">A few miles further to Mosul, Kurdish militia and their flags speeding to
+a town abandoned by Iraqi forces</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="576" START="569">speeding</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030404.1600.00-2-E1-193" ROLE="Destination">
+				
+      
+				<extent>
+					
+        
+					<charseq END="612" START="581">a town abandoned by Iraqi forces</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030404.1600.00-2-E113-190" ROLE="Agent">
+				
+      
+				<extent>
+					
+        
+					<charseq END="551" START="537">Kurdish militia</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030404.1600.00-2-EV8" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Transport" TENSE="Past" TYPE="Movement">
+		
+  
+		<event_argument REFID="CNN_IP_20030404.1600.00-2-E2" ROLE="Person"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030404.1600.00-2-E1" ROLE="Origin"/>
+		
+  
+		<event_mention ID="CNN_IP_20030404.1600.00-2-EV8-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="612" START="581">a town abandoned by Iraqi forces</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="612" START="507">A few miles further to Mosul, Kurdish militia and their flags speeding to
+a town abandoned by Iraqi forces</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="596" START="588">abandoned</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030404.1600.00-2-E2-2" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="612" START="601">Iraqi forces</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030404.1600.00-2-E1-193" ROLE="Origin">
+				
+      
+				<extent>
+					
+        
+					<charseq END="612" START="581">a town abandoned by Iraqi forces</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030404.1600.00-2-EV9" MODALITY="Other" POLARITY="Positive" SUBTYPE="Attack" TENSE="Past" TYPE="Conflict">
+		
+  
+		<event_argument REFID="CNN_IP_20030404.1600.00-2-E25" ROLE="Target"/>
+		
+  
+		<event_mention ID="CNN_IP_20030404.1600.00-2-EV9-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1838" START="1808">It was either shelled or bombed</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1838" START="1808">It was either shelled or bombed</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1838" START="1833">bombed</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030404.1600.00-2-E25-48" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1809" START="1808">It</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030404.1600.00-2-EV10" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Past" TYPE="Conflict">
+		
+  
+		<event_argument REFID="CNN_IP_20030404.1600.00-2-E15" ROLE="Place"/>
+		
+  
+		<event_mention ID="CNN_IP_20030404.1600.00-2-EV10-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1907" START="1872">battle for the bridge just behind us</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1907" START="1841">Now,
+it's a small part of this battle for the bridge just behind us</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1877" START="1872">battle</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030404.1600.00-2-E15-49" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1907" START="1883">the bridge just behind us</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030404.1600.00-2-EV12" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Past" TYPE="Conflict">
+		
+  
+		<event_argument REFID="CNN_IP_20030404.1600.00-2-E5" ROLE="Attacker"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030404.1600.00-2-E5" ROLE="Target"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030404.1600.00-2-T2" ROLE="Time-Holds"/>
+		
+  
+		<event_mention ID="CNN_IP_20030404.1600.00-2-EV12-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="649" START="621">a day of fighting, the Iraqis</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="770" START="615">After a day of fighting, the Iraqis
+were driven back five kilometers, about three miles down the main road
+west towards Mosul from the Kurdish city of Erbil</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="637" START="630">fighting</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030404.1600.00-2-E5-4" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="649" START="640">the Iraqis</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030404.1600.00-2-E5-4" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="649" START="640">the Iraqis</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030404.1600.00-2-T2-1" ROLE="Time-Holds">
+				
+      
+				<extent>
+					
+        
+					<charseq END="625" START="621">a day</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030404.1600.00-2-EV13" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Transport" TENSE="Past" TYPE="Movement">
+		
+  
+		<event_argument REFID="CNN_IP_20030404.1600.00-2-E5" ROLE="Person"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030404.1600.00-2-E6" ROLE="Origin"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030404.1600.00-2-E110" ROLE="Destination"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030404.1600.00-2-T2" ROLE="Time-After"/>
+		
+  
+		<event_mention ID="CNN_IP_20030404.1600.00-2-EV13-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="770" START="621">a day of fighting, the Iraqis
+were driven back five kilometers, about three miles down the main road
+west towards Mosul from the Kurdish city of Erbil</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="770" START="615">After a day of fighting, the Iraqis
+were driven back five kilometers, about three miles down the main road
+west towards Mosul from the Kurdish city of Erbil</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="666" START="656">driven back</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030404.1600.00-2-E5-4" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="649" START="640">the Iraqis</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030404.1600.00-2-E6-6" ROLE="Origin">
+				
+      
+				<extent>
+					
+        
+					<charseq END="770" START="746">the Kurdish city of Erbil</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030404.1600.00-2-E110-5" ROLE="Destination">
+				
+      
+				<extent>
+					
+        
+					<charseq END="739" START="735">Mosul</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030404.1600.00-2-T2-1" ROLE="Time-After">
+				
+      
+				<extent>
+					
+        
+					<charseq END="625" START="621">a day</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030404.1600.00-2-EV14" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Past" TYPE="Conflict">
+		
+  
+		<event_argument REFID="CNN_IP_20030404.1600.00-2-E12" ROLE="Attacker"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030404.1600.00-2-E13" ROLE="Instrument"/>
+		
+  
+		<event_mention ID="CNN_IP_20030404.1600.00-2-EV14-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="906" START="879">U.S. warplanes dropped bombs</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="952" START="876">As U.S. warplanes dropped bombs near the town, Kurdish fighters
+moved forward</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="900" START="894">dropped</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030404.1600.00-2-E12-13" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="881" START="879">U.S</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030404.1600.00-2-E13-14" ROLE="Instrument">
+				
+      
+				<extent>
+					
+        
+					<charseq END="906" START="902">bombs</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030404.1600.00-2-EV15" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_argument REFID="CNN_IP_20030404.1600.00-2-E97" ROLE="Place"/>
+		
+  
+		<event_mention ID="CNN_IP_20030404.1600.00-2-EV15-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1013" START="994">battle going on
+here</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1043" START="968">There's a slow-and-steady battle going on
+here for control of the key bridge</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="999" START="994">battle</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030404.1600.00-2-E97-147" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1013" START="1010">here</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="CNN_IP_20030404.1600.00-2-EV16" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_argument REFID="CNN_IP_20030404.1600.00-2-E5" ROLE="Attacker"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030404.1600.00-2-E17" ROLE="Instrument"/>
+		
+  
+		<event_mention ID="CNN_IP_20030404.1600.00-2-EV16-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1132" START="1102">The Iraqis are firing artillery</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1198" START="1102">The Iraqis are firing artillery like that in response
+to the Americans are calling in air strikes</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1122" START="1117">firing</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030404.1600.00-2-E5-22" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1111" START="1102">The Iraqis</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030404.1600.00-2-E17-23" ROLE="Instrument">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1132" START="1124">artillery</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="CNN_IP_20030404.1600.00-2-EV17" MODALITY="Other" POLARITY="Positive" SUBTYPE="Attack" TENSE="Future" TYPE="Conflict">
+		
+  
+		<event_argument REFID="CNN_IP_20030404.1600.00-2-E20" ROLE="Instrument"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030404.1600.00-2-E17" ROLE="Instrument"/>
+		
+  
+		<event_mention ID="CNN_IP_20030404.1600.00-2-EV17-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1430" START="1406">artillery and mortar fire</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1438" START="1328">That blast turned out to be a rocket-propelled
+grenade, but there's plenty of artillery and mortar fire to come</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1430" START="1427">fire</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030404.1600.00-2-E20-29" ROLE="Instrument">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1425" START="1420">mortar</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030404.1600.00-2-E17-175" ROLE="Instrument">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1414" START="1406">artillery</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

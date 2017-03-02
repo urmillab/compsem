@@ -1,0 +1,312 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Specific" ID="CNN_ENG_20030424_173553.8-EV1" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Charge-Indict" TENSE="Past" TYPE="Justice">
+		
+  
+		<event_argument REFID="CNN_ENG_20030424_173553.8-E9" ROLE="Defendant"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030424_173553.8-V2" ROLE="Crime"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030424_173553.8-EV1-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="373" START="302">the
+11th executive of health south charged with two counts of
+bank fraud</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="373" START="302">the
+11th executive of health south charged with two counts of
+bank fraud</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="343" START="337">charged</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030424_173553.8-E9-12" ROLE="Defendant">
+				
+      
+				<extent>
+					
+        
+					<charseq END="335" START="302">the
+11th executive of health south</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030424_173553.8-V2-1" ROLE="Crime">
+				
+      
+				<extent>
+					
+        
+					<charseq END="373" START="350">two counts of
+bank fraud</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="CNN_ENG_20030424_173553.8-EV1-2">
+			
+    
+			<extent>
+				
+      
+				<charseq END="473" START="376">the former chief financial officer became the
+50th execute anybody corporate america to be charged</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="496" START="376">the former chief financial officer became the
+50th execute anybody corporate america to be charged since
+enron's collapse</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="473" START="467">charged</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030424_173553.8-E9-14" ROLE="Defendant">
+				
+      
+				<extent>
+					
+        
+					<charseq END="409" START="376">the former chief financial officer</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_ENG_20030424_173553.8-EV2" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Charge-Indict" TENSE="Past" TYPE="Justice">
+		
+  
+		<event_argument REFID="CNN_ENG_20030424_173553.8-E14" ROLE="Defendant"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030424_173553.8-EV2-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="543" START="499">seven enron executives have also been
+charged</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="543" START="499">seven enron executives have also been
+charged</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="543" START="537">charged</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030424_173553.8-E14-18" ROLE="Defendant">
+				
+      
+				<extent>
+					
+        
+					<charseq END="520" START="499">seven enron executives</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_ENG_20030424_173553.8-EV3" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Declare-Bankruptcy" TENSE="Past" TYPE="Business">
+		
+  
+		<event_argument REFID="CNN_ENG_20030424_173553.8-E13" ROLE="Org"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030424_173553.8-EV3-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="586" START="561">enron filed for bankruptcy</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="586" START="546">507 days since enron filed for bankruptcy</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="586" START="577">bankruptcy</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030424_173553.8-E13-20" ROLE="Org">
+				
+      
+				<extent>
+					
+        
+					<charseq END="565" START="561">enron</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_ENG_20030424_173553.8-EV4" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Meet" TENSE="Past" TYPE="Contact">
+		
+  
+		<event_argument REFID="CNN_ENG_20030424_173553.8-E8" ROLE="Entity"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030424_173553.8-EV4-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="625" START="589">the se
+kre held a closed door meeting</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="687" START="589">the se
+kre held a closed door meeting on the settlement over
+conflict of interest in stock research</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="625" START="619">meeting</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030424_173553.8-E8-16" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="598" START="589">the se
+kre</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

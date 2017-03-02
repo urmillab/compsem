@@ -1,0 +1,408 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Specific" ID="fsh_29195-EV1" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Elect" TENSE="Past" TYPE="Personnel">
+		
+  
+		<event_argument REFID="fsh_29195-E12" ROLE="Person"/>
+		
+  
+		<event_mention ID="fsh_29195-EV1-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="111" START="76">President Bush has just been elected</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="274" START="76">President Bush has just been elected to another term
+in office, and he has already started to appoint new people to his
+political cabinet as current members like Colin Powell and John
+Ashcroft resign</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="111" START="105">elected</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="fsh_29195-E12-1" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="89" START="76">President Bush</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="fsh_29195-EV2" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="End-Position" TENSE="Unspecified" TYPE="Personnel">
+		
+  
+		<event_argument REFID="fsh_29195-E53" ROLE="Person"/>
+		
+  
+		<event_argument REFID="fsh_29195-E54" ROLE="Person"/>
+		
+  
+		<event_argument REFID="fsh_29195-E55" ROLE="Person"/>
+		
+  
+		<event_mention ID="fsh_29195-EV2-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="274" START="217">current members like Colin Powell and John
+Ashcroft resign</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="274" START="76">President Bush has just been elected to another term
+in office, and he has already started to appoint new people to his
+political cabinet as current members like Colin Powell and John
+Ashcroft resign</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="274" START="269">resign</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="fsh_29195-E53-291" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="267" START="217">current members like Colin Powell and John
+Ashcroft</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="fsh_29195-E54-292" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="249" START="238">Colin Powell</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="fsh_29195-E55-293" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="267" START="255">John
+Ashcroft</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="fsh_29195-EV4" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Start-Position" TENSE="Unspecified" TYPE="Personnel">
+		
+  
+		<event_argument REFID="fsh_29195-E51" ROLE="Person"/>
+		
+  
+		<event_mention ID="fsh_29195-EV4-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="187" START="170">appoint new people</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="274" START="76">President Bush has just been elected to another term
+in office, and he has already started to appoint new people to his
+political cabinet as current members like Colin Powell and John
+Ashcroft resign</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="176" START="170">appoint</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="fsh_29195-E51-211" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="187" START="178">new people</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="fsh_29195-EV5" MODALITY="Other" POLARITY="Positive" SUBTYPE="Start-Position" TENSE="Unspecified" TYPE="Personnel">
+		
+  
+		<event_argument REFID="fsh_29195-E56" ROLE="Person"/>
+		
+  
+		<event_argument REFID="fsh_29195-T4" ROLE="Time-Within"/>
+		
+  
+		<event_mention ID="fsh_29195-EV5-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="337" START="278">Who would you like to see appointed to his cabinet
+next term</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="337" START="278">Who would you like to see appointed to his cabinet
+next term</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="312" START="304">appointed</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="fsh_29195-E56-294" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="280" START="278">Who</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="fsh_29195-T4-1" ROLE="Time-Within">
+				
+      
+				<extent>
+					
+        
+					<charseq END="337" START="329">next term</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="fsh_29195-EV5-2">
+			
+    
+			<extent>
+				
+      
+				<charseq END="399" START="376">they should be
+appointed</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="399" START="341">Who are they, and why do you think they should be
+appointed</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="399" START="391">appointed</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="fsh_29195-E56-300" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="379" START="376">they</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="fsh_29195-EV6" MODALITY="Other" POLARITY="Positive" SUBTYPE="Start-Position" TENSE="Unspecified" TYPE="Personnel">
+		
+  
+		<event_argument REFID="fsh_29195-E58" ROLE="Person"/>
+		
+  
+		<event_mention ID="fsh_29195-EV6-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="464" START="431">national figures would you
+appoint</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="488" START="402">If you were president, which national figures would you
+appoint to your cabinet and why</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="464" START="458">appoint</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="fsh_29195-E58-303" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="446" START="431">national figures</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

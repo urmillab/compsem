@@ -1,0 +1,119 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Specific" ID="alt.atheism_20041104.2428-EV5" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_argument REFID="alt.atheism_20041104.2428-E33" ROLE="Attacker"/>
+		
+  
+		<event_mention ID="alt.atheism_20041104.2428-EV5-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="6301" START="6267">Israel ever stepped up the
+conflict</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="6326" START="6229">When in it's 60 year long history has Israel ever stepped up the
+conflict, or cast the first stone</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="6301" START="6294">conflict</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="alt.atheism_20041104.2428-E33-99" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="6272" START="6267">Israel</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="alt.atheism_20041104.2428-EV14" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Demonstrate" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_argument REFID="alt.atheism_20041104.2428-E32" ROLE="Place"/>
+		
+  
+		<event_mention ID="alt.atheism_20041104.2428-EV14-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="6017" START="5951">Demonstrations are routinely held against israel all over the world</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="6017" START="5951">Demonstrations are routinely held against israel all over the world</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="5964" START="5951">Demonstrations</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="alt.atheism_20041104.2428-E32-84" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="6017" START="6009">the world</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

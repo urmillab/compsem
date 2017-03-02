@@ -1,0 +1,122 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Generic" ID="APW_ENG_20030502.0686-EV1" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Transport" TENSE="Unspecified" TYPE="Movement">
+		
+  
+		<event_argument REFID="APW_ENG_20030502.0686-E11" ROLE="Artifact"/>
+		
+  
+		<event_mention ID="APW_ENG_20030502.0686-EV1-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="850" START="835">displaced people</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="913" START="759">The draft resolution would limit the U.N. role to helping with
+refugees and displaced people, reconstruction and humanitarian
+assistance, the official said</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="843" START="835">displaced</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030502.0686-E11-14" ROLE="Artifact">
+				
+      
+				<extent>
+					
+        
+					<charseq END="850" START="835">displaced people</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="APW_ENG_20030502.0686-EV13" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_argument REFID="APW_ENG_20030502.0686-E113" ROLE="Place"/>
+		
+  
+		<event_mention ID="APW_ENG_20030502.0686-EV13-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1335" START="1248">postwar Iraq, although it could contribute to
+the political resuscitation of the country</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1335" START="1155">U.N. Secretary General Kofi Annan said this week that the body has no
+interest in policing a postwar Iraq, although it could contribute to
+the political resuscitation of the country</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1254" START="1248">postwar</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030502.0686-E113-27" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1335" START="1325">the country</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

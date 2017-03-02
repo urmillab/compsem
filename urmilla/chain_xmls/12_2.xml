@@ -1,0 +1,275 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Generic" ID="CNN_ENG_20030415_173752.0-EV4" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_mention ID="CNN_ENG_20030415_173752.0-EV4-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="877" START="869">terrorism</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="942" START="831">so this is one of the oldest cases
+of terrorism that is one of the oldest cases that has not
+been closed to date</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="877" START="869">terrorism</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_ENG_20030415_173752.0-EV5" MODALITY="Other" POLARITY="Positive" SUBTYPE="Die" TENSE="Past" TYPE="Life">
+		
+  
+		<event_argument REFID="CNN_ENG_20030415_173752.0-E2" ROLE="Agent"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030415_173752.0-E23" ROLE="Place"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030415_173752.0-EV5-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="684" START="647">he is wanted for murder in italy italy</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="684" START="482">this man, abu abbas has lived an i tin
+rant life, he's been in tunas. he's been in libya and he's
+been living under the protection of saddam hussein in
+baghdad, but he is wanted for murder in italy italy</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="669" START="664">murder</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030415_173752.0-E2-18" ROLE="Agent">
+				
+      
+				<extent>
+					
+        
+					<charseq END="648" START="647">he</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030415_173752.0-E23-28" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="684" START="680">italy</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_ENG_20030415_173752.0-EV6" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Charge-Indict" TENSE="Unspecified" TYPE="Justice">
+		
+  
+		<event_argument REFID="CNN_ENG_20030415_173752.0-V1" ROLE="Crime"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030415_173752.0-V2" ROLE="Crime"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030415_173752.0-V3" ROLE="Crime"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030415_173752.0-E7" ROLE="Prosecutor"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030415_173752.0-EV6-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="703" START="697">charges</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="828" START="687">there
+are charges, u.s. charges which have expired but could, i
+am told, possibly be re -- restarted for piracy, hostage
+taking and conspiracy</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="703" START="697">charges</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="CNN_ENG_20030415_173752.0-EV6-2">
+			
+    
+			<extent>
+				
+      
+				<charseq END="828" START="706">u.s. charges which have expired but could, i
+am told, possibly be re -- restarted for piracy, hostage
+taking and conspiracy</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="828" START="687">there
+are charges, u.s. charges which have expired but could, i
+am told, possibly be re -- restarted for piracy, hostage
+taking and conspiracy</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="717" START="711">charges</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030415_173752.0-V1-1" ROLE="Crime">
+				
+      
+				<extent>
+					
+        
+					<charseq END="797" START="792">piracy</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030415_173752.0-V2-1" ROLE="Crime">
+				
+      
+				<extent>
+					
+        
+					<charseq END="813" START="800">hostage
+taking</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030415_173752.0-V3-1" ROLE="Crime">
+				
+      
+				<extent>
+					
+        
+					<charseq END="828" START="819">conspiracy</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030415_173752.0-E7-20" ROLE="Prosecutor">
+				
+      
+				<extent>
+					
+        
+					<charseq END="708" START="706">u.s</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

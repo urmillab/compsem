@@ -1,0 +1,282 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Specific" ID="CNNHL_ENG_20030616_230155.7-EV1" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Demonstrate" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_argument REFID="CNNHL_ENG_20030616_230155.7-E7" ROLE="Place"/>
+		
+  
+		<event_mention ID="CNNHL_ENG_20030616_230155.7-EV1-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="156" START="135">demonstrations in iran</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="156" START="69">the bush administration is officially endorsing the pro-democracy
+demonstrations in iran</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="148" START="135">demonstrations</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNNHL_ENG_20030616_230155.7-E7-7" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="156" START="153">iran</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="CNNHL_ENG_20030616_230155.7-EV1-2">
+			
+    
+			<extent>
+				
+      
+				<charseq END="433" START="420">demonstrations</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="551" START="380">the state department spokesman
+says the demonstrations are about iran and iranians, and have nothing
+to do with the u.s., but he did make it clear where u.s. sympathies
+lie</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="433" START="420">demonstrations</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNNHL_ENG_20030616_230155.7-EV2" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_argument REFID="CNNHL_ENG_20030616_230155.7-E10" ROLE="Place"/>
+		
+  
+		<event_argument REFID="CNNHL_ENG_20030616_230155.7-E8" ROLE="Target"/>
+		
+  
+		<event_argument REFID="CNNHL_ENG_20030616_230155.7-E9" ROLE="Target"/>
+		
+  
+		<event_argument REFID="CNNHL_ENG_20030616_230155.7-E3" ROLE="Target"/>
+		
+  
+		<event_argument REFID="CNNHL_ENG_20030616_230155.7-T1" ROLE="Time-Holds"/>
+		
+  
+		<event_argument REFID="CNNHL_ENG_20030616_230155.7-E8" ROLE="Attacker"/>
+		
+  
+		<event_argument REFID="CNNHL_ENG_20030616_230155.7-E9" ROLE="Attacker"/>
+		
+  
+		<event_argument REFID="CNNHL_ENG_20030616_230155.7-E3" ROLE="Attacker"/>
+		
+  
+		<event_mention ID="CNNHL_ENG_20030616_230155.7-EV2-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="260" START="163">a week now, protesters have been clashing
+with police and backers of the clerical regime in tehran</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="260" START="159">for a week now, protesters have been clashing
+with police and backers of the clerical regime in tehran</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="203" START="196">clashing</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNNHL_ENG_20030616_230155.7-E10-10" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="260" START="255">tehran</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNNHL_ENG_20030616_230155.7-E8-8" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="184" START="175">protesters</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNNHL_ENG_20030616_230155.7-E9-9" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="215" START="210">police</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNNHL_ENG_20030616_230155.7-E3-4" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="250" START="221">backers of the clerical regime</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNNHL_ENG_20030616_230155.7-T1-1" ROLE="Time-Holds">
+				
+      
+				<extent>
+					
+        
+					<charseq END="168" START="163">a week</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNNHL_ENG_20030616_230155.7-E8-8" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="184" START="175">protesters</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNNHL_ENG_20030616_230155.7-E9-9" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="215" START="210">police</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNNHL_ENG_20030616_230155.7-E3-4" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="250" START="221">backers of the clerical regime</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

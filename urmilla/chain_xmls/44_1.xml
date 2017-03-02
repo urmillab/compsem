@@ -1,0 +1,1334 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Specific" ID="rec.boats_20050130.1006-EV1" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Elect" TENSE="Unspecified" TYPE="Personnel">
+		
+  
+		<event_argument REFID="rec.boats_20050130.1006-E1" ROLE="Place"/>
+		
+  
+		<event_argument REFID="rec.boats_20050130.1006-E1" ROLE="Entity"/>
+		
+  
+		<event_argument REFID="rec.boats_20050130.1006-V2" ROLE="Position"/>
+		
+  
+		<event_mention ID="rec.boats_20050130.1006-EV1-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1405" START="1367">governor's election is Washington State</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1453" START="1035">The same group of people who have said &quot;even if some regions are too
+unsafe for people to go to the polls and even if large portions of the
+population will not recognize the legitimacy of the outcome, some
+election is better than no election, and it's a great day for
+democracy!&quot;...........are suing to overthrow the results of the
+governor's election is Washington State because there were some
+&quot;errors&quot; in the process</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1385" START="1378">election</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="rec.boats_20050130.1006-E1-20" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1405" START="1390">Washington State</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="rec.boats_20050130.1006-V2-1" ROLE="Position">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1374" START="1367">governor</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="rec.boats_20050130.1006-EV1-2">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1789" START="1762">election in Washington State</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1857" START="1612">So the standards are: Any old process halfway resembling an election is
+just diddly dandy in Iraq, but we won't accept the results of a free
+and fair election in Washington State because there may have been a
+human error rate of 0.0000001 percent</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1769" START="1762">election</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="rec.boats_20050130.1006-E1-26" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1789" START="1774">Washington State</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="rec.boats_20050130.1006-E1-26" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1789" START="1774">Washington State</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="rec.boats_20050130.1006-EV1-3">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1892" START="1863">Washington State, the election</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1944" START="1860">In Washington State, the election has to be not only free and fair, but
+also &quot;perfect</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1892" START="1885">election</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="rec.boats_20050130.1006-E1-143" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1878" START="1863">Washington State</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="rec.boats_20050130.1006-E1-143" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1878" START="1863">Washington State</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="rec.boats_20050130.1006-EV2" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Elect" TENSE="Past" TYPE="Personnel">
+		
+  
+		<event_argument REFID="rec.boats_20050130.1006-E2" ROLE="Person"/>
+		
+  
+		<event_argument REFID="rec.boats_20050130.1006-E1" ROLE="Place"/>
+		
+  
+		<event_argument REFID="rec.boats_20050130.1006-E1" ROLE="Entity"/>
+		
+  
+		<event_mention ID="rec.boats_20050130.1006-EV2-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="720" START="673">state constitution, the democratic candidate won</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="755" START="603">Following the election and recount process exactly as outlined in
+our state constitution, the democratic candidate won by a margin of
+less than 200 votes</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="720" START="718">won</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="rec.boats_20050130.1006-E2-2" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="716" START="693">the democratic candidate</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="rec.boats_20050130.1006-E1-156" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="677" START="673">state</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="rec.boats_20050130.1006-E1-156" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="677" START="673">state</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="rec.boats_20050130.1006-EV3" MODALITY="Other" POLARITY="Negative" SUBTYPE="Elect" TENSE="Unspecified" TYPE="Personnel">
+		
+  
+		<event_mention ID="rec.boats_20050130.1006-EV3-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1275" START="1268">election</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1453" START="1035">The same group of people who have said &quot;even if some regions are too
+unsafe for people to go to the polls and even if large portions of the
+population will not recognize the legitimacy of the outcome, some
+election is better than no election, and it's a great day for
+democracy!&quot;...........are suing to overthrow the results of the
+governor's election is Washington State because there were some
+&quot;errors&quot; in the process</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1275" START="1268">election</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="rec.boats_20050130.1006-EV4" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Sue" TENSE="Unspecified" TYPE="Justice">
+		
+  
+		<event_argument REFID="rec.boats_20050130.1006-E10" ROLE="Plaintiff"/>
+		
+  
+		<event_mention ID="rec.boats_20050130.1006-EV4-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1333" START="1035">The same group of people who have said &quot;even if some regions are too
+unsafe for people to go to the polls and even if large portions of the
+population will not recognize the legitimacy of the outcome, some
+election is better than no election, and it's a great day for
+democracy!&quot;...........are suing</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1453" START="1035">The same group of people who have said &quot;even if some regions are too
+unsafe for people to go to the polls and even if large portions of the
+population will not recognize the legitimacy of the outcome, some
+election is better than no election, and it's a great day for
+democracy!&quot;...........are suing to overthrow the results of the
+governor's election is Washington State because there were some
+&quot;errors&quot; in the process</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1333" START="1329">suing</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="rec.boats_20050130.1006-E10-11" ROLE="Plaintiff">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1311" START="1035">The same group of people who have said &quot;even if some regions are too
+unsafe for people to go to the polls and even if large portions of the
+population will not recognize the legitimacy of the outcome, some
+election is better than no election, and it's a great day for
+democracy</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="rec.boats_20050130.1006-EV5" MODALITY="Other" POLARITY="Positive" SUBTYPE="Elect" TENSE="Unspecified" TYPE="Personnel">
+		
+  
+		<event_mention ID="rec.boats_20050130.1006-EV5-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1679" START="1672">election</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1857" START="1612">So the standards are: Any old process halfway resembling an election is
+just diddly dandy in Iraq, but we won't accept the results of a free
+and fair election in Washington State because there may have been a
+human error rate of 0.0000001 percent</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1679" START="1672">election</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="rec.boats_20050130.1006-EV5-2">
+			
+    
+			<extent>
+				
+      
+				<charseq END="262" START="255">election</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="272" START="185">Here on the left edge of the country, we have a unique perspective on
+election standards</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="262" START="255">election</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="rec.boats_20050130.1006-EV6" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Elect" TENSE="Unspecified" TYPE="Personnel">
+		
+  
+		<event_argument REFID="rec.boats_20050130.1006-E86" ROLE="Person"/>
+		
+  
+		<event_argument REFID="rec.boats_20050130.1006-E85" ROLE="Entity"/>
+		
+  
+		<event_argument REFID="rec.boats_20050130.1006-E78" ROLE="Place"/>
+		
+  
+		<event_mention ID="rec.boats_20050130.1006-EV6-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="435" START="391">A few people will
+turn out and elect somebody</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="435" START="391">A few people will
+turn out and elect somebody</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="426" START="422">elect</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="rec.boats_20050130.1006-E86-149" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="435" START="428">somebody</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="rec.boats_20050130.1006-E85-148" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="402" START="391">A few people</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="rec.boats_20050130.1006-EV6-2">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1248" START="1241">election</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1453" START="1035">The same group of people who have said &quot;even if some regions are too
+unsafe for people to go to the polls and even if large portions of the
+population will not recognize the legitimacy of the outcome, some
+election is better than no election, and it's a great day for
+democracy!&quot;...........are suing to overthrow the results of the
+governor's election is Washington State because there were some
+&quot;errors&quot; in the process</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1248" START="1241">election</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="rec.boats_20050130.1006-EV6-3">
+			
+    
+			<extent>
+				
+      
+				<charseq END="295" START="279">Iraq, an election</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="388" START="276">In Iraq, an election takes place in which one of the three major
+forces vying for control of the country opts out</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="295" START="288">election</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="rec.boats_20050130.1006-E78-144" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="282" START="279">Iraq</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="rec.boats_20050130.1006-EV6-4">
+			
+    
+			<extent>
+				
+      
+				<charseq END="3528" START="3521">election</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="3612" START="3499">The problem with this election is that no matter what happens the results
+are going to be tainted and questionable</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="3528" START="3521">election</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="rec.boats_20050130.1006-EV6-5">
+			
+    
+			<extent>
+				
+      
+				<charseq END="4422" START="4415">election</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="4479" START="4361">If Lou Dobbs, on CNN, at 6:10 Eastern, can say, &quot;This election was a
+success by any measure,&quot; that's good enough for me</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="4422" START="4415">election</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="rec.boats_20050130.1006-EV6-6">
+			
+    
+			<extent>
+				
+      
+				<charseq END="5274" START="5205">election is to get a legislative body
+to write a constitution for Iraq</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="5274" START="5168">You have to start somewhere and this election is to get a legislative body
+to write a constitution for Iraq</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="5212" START="5205">election</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="rec.boats_20050130.1006-E78-109" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="5274" START="5271">Iraq</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="rec.boats_20050130.1006-EV7" MODALITY="Other" POLARITY="Positive" SUBTYPE="Elect" TENSE="Past" TYPE="Personnel">
+		
+  
+		<event_argument REFID="rec.boats_20050130.1006-E1" ROLE="Place"/>
+		
+  
+		<event_argument REFID="rec.boats_20050130.1006-E1" ROLE="Entity"/>
+		
+  
+		<event_mention ID="rec.boats_20050130.1006-EV7-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="2015" START="1999">WA
+State election</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="2124" START="1949">Of course, the Republicans would have thought the WA
+State election *was* perfect, had their candidate
+held the same 100 and some vote margin when all the smoke finally
+cleared</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="2015" START="2008">election</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="rec.boats_20050130.1006-E1-13" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2006" START="1999">WA
+State</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="rec.boats_20050130.1006-E1-13" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2006" START="1999">WA
+State</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="rec.boats_20050130.1006-EV8" MODALITY="Other" POLARITY="Positive" SUBTYPE="Elect" TENSE="Unspecified" TYPE="Personnel">
+		
+  
+		<event_argument REFID="rec.boats_20050130.1006-E37" ROLE="Place"/>
+		
+  
+		<event_argument REFID="rec.boats_20050130.1006-E38" ROLE="Entity"/>
+		
+  
+		<event_mention ID="rec.boats_20050130.1006-EV8-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="3495" START="3432">everywhere
+should have the basic right to elect their government</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="3495" START="3422">Everyone, everywhere
+should have the basic right to elect their government</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="3478" START="3474">elect</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="rec.boats_20050130.1006-E37-64" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3441" START="3432">everywhere</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="rec.boats_20050130.1006-E38-66" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3495" START="3480">their government</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="rec.boats_20050130.1006-EV9" MODALITY="Other" POLARITY="Positive" SUBTYPE="Attack" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_argument REFID="rec.boats_20050130.1006-E39" ROLE="Attacker"/>
+		
+  
+		<event_argument REFID="rec.boats_20050130.1006-E40" ROLE="Place"/>
+		
+  
+		<event_mention ID="rec.boats_20050130.1006-EV9-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="3708" START="3676">a foreign country invaded another</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="3805" START="3615">Think about this objectively
+(forget the US is involved), if a foreign country invaded another and set up
+elections, wouldn't a reasonable person question the validity of the
+election results</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="3700" START="3694">invaded</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="rec.boats_20050130.1006-E39-68" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3692" START="3676">a foreign country</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="rec.boats_20050130.1006-E40-69" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3708" START="3702">another</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="rec.boats_20050130.1006-EV10" MODALITY="Other" POLARITY="Positive" SUBTYPE="Elect" TENSE="Unspecified" TYPE="Personnel">
+		
+  
+		<event_argument REFID="rec.boats_20050130.1006-E40" ROLE="Place"/>
+		
+  
+		<event_argument REFID="rec.boats_20050130.1006-E40" ROLE="Entity"/>
+		
+  
+		<event_mention ID="rec.boats_20050130.1006-EV10-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="3729" START="3702">another and set up
+elections</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="3805" START="3615">Think about this objectively
+(forget the US is involved), if a foreign country invaded another and set up
+elections, wouldn't a reasonable person question the validity of the
+election results</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="3729" START="3721">elections</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="rec.boats_20050130.1006-E40-69" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3708" START="3702">another</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="rec.boats_20050130.1006-EV10-2">
+			
+    
+			<extent>
+				
+      
+				<charseq END="3797" START="3702">another and set up
+elections, wouldn't a reasonable person question the validity of the
+election</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="3805" START="3615">Think about this objectively
+(forget the US is involved), if a foreign country invaded another and set up
+elections, wouldn't a reasonable person question the validity of the
+election results</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="3797" START="3790">election</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="rec.boats_20050130.1006-E40-69" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3708" START="3702">another</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="rec.boats_20050130.1006-E40-69" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3708" START="3702">another</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="rec.boats_20050130.1006-EV11" MODALITY="Other" POLARITY="Positive" SUBTYPE="Elect" TENSE="Past" TYPE="Personnel">
+		
+  
+		<event_argument REFID="rec.boats_20050130.1006-E44" ROLE="Place"/>
+		
+  
+		<event_argument REFID="rec.boats_20050130.1006-T5" ROLE="Time-Within"/>
+		
+  
+		<event_mention ID="rec.boats_20050130.1006-EV11-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="3904" START="3842">1942, and the German
+occupiers in Holland have set up elections</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="3926" START="3833">Say it's 1942, and the German
+occupiers in Holland have set up elections with Dutch candidates</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="3904" START="3896">elections</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="rec.boats_20050130.1006-E44-74" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3882" START="3876">Holland</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="rec.boats_20050130.1006-T5-1" ROLE="Time-Within">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3845" START="3842">1942</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="rec.boats_20050130.1006-EV12" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Elect" TENSE="Future" TYPE="Personnel">
+		
+  
+		<event_mention ID="rec.boats_20050130.1006-EV12-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="5293" START="5286">election</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="5330" START="5277">The next election will be the one with
+more legitimacy</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="5293" START="5286">election</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="rec.boats_20050130.1006-EV13" MODALITY="Other" POLARITY="Positive" SUBTYPE="Elect" TENSE="Past" TYPE="Personnel">
+		
+  
+		<event_argument REFID="rec.boats_20050130.1006-E78" ROLE="Place"/>
+		
+  
+		<event_mention ID="rec.boats_20050130.1006-EV13-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="4134" START="4118">elections in Iraq</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="4221" START="4067">Even if you, John H, believe the US held impartial elections in Iraq, don't
+you think the rest of the world will find the results invalid, or least
+suspect</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="4126" START="4118">elections</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="rec.boats_20050130.1006-E78-84" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4134" START="4131">Iraq</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

@@ -1,0 +1,310 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Specific" ID="CNN_ENG_20030513_160506.16-EV7" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Die" TENSE="Past" TYPE="Life">
+		
+  
+		<event_argument REFID="CNN_ENG_20030513_160506.16-E4" ROLE="Victim"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030513_160506.16-E1" ROLE="Agent"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030513_160506.16-E2" ROLE="Place"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030513_160506.16-T4" ROLE="Time-Within"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030513_160506.16-EV7-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="643" START="518">a texas woman is in jail
+this morning accused of killing her two sons and severely beating
+another the day before mother's day</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="643" START="518">a texas woman is in jail
+this morning accused of killing her two sons and severely beating
+another the day before mother's day</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="573" START="567">killing</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030513_160506.16-E4-5" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="586" START="575">her two sons</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030513_160506.16-E1-2" ROLE="Agent">
+				
+      
+				<extent>
+					
+        
+					<charseq END="530" START="518">a texas woman</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030513_160506.16-E2-3" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="524" START="520">texas</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030513_160506.16-T4-1" ROLE="Time-Within">
+				
+      
+				<extent>
+					
+        
+					<charseq END="643" START="617">the day before mother's day</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_ENG_20030513_160506.16-EV8" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Injure" TENSE="Past" TYPE="Life">
+		
+  
+		<event_argument REFID="CNN_ENG_20030513_160506.16-E5" ROLE="Victim"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030513_160506.16-E1" ROLE="Agent"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030513_160506.16-T4" ROLE="Time-Within"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030513_160506.16-EV8-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="643" START="518">a texas woman is in jail
+this morning accused of killing her two sons and severely beating
+another the day before mother's day</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="643" START="518">a texas woman is in jail
+this morning accused of killing her two sons and severely beating
+another the day before mother's day</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="607" START="601">beating</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030513_160506.16-E5-7" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="615" START="609">another</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030513_160506.16-E1-2" ROLE="Agent">
+				
+      
+				<extent>
+					
+        
+					<charseq END="530" START="518">a texas woman</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030513_160506.16-T4-1" ROLE="Time-Within">
+				
+      
+				<extent>
+					
+        
+					<charseq END="643" START="617">the day before mother's day</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_ENG_20030513_160506.16-EV9" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Charge-Indict" TENSE="Unspecified" TYPE="Justice">
+		
+  
+		<event_argument REFID="CNN_ENG_20030513_160506.16-E6" ROLE="Adjudicator"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030513_160506.16-E1" ROLE="Defendant"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030513_160506.16-T6" ROLE="Time-Within"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030513_160506.16-EV9-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="714" START="646">yesterday a silent dee ana laney
+waited as the judge read the charges</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="726" START="646">yesterday a silent dee ana laney
+waited as the judge read the charges against her</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="714" START="708">charges</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030513_160506.16-E6-9" ROLE="Adjudicator">
+				
+      
+				<extent>
+					
+        
+					<charseq END="697" START="689">the judge</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030513_160506.16-E1-8" ROLE="Defendant">
+				
+      
+				<extent>
+					
+        
+					<charseq END="677" START="656">a silent dee ana laney</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030513_160506.16-T6-1" ROLE="Time-Within">
+				
+      
+				<extent>
+					
+        
+					<charseq END="654" START="646">yesterday</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

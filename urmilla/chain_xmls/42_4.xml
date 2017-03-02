@@ -1,0 +1,273 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Specific" ID="alt.atheism_20041104.2428-EV7" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Die" TENSE="Past" TYPE="Life">
+		
+  
+		<event_argument REFID="alt.atheism_20041104.2428-E84" ROLE="Victim"/>
+		
+  
+		<event_mention ID="alt.atheism_20041104.2428-EV7-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1357" START="1335">My husband's uncle died</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1398" START="1335">My husband's uncle died of it about a year before we got married</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1357" START="1354">died</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="alt.atheism_20041104.2428-E84-157" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1352" START="1335">My husband's uncle</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="alt.atheism_20041104.2428-EV8" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Marry" TENSE="Past" TYPE="Life">
+		
+  
+		<event_argument REFID="alt.atheism_20041104.2428-E86" ROLE="Person"/>
+		
+  
+		<event_mention ID="alt.atheism_20041104.2428-EV8-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1398" START="1385">we got married</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1398" START="1335">My husband's uncle died of it about a year before we got married</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1398" START="1392">married</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="alt.atheism_20041104.2428-E86-160" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1386" START="1385">we</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="alt.atheism_20041104.2428-EV9" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Die" TENSE="Past" TYPE="Life">
+		
+  
+		<event_argument REFID="alt.atheism_20041104.2428-E3" ROLE="Victim"/>
+		
+  
+		<event_mention ID="alt.atheism_20041104.2428-EV9-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1816" START="1803">two uncles die</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1923" START="1793">I watched two uncles die of lung cancer (which gave me the impetus to
+give up smoking for good), and a close friend die of melanoma</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1816" START="1814">die</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="alt.atheism_20041104.2428-E3-7" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1812" START="1803">two uncles</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="alt.atheism_20041104.2428-EV10" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Die" TENSE="Past" TYPE="Life">
+		
+  
+		<event_argument REFID="alt.atheism_20041104.2428-E4" ROLE="Victim"/>
+		
+  
+		<event_mention ID="alt.atheism_20041104.2428-EV10-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1911" START="1894">a close friend die</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1923" START="1793">I watched two uncles die of lung cancer (which gave me the impetus to
+give up smoking for good), and a close friend die of melanoma</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1911" START="1909">die</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="alt.atheism_20041104.2428-E4-9" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1907" START="1894">a close friend</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="alt.atheism_20041104.2428-EV11" MODALITY="Other" POLARITY="Positive" SUBTYPE="Die" TENSE="Unspecified" TYPE="Life">
+		
+  
+		<event_mention ID="alt.atheism_20041104.2428-EV11-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1941" START="1937">death</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1972" START="1926">It's
+not a death I would wish on my worst enemy</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1941" START="1937">death</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

@@ -1,0 +1,1762 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Specific" ID="AFP_ENG_20030327.0022-EV1" MODALITY="Other" POLARITY="Positive" SUBTYPE="Execute" TENSE="Present" TYPE="Justice">
+		
+  
+		<event_argument REFID="AFP_ENG_20030327.0022-E15" ROLE="Agent"/>
+		
+  
+		<event_argument REFID="AFP_ENG_20030327.0022-E37" ROLE="Person"/>
+		
+  
+		<event_argument REFID="AFP_ENG_20030327.0022-T6" ROLE="Time-Within"/>
+		
+  
+		<event_mention ID="AFP_ENG_20030327.0022-EV1-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="351" START="333">we execute them now</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="497" START="330">If we execute them now we can't bring them to life again should
+their appeals for a review be granted,&quot; said Antasari Azhar,
+spokesman for the attorney general's office</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="342" START="336">execute</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="AFP_ENG_20030327.0022-E15-56" ROLE="Agent">
+				
+      
+				<extent>
+					
+        
+					<charseq END="334" START="333">we</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="AFP_ENG_20030327.0022-E37-57" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="347" START="344">them</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="AFP_ENG_20030327.0022-T6-1" ROLE="Time-Within">
+				
+      
+				<extent>
+					
+        
+					<charseq END="351" START="349">now</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="AFP_ENG_20030327.0022-EV2" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Appeal" TENSE="Past" TYPE="Justice">
+		
+  
+		<event_argument REFID="AFP_ENG_20030327.0022-E15" ROLE="Place"/>
+		
+  
+		<event_argument REFID="AFP_ENG_20030327.0022-E39" ROLE="Adjudicator"/>
+		
+  
+		<event_argument REFID="AFP_ENG_20030327.0022-E38" ROLE="Plaintiff"/>
+		
+  
+		<event_mention ID="AFP_ENG_20030327.0022-EV2-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="278" START="147">Indonesia will delay the execution of six convicts including an
+Indian on death row after five of them appealed to the Supreme Court</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="325" START="147">Indonesia will delay the execution of six convicts including an
+Indian on death row after five of them appealed to the Supreme Court
+for a second review, prosecutors said Thursday</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="257" START="250">appealed</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="AFP_ENG_20030327.0022-E15-1" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="155" START="147">Indonesia</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="AFP_ENG_20030327.0022-E39-54" ROLE="Adjudicator">
+				
+      
+				<extent>
+					
+        
+					<charseq END="278" START="262">the Supreme Court</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="AFP_ENG_20030327.0022-E38-8" ROLE="Plaintiff">
+				
+      
+				<extent>
+					
+        
+					<charseq END="248" START="237">five of them</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="AFP_ENG_20030327.0022-EV3" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Appeal" TENSE="Past" TYPE="Justice">
+		
+  
+		<event_argument REFID="AFP_ENG_20030327.0022-E39" ROLE="Adjudicator"/>
+		
+  
+		<event_argument REFID="AFP_ENG_20030327.0022-E38" ROLE="Plaintiff"/>
+		
+  
+		<event_mention ID="AFP_ENG_20030327.0022-EV3-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="586" START="501">The Supreme Court rejected earlier appeals for a case review from
+five of the convicts</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="586" START="501">The Supreme Court rejected earlier appeals for a case review from
+five of the convicts</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="542" START="536">appeals</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="AFP_ENG_20030327.0022-E39-3" ROLE="Adjudicator">
+				
+      
+				<extent>
+					
+        
+					<charseq END="517" START="501">The Supreme Court</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="AFP_ENG_20030327.0022-E38-4" ROLE="Plaintiff">
+				
+      
+				<extent>
+					
+        
+					<charseq END="586" START="567">five of the convicts</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="AFP_ENG_20030327.0022-EV4" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Appeal" TENSE="Past" TYPE="Justice">
+		
+  
+		<event_argument REFID="AFP_ENG_20030327.0022-E31" ROLE="Plaintiff"/>
+		
+  
+		<event_mention ID="AFP_ENG_20030327.0022-EV4-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="631" START="589">The sixth offender has only made one appeal</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="644" START="589">The sixth offender has only made one appeal for
+a review</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="631" START="626">appeal</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="AFP_ENG_20030327.0022-E31-45" ROLE="Plaintiff">
+				
+      
+				<extent>
+					
+        
+					<charseq END="606" START="589">The sixth offender</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="AFP_ENG_20030327.0022-EV5" MODALITY="Other" POLARITY="Positive" SUBTYPE="Die" TENSE="Unspecified" TYPE="Life">
+		
+  
+		<event_argument REFID="AFP_ENG_20030327.0022-E6" ROLE="Victim"/>
+		
+  
+		<event_mention ID="AFP_ENG_20030327.0022-EV5-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="910" START="888">someone's life or death</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="953" START="867">We are talking about someone's life or death so we have to be very
+careful,&quot; Azhar said</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="910" START="906">death</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="AFP_ENG_20030327.0022-E6-12" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="894" START="888">someone</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="AFP_ENG_20030327.0022-EV6" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Convict" TENSE="Past" TYPE="Justice">
+		
+  
+		<event_argument REFID="AFP_ENG_20030327.0022-E32" ROLE="Defendant"/>
+		
+  
+		<event_argument REFID="AFP_ENG_20030327.0022-V2" ROLE="Crime"/>
+		
+  
+		<event_mention ID="AFP_ENG_20030327.0022-EV6-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="795" START="747">Five of them are Indonesians convicted
+of murders</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="862" START="747">Five of them are Indonesians convicted
+of murders while the other is an Indian drug offender, Ayodhya Prasad
+Chaubey</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="784" START="776">convicted</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="AFP_ENG_20030327.0022-E32-47" ROLE="Defendant">
+				
+      
+				<extent>
+					
+        
+					<charseq END="758" START="747">Five of them</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="AFP_ENG_20030327.0022-V2-1" ROLE="Crime">
+				
+      
+				<extent>
+					
+        
+					<charseq END="795" START="789">murders</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="AFP_ENG_20030327.0022-EV7" MODALITY="Other" POLARITY="Positive" SUBTYPE="Appeal" TENSE="Unspecified" TYPE="Justice">
+		
+  
+		<event_argument REFID="AFP_ENG_20030327.0022-E7" ROLE="Plaintiff"/>
+		
+  
+		<event_mention ID="AFP_ENG_20030327.0022-EV7-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="998" START="957">A convict can file a case review or appeal</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1097" START="957">A convict can file a case review or appeal for presidential clemency
+only after the Supreme Court upholds a sentence imposed by a lower
+court</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="998" START="993">appeal</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="AFP_ENG_20030327.0022-E7-15" ROLE="Plaintiff">
+				
+      
+				<extent>
+					
+        
+					<charseq END="965" START="957">A convict</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="AFP_ENG_20030327.0022-EV8" MODALITY="Other" POLARITY="Positive" SUBTYPE="Sentence" TENSE="Unspecified" TYPE="Justice">
+		
+  
+		<event_argument REFID="AFP_ENG_20030327.0022-E8" ROLE="Adjudicator"/>
+		
+  
+		<event_argument REFID="AFP_ENG_20030327.0022-E7" ROLE="Defendant"/>
+		
+  
+		<event_argument REFID="AFP_ENG_20030327.0022-V5" ROLE="Sentence"/>
+		
+  
+		<event_mention ID="AFP_ENG_20030327.0022-EV8-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1097" START="957">A convict can file a case review or appeal for presidential clemency
+only after the Supreme Court upholds a sentence imposed by a lower
+court</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1097" START="957">A convict can file a case review or appeal for presidential clemency
+only after the Supreme Court upholds a sentence imposed by a lower
+court</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1072" START="1065">sentence</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="AFP_ENG_20030327.0022-E8-17" ROLE="Adjudicator">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1097" START="1085">a lower
+court</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="AFP_ENG_20030327.0022-E7-15" ROLE="Defendant">
+				
+      
+				<extent>
+					
+        
+					<charseq END="965" START="957">A convict</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="AFP_ENG_20030327.0022-V5-1" ROLE="Sentence">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1097" START="1063">a sentence imposed by a lower
+court</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="AFP_ENG_20030327.0022-EV9" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Convict" TENSE="Past" TYPE="Justice">
+		
+  
+		<event_argument REFID="AFP_ENG_20030327.0022-E9" ROLE="Defendant"/>
+		
+  
+		<event_argument REFID="AFP_ENG_20030327.0022-V1" ROLE="Crime"/>
+		
+  
+		<event_mention ID="AFP_ENG_20030327.0022-EV9-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1136" START="1112">those convicted of murder</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1269" START="1101">Apart from those convicted of murder, 16 people are on death row for
+drug trafficking -- 11 foreigners, four Indonesians and a Dutch
+citizen of Chinese-Indonesian origin</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1126" START="1118">convicted</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="AFP_ENG_20030327.0022-E9-18" ROLE="Defendant">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1136" START="1112">those convicted of murder</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="AFP_ENG_20030327.0022-V1-1" ROLE="Crime">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1136" START="1131">murder</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="AFP_ENG_20030327.0022-EV10" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Sentence" TENSE="Past" TYPE="Justice">
+		
+  
+		<event_argument REFID="AFP_ENG_20030327.0022-E14" ROLE="Adjudicator"/>
+		
+  
+		<event_argument REFID="AFP_ENG_20030327.0022-E16" ROLE="Defendant"/>
+		
+  
+		<event_argument REFID="AFP_ENG_20030327.0022-E15" ROLE="Place"/>
+		
+  
+		<event_argument REFID="AFP_ENG_20030327.0022-V9" ROLE="Sentence"/>
+		
+  
+		<event_mention ID="AFP_ENG_20030327.0022-EV10-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1372" START="1273">Indonesian courts have increasingly handed out severe sentences,
+including death, for drug smugglers</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1372" START="1273">Indonesian courts have increasingly handed out severe sentences,
+including death, for drug smugglers</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1335" START="1327">sentences</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="AFP_ENG_20030327.0022-E14-23" ROLE="Adjudicator">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1289" START="1273">Indonesian courts</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="AFP_ENG_20030327.0022-E16-25" ROLE="Defendant">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1372" START="1359">drug smugglers</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="AFP_ENG_20030327.0022-E15-24" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1282" START="1273">Indonesian</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="AFP_ENG_20030327.0022-V9-1" ROLE="Sentence">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1352" START="1320">severe sentences,
+including death</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="AFP_ENG_20030327.0022-EV11" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Convict" TENSE="Past" TYPE="Justice">
+		
+  
+		<event_argument REFID="AFP_ENG_20030327.0022-E18" ROLE="Defendant"/>
+		
+  
+		<event_argument REFID="AFP_ENG_20030327.0022-V6" ROLE="Crime"/>
+		
+  
+		<event_argument REFID="AFP_ENG_20030327.0022-E15" ROLE="Place"/>
+		
+  
+		<event_mention ID="AFP_ENG_20030327.0022-EV11-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1536" START="1481">Indonesia to spare the lives of
+convicted drug offenders</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1660" START="1443">Amnesty International has appealed to Indonesia to spare the lives of
+convicted drug offenders and others, saying there was no proof the
+death penalty deters would-be traffickers more effectively than other
+punishments</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1521" START="1513">convicted</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="AFP_ENG_20030327.0022-E18-29" ROLE="Defendant">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1536" START="1513">convicted drug offenders</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="AFP_ENG_20030327.0022-V6-1" ROLE="Crime">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1526" START="1523">drug</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="AFP_ENG_20030327.0022-E15-28" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1489" START="1481">Indonesia</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="AFP_ENG_20030327.0022-EV12" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Convict" TENSE="Past" TYPE="Justice">
+		
+  
+		<event_argument REFID="AFP_ENG_20030327.0022-E21" ROLE="Defendant"/>
+		
+  
+		<event_argument REFID="AFP_ENG_20030327.0022-V4" ROLE="Crime"/>
+		
+  
+		<event_argument REFID="AFP_ENG_20030327.0022-E15" ROLE="Place"/>
+		
+  
+		<event_argument REFID="AFP_ENG_20030327.0022-T5" ROLE="Time-Within"/>
+		
+  
+		<event_mention ID="AFP_ENG_20030327.0022-EV12-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1853" START="1750">Indonesia, where the last
+execution was carried out in May 2001 of two men convicted of a
+murder in 1989</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1853" START="1714">Use of the death penalty is rare in Indonesia, where the last
+execution was carried out in May 2001 of two men convicted of a
+murder in 1989</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1833" START="1825">convicted</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="AFP_ENG_20030327.0022-E21-35" ROLE="Defendant">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1853" START="1817">two men convicted of a
+murder in 1989</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="AFP_ENG_20030327.0022-V4-1" ROLE="Crime">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1845" START="1840">murder</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="AFP_ENG_20030327.0022-E15-33" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1853" START="1750">Indonesia, where the last
+execution was carried out in May 2001 of two men convicted of a
+murder in 1989</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="AFP_ENG_20030327.0022-T5-1" ROLE="Time-Within">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1853" START="1850">1989</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="AFP_ENG_20030327.0022-EV13" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Execute" TENSE="Past" TYPE="Justice">
+		
+  
+		<event_argument REFID="AFP_ENG_20030327.0022-V4" ROLE="Crime"/>
+		
+  
+		<event_argument REFID="AFP_ENG_20030327.0022-E21" ROLE="Person"/>
+		
+  
+		<event_argument REFID="AFP_ENG_20030327.0022-E15" ROLE="Place"/>
+		
+  
+		<event_argument REFID="AFP_ENG_20030327.0022-T4" ROLE="Time-Within"/>
+		
+  
+		<event_mention ID="AFP_ENG_20030327.0022-EV13-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1853" START="1750">Indonesia, where the last
+execution was carried out in May 2001 of two men convicted of a
+murder in 1989</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1853" START="1714">Use of the death penalty is rare in Indonesia, where the last
+execution was carried out in May 2001 of two men convicted of a
+murder in 1989</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1784" START="1776">execution</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="AFP_ENG_20030327.0022-V4-1" ROLE="Crime">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1845" START="1840">murder</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="AFP_ENG_20030327.0022-E21-35" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1853" START="1817">two men convicted of a
+murder in 1989</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="AFP_ENG_20030327.0022-E15-33" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1853" START="1750">Indonesia, where the last
+execution was carried out in May 2001 of two men convicted of a
+murder in 1989</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="AFP_ENG_20030327.0022-T4-1" ROLE="Time-Within">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1812" START="1805">May 2001</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="AFP_ENG_20030327.0022-EV14" MODALITY="Other" POLARITY="Positive" SUBTYPE="Die" TENSE="Unspecified" TYPE="Life">
+		
+  
+		<event_argument REFID="AFP_ENG_20030327.0022-E15" ROLE="Place"/>
+		
+  
+		<event_mention ID="AFP_ENG_20030327.0022-EV14-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="225" START="147">Indonesia will delay the execution of six convicts including an
+Indian on death</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="325" START="147">Indonesia will delay the execution of six convicts including an
+Indian on death row after five of them appealed to the Supreme Court
+for a second review, prosecutors said Thursday</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="225" START="221">death</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="AFP_ENG_20030327.0022-E15-1" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="155" START="147">Indonesia</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="AFP_ENG_20030327.0022-EV14-2">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1160" START="1156">death</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1269" START="1101">Apart from those convicted of murder, 16 people are on death row for
+drug trafficking -- 11 foreigners, four Indonesians and a Dutch
+citizen of Chinese-Indonesian origin</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1160" START="1156">death</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="AFP_ENG_20030327.0022-EV15" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Appeal" TENSE="Past" TYPE="Justice">
+		
+  
+		<event_argument REFID="AFP_ENG_20030327.0022-E37" ROLE="Plaintiff"/>
+		
+  
+		<event_mention ID="AFP_ENG_20030327.0022-EV15-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="406" START="394">their appeals</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="497" START="330">If we execute them now we can't bring them to life again should
+their appeals for a review be granted,&quot; said Antasari Azhar,
+spokesman for the attorney general's office</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="406" START="400">appeals</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="AFP_ENG_20030327.0022-E37-60" ROLE="Plaintiff">
+				
+      
+				<extent>
+					
+        
+					<charseq END="398" START="394">their</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="AFP_ENG_20030327.0022-EV16" MODALITY="Other" POLARITY="Positive" SUBTYPE="Die" TENSE="Unspecified" TYPE="Life">
+		
+  
+		<event_mention ID="AFP_ENG_20030327.0022-EV16-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1688" START="1684">death</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1710" START="1664">Amnesty opposes the death penalty for any crime</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1688" START="1684">death</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="AFP_ENG_20030327.0022-EV16-2">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1729" START="1725">death</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1853" START="1714">Use of the death penalty is rare in Indonesia, where the last
+execution was carried out in May 2001 of two men convicted of a
+murder in 1989</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1729" START="1725">death</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="AFP_ENG_20030327.0022-EV16-3">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1584" START="1580">death</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1660" START="1443">Amnesty International has appealed to Indonesia to spare the lives of
+convicted drug offenders and others, saying there was no proof the
+death penalty deters would-be traffickers more effectively than other
+punishments</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1584" START="1580">death</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="AFP_ENG_20030327.0022-EV17" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Die" TENSE="Past" TYPE="Life">
+		
+  
+		<event_argument REFID="AFP_ENG_20030327.0022-E21" ROLE="Agent"/>
+		
+  
+		<event_mention ID="AFP_ENG_20030327.0022-EV17-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1853" START="1817">two men convicted of a
+murder in 1989</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1853" START="1714">Use of the death penalty is rare in Indonesia, where the last
+execution was carried out in May 2001 of two men convicted of a
+murder in 1989</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1845" START="1840">murder</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="AFP_ENG_20030327.0022-E21-35" ROLE="Agent">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1853" START="1817">two men convicted of a
+murder in 1989</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="AFP_ENG_20030327.0022-EV18" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_argument REFID="AFP_ENG_20030327.0022-E23" ROLE="Attacker"/>
+		
+  
+		<event_mention ID="AFP_ENG_20030327.0022-EV18-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1920" START="1900">A police firing squad</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1941" START="1900">A police firing squad enforces the penalty</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1914" START="1909">firing</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="AFP_ENG_20030327.0022-E23-36" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1920" START="1900">A police firing squad</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="AFP_ENG_20030327.0022-EV19" MODALITY="Other" POLARITY="Positive" SUBTYPE="Die" TENSE="Unspecified" TYPE="Life">
+		
+  
+		<event_argument REFID="AFP_ENG_20030327.0022-E16" ROLE="Victim"/>
+		
+  
+		<event_argument REFID="AFP_ENG_20030327.0022-E15" ROLE="Place"/>
+		
+  
+		<event_mention ID="AFP_ENG_20030327.0022-EV19-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1372" START="1273">Indonesian courts have increasingly handed out severe sentences,
+including death, for drug smugglers</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1372" START="1273">Indonesian courts have increasingly handed out severe sentences,
+including death, for drug smugglers</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1352" START="1348">death</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="AFP_ENG_20030327.0022-E16-25" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1372" START="1359">drug smugglers</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="AFP_ENG_20030327.0022-E15-24" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1282" START="1273">Indonesian</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="AFP_ENG_20030327.0022-EV20" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Execute" TENSE="Future" TYPE="Justice">
+		
+  
+		<event_argument REFID="AFP_ENG_20030327.0022-E37" ROLE="Person"/>
+		
+  
+		<event_argument REFID="AFP_ENG_20030327.0022-E15" ROLE="Place"/>
+		
+  
+		<event_argument REFID="AFP_ENG_20030327.0022-E15" ROLE="Agent"/>
+		
+  
+		<event_mention ID="AFP_ENG_20030327.0022-EV20-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="229" START="147">Indonesia will delay the execution of six convicts including an
+Indian on death row</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="325" START="147">Indonesia will delay the execution of six convicts including an
+Indian on death row after five of them appealed to the Supreme Court
+for a second review, prosecutors said Thursday</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="180" START="172">execution</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="AFP_ENG_20030327.0022-E37-52" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="229" START="185">six convicts including an
+Indian on death row</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="AFP_ENG_20030327.0022-E15-1" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="155" START="147">Indonesia</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="AFP_ENG_20030327.0022-E15-1" ROLE="Agent">
+				
+      
+				<extent>
+					
+        
+					<charseq END="155" START="147">Indonesia</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="AFP_ENG_20030327.0022-EV21" MODALITY="Other" POLARITY="Positive" SUBTYPE="Execute" TENSE="Unspecified" TYPE="Justice">
+		
+  
+		<event_argument REFID="AFP_ENG_20030327.0022-E37" ROLE="Person"/>
+		
+  
+		<event_mention ID="AFP_ENG_20030327.0022-EV21-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="744" START="705">the six and
+asked for a speedy execution</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="744" START="648">President Megawati Sukarnoputri has refused clemency for the six and
+asked for a speedy execution</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="744" START="736">execution</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="AFP_ENG_20030327.0022-E37-7" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="711" START="705">the six</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

@@ -1,0 +1,1176 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Specific" ID="rec.games.chess.politics_20041216.1047-EV1" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Elect" TENSE="Past" TYPE="Personnel">
+		
+  
+		<event_argument REFID="rec.games.chess.politics_20041216.1047-E37" ROLE="Person"/>
+		
+  
+		<event_argument REFID="rec.games.chess.politics_20041216.1047-E16" ROLE="Place"/>
+		
+  
+		<event_argument REFID="rec.games.chess.politics_20041216.1047-E44" ROLE="Entity"/>
+		
+  
+		<event_argument REFID="rec.games.chess.politics_20041216.1047-V1" ROLE="Position"/>
+		
+  
+		<event_argument REFID="rec.games.chess.politics_20041216.1047-T4" ROLE="Time-Within"/>
+		
+  
+		<event_mention ID="rec.games.chess.politics_20041216.1047-EV1-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="385" START="308">Beatriz Marinello was elected USCF
+President on August 11, 2003 in Los Angeles</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="385" START="278">Everyone has heard the story: Beatriz Marinello was elected USCF
+President on August 11, 2003 in Los Angeles</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="336" START="330">elected</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="rec.games.chess.politics_20041216.1047-E37-85" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="324" START="308">Beatriz Marinello</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="rec.games.chess.politics_20041216.1047-E16-103" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="385" START="375">Los Angeles</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="rec.games.chess.politics_20041216.1047-E44-102" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="341" START="338">USCF</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="rec.games.chess.politics_20041216.1047-V1-1" ROLE="Position">
+				
+      
+				<extent>
+					
+        
+					<charseq END="351" START="338">USCF
+President</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="rec.games.chess.politics_20041216.1047-T4-1" ROLE="Time-Within">
+				
+      
+				<extent>
+					
+        
+					<charseq END="370" START="356">August 11, 2003</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="rec.games.chess.politics_20041216.1047-EV2" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Start-Position" TENSE="Past" TYPE="Personnel">
+		
+  
+		<event_argument REFID="rec.games.chess.politics_20041216.1047-E37" ROLE="Person"/>
+		
+  
+		<event_argument REFID="rec.games.chess.politics_20041216.1047-E44" ROLE="Entity"/>
+		
+  
+		<event_mention ID="rec.games.chess.politics_20041216.1047-EV2-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="449" START="406">she
+took office, she found out that the USCF</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="480" START="388">Immediately after she
+took office, she found out that the USCF had no money in the bank,
+zero</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="413" START="410">took</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="rec.games.chess.politics_20041216.1047-E37-104" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="408" START="406">she</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="rec.games.chess.politics_20041216.1047-E44-106" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="449" START="442">the USCF</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="rec.games.chess.politics_20041216.1047-EV3" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Transport" TENSE="Past" TYPE="Movement">
+		
+  
+		<event_argument REFID="rec.games.chess.politics_20041216.1047-E37" ROLE="Person"/>
+		
+  
+		<event_argument REFID="rec.games.chess.politics_20041216.1047-E12" ROLE="Destination"/>
+		
+  
+		<event_argument REFID="rec.games.chess.politics_20041216.1047-T5" ROLE="Time-Within"/>
+		
+  
+		<event_mention ID="rec.games.chess.politics_20041216.1047-EV3-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="685" START="610">August 20, 2003, bravely Beatriz walked into the USCF
+Offices in New Windsor</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="724" START="596">Therefore, on August 20, 2003, bravely Beatriz walked into the USCF
+Offices in New Windsor and immediately fired 17 staff members</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="648" START="643">walked</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="rec.games.chess.politics_20041216.1047-E37-111" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="641" START="635">Beatriz</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="rec.games.chess.politics_20041216.1047-E12-112" ROLE="Destination">
+				
+      
+				<extent>
+					
+        
+					<charseq END="685" START="655">the USCF
+Offices in New Windsor</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="rec.games.chess.politics_20041216.1047-T5-1" ROLE="Time-Within">
+				
+      
+				<extent>
+					
+        
+					<charseq END="624" START="610">August 20, 2003</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="rec.games.chess.politics_20041216.1047-EV4" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="End-Position" TENSE="Past" TYPE="Personnel">
+		
+  
+		<event_argument REFID="rec.games.chess.politics_20041216.1047-E1" ROLE="Person"/>
+		
+  
+		<event_argument REFID="rec.games.chess.politics_20041216.1047-E12" ROLE="Place"/>
+		
+  
+		<event_argument REFID="rec.games.chess.politics_20041216.1047-E44" ROLE="Entity"/>
+		
+  
+		<event_argument REFID="rec.games.chess.politics_20041216.1047-T5" ROLE="Time-Within"/>
+		
+  
+		<event_argument REFID="rec.games.chess.politics_20041216.1047-T10" ROLE="Time-Within"/>
+		
+  
+		<event_argument REFID="rec.games.chess.politics_20041216.1047-E2" ROLE="Person"/>
+		
+  
+		<event_mention ID="rec.games.chess.politics_20041216.1047-EV4-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="724" START="610">August 20, 2003, bravely Beatriz walked into the USCF
+Offices in New Windsor and immediately fired 17 staff members</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="724" START="596">Therefore, on August 20, 2003, bravely Beatriz walked into the USCF
+Offices in New Windsor and immediately fired 17 staff members</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="707" START="703">fired</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="rec.games.chess.politics_20041216.1047-E1-2" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="724" START="709">17 staff members</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="rec.games.chess.politics_20041216.1047-E12-112" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="685" START="655">the USCF
+Offices in New Windsor</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="rec.games.chess.politics_20041216.1047-E44-113" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="662" START="659">USCF</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="rec.games.chess.politics_20041216.1047-T5-1" ROLE="Time-Within">
+				
+      
+				<extent>
+					
+        
+					<charseq END="624" START="610">August 20, 2003</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="rec.games.chess.politics_20041216.1047-EV4-2">
+			
+    
+			<extent>
+				
+      
+				<charseq END="937" START="825">the 17 people Beatriz
+fired were the people she had grown to dislike during the year that
+she worked for the USCF</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="950" START="778">Of course, it was just a pure coincidence that the 17 people Beatriz
+fired were the people she had grown to dislike during the year that
+she worked for the USCF in 1999-2000</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="851" START="847">fired</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="rec.games.chess.politics_20041216.1047-E1-6" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="851" START="825">the 17 people Beatriz
+fired</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="rec.games.chess.politics_20041216.1047-E44-11" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="937" START="930">the USCF</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="rec.games.chess.politics_20041216.1047-EV4-3">
+			
+    
+			<extent>
+				
+      
+				<charseq END="2131" START="2112">fire those 17 people</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="2142" START="2005">Had the existence of this $85,000 in a secret bank account been known,
+it would not have been necessary to fire those 17 people right away</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="2115" START="2112">fire</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="rec.games.chess.politics_20041216.1047-E1-37" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2131" START="2117">those 17 people</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="rec.games.chess.politics_20041216.1047-EV4-4">
+			
+    
+			<extent>
+				
+      
+				<charseq END="2200" START="2192">fire them</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="2283" START="2145">Perhaps in the long run it was a good thing to fire them, but it might
+not have been a good idea to fire them all abruptly, in the same day</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="2195" START="2192">fire</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="rec.games.chess.politics_20041216.1047-E1-38" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2200" START="2197">them</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="rec.games.chess.politics_20041216.1047-EV4-5">
+			
+    
+			<extent>
+				
+      
+				<charseq END="2283" START="2245">fire them all abruptly, in the same day</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="2283" START="2145">Perhaps in the long run it was a good thing to fire them, but it might
+not have been a good idea to fire them all abruptly, in the same day</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="2248" START="2245">fire</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="rec.games.chess.politics_20041216.1047-E1-39" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2257" START="2250">them all</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="rec.games.chess.politics_20041216.1047-T10-1" ROLE="Time-Within">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2283" START="2272">the same day</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="rec.games.chess.politics_20041216.1047-EV4-6">
+			
+    
+			<extent>
+				
+      
+				<charseq END="4482" START="4463">the employees let go</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="4606" START="4437">It is no coincidence that the employees let go included
+substantially all those who had offered to transfer to Crossville, including
+(remarkably) the employee of the year</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="4482" START="4477">let go</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="rec.games.chess.politics_20041216.1047-E1-86" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4482" START="4463">the employees let go</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="rec.games.chess.politics_20041216.1047-EV4-7">
+			
+    
+			<extent>
+				
+      
+				<charseq END="4087" START="4078">staff
+cuts</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="4189" START="4066">To make the staff
+cuts without the system changes was absurd and probably the reason for McCrary
+&amp;Camaratta's departures</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="4087" START="4084">cuts</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="rec.games.chess.politics_20041216.1047-E2-75" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4082" START="4078">staff</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="rec.games.chess.politics_20041216.1047-EV5" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="End-Position" TENSE="Past" TYPE="Personnel">
+		
+  
+		<event_argument REFID="rec.games.chess.politics_20041216.1047-E3" ROLE="Person"/>
+		
+  
+		<event_mention ID="rec.games.chess.politics_20041216.1047-EV5-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="2568" START="2496">He was asked to wait until after the LA meeting was over
+before resigning</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="2568" START="2496">He was asked to wait until after the LA meeting was over
+before resigning</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="2568" START="2560">resigning</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="rec.games.chess.politics_20041216.1047-E3-43" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2497" START="2496">He</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="rec.games.chess.politics_20041216.1047-EV5-2">
+			
+    
+			<extent>
+				
+      
+				<charseq END="747" START="727">John
+McCrary resigned</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="774" START="727">John
+McCrary resigned from the board as a result</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="747" START="740">resigned</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="rec.games.chess.politics_20041216.1047-E3-4" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="738" START="727">John
+McCrary</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="rec.games.chess.politics_20041216.1047-EV6" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Transfer-Money" TENSE="Past" TYPE="Transaction">
+		
+  
+		<event_argument REFID="rec.games.chess.politics_20041216.1047-E44" ROLE="Giver"/>
+		
+  
+		<event_argument REFID="rec.games.chess.politics_20041216.1047-E6" ROLE="Recipient"/>
+		
+  
+		<event_argument REFID="rec.games.chess.politics_20041216.1047-T9" ROLE="Time-After"/>
+		
+  
+		<event_mention ID="rec.games.chess.politics_20041216.1047-EV6-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1031" START="962">six weeks before the USCF paid the guaranteed prizes the prize
+winners</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1054" START="954">It took six weeks before the USCF paid the guaranteed prizes the prize
+winners had won at the US Open</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="991" START="988">paid</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="rec.games.chess.politics_20041216.1047-E44-12" ROLE="Giver">
+				
+      
+				<extent>
+					
+        
+					<charseq END="986" START="979">the USCF</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="rec.games.chess.politics_20041216.1047-E6-13" ROLE="Recipient">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1031" START="1015">the prize
+winners</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="rec.games.chess.politics_20041216.1047-T9-1" ROLE="Time-After">
+				
+      
+				<extent>
+					
+        
+					<charseq END="970" START="962">six weeks</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="rec.games.chess.politics_20041216.1047-EV7" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Transfer-Money" TENSE="Unspecified" TYPE="Transaction">
+		
+  
+		<event_mention ID="rec.games.chess.politics_20041216.1047-EV7-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1783" START="1780">paid</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1783" START="1734">At scholastic tournaments, no
+cash prizes are paid</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1783" START="1780">paid</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="rec.games.chess.politics_20041216.1047-EV8" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Transfer-Money" TENSE="Unspecified" TYPE="Transaction">
+		
+  
+		<event_argument REFID="rec.games.chess.politics_20041216.1047-E42" ROLE="Recipient"/>
+		
+  
+		<event_mention ID="rec.games.chess.politics_20041216.1047-EV8-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1845" START="1817">the players
+expect to receive</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1891" START="1786">However, in adult tournaments, the players
+expect to receive their prizes, and to receive them immediately</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1845" START="1839">receive</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="rec.games.chess.politics_20041216.1047-E42-100" ROLE="Recipient">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1827" START="1817">the players</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="rec.games.chess.politics_20041216.1047-EV8-2">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1874" START="1868">receive</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1891" START="1786">However, in adult tournaments, the players
+expect to receive their prizes, and to receive them immediately</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1874" START="1868">receive</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="rec.games.chess.politics_20041216.1047-EV9" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="End-Position" TENSE="Past" TYPE="Personnel">
+		
+  
+		<event_argument REFID="rec.games.chess.politics_20041216.1047-E11" ROLE="Person"/>
+		
+  
+		<event_argument REFID="rec.games.chess.politics_20041216.1047-E44" ROLE="Entity"/>
+		
+  
+		<event_mention ID="rec.games.chess.politics_20041216.1047-EV9-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="2001" START="1956">the USCF,
+the accountant was immediately fired</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="2001" START="1895">For this act of stupidity which had caused a grave crisis in the USCF,
+the accountant was immediately fired</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="2001" START="1997">fired</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="rec.games.chess.politics_20041216.1047-E11-34" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1979" START="1966">the accountant</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="rec.games.chess.politics_20041216.1047-E44-33" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1963" START="1956">the USCF</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

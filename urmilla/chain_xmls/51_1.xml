@@ -1,0 +1,255 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Specific" ID="FLOPPINGACES_20041114.1240.039-EV1" MODALITY="Other" POLARITY="Positive" SUBTYPE="Transport" TENSE="Future" TYPE="Movement">
+		
+  
+		<event_argument REFID="FLOPPINGACES_20041114.1240.039-E8" ROLE="Origin"/>
+		
+  
+		<event_argument REFID="FLOPPINGACES_20041114.1240.039-E7" ROLE="Destination"/>
+		
+  
+		<event_argument REFID="FLOPPINGACES_20041114.1240.039-E4" ROLE="Agent"/>
+		
+  
+		<event_mention ID="FLOPPINGACES_20041114.1240.039-EV1-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="275" START="151">al-Qaeda operative was captured and is
+spitting out that they have plans in the work to smuggle nukes into the
+US from Mexico</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="297" START="120">Time is reporting today that a al-Qaeda operative was captured and is
+spitting out that they have plans in the work to smuggle nukes into the
+US from Mexico, see the article here</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="245" START="239">smuggle</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="FLOPPINGACES_20041114.1240.039-E8-8" ROLE="Origin">
+				
+      
+				<extent>
+					
+        
+					<charseq END="275" START="270">Mexico</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="FLOPPINGACES_20041114.1240.039-E7-7" ROLE="Destination">
+				
+      
+				<extent>
+					
+        
+					<charseq END="263" START="258">the
+US</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="FLOPPINGACES_20041114.1240.039-E4-4" ROLE="Agent">
+				
+      
+				<extent>
+					
+        
+					<charseq END="158" START="151">al-Qaeda</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="FLOPPINGACES_20041114.1240.039-EV2" MODALITY="Other" POLARITY="Positive" SUBTYPE="Transport" TENSE="Future" TYPE="Movement">
+		
+  
+		<event_argument REFID="FLOPPINGACES_20041114.1240.039-E12" ROLE="Person"/>
+		
+  
+		<event_argument REFID="FLOPPINGACES_20041114.1240.039-E13" ROLE="Destination"/>
+		
+  
+		<event_mention ID="FLOPPINGACES_20041114.1240.039-EV2-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="485" START="451">the enemy to get
+within our borders</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="485" START="409">This policy would just make it easier for the enemy to get
+within our borders</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="466" START="464">get</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="FLOPPINGACES_20041114.1240.039-E12-16" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="459" START="451">the enemy</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="FLOPPINGACES_20041114.1240.039-E13-17" ROLE="Destination">
+				
+      
+				<extent>
+					
+        
+					<charseq END="485" START="475">our borders</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="FLOPPINGACES_20041114.1240.039-EV3" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Arrest-Jail" TENSE="Unspecified" TYPE="Justice">
+		
+  
+		<event_argument REFID="FLOPPINGACES_20041114.1240.039-E3" ROLE="Person"/>
+		
+  
+		<event_argument REFID="FLOPPINGACES_20041114.1240.039-T2" ROLE="Time-Before"/>
+		
+  
+		<event_mention ID="FLOPPINGACES_20041114.1240.039-EV3-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="181" START="138">today that a al-Qaeda operative was captured</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="297" START="120">Time is reporting today that a al-Qaeda operative was captured and is
+spitting out that they have plans in the work to smuggle nukes into the
+US from Mexico, see the article here</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="181" START="174">captured</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="FLOPPINGACES_20041114.1240.039-E3-3" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="168" START="149">a al-Qaeda operative</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="FLOPPINGACES_20041114.1240.039-T2-1" ROLE="Time-Before">
+				
+      
+				<extent>
+					
+        
+					<charseq END="142" START="138">today</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

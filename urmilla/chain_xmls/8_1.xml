@@ -1,0 +1,540 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Generic" ID="CNN_ENG_20030312_083725.3-EV1" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Past" TYPE="Conflict">
+		
+  
+		<event_argument REFID="CNN_ENG_20030312_083725.3-E2" ROLE="Place"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030312_083725.3-EV1-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="105" START="88">belgrade, violence</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="125" START="67">another story out of belgrade, violence at the highest form</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="105" START="98">violence</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030312_083725.3-E2-1" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="95" START="88">belgrade</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_ENG_20030312_083725.3-EV2" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Die" TENSE="Past" TYPE="Life">
+		
+  
+		<event_argument REFID="CNN_ENG_20030312_083725.3-E3" ROLE="Victim"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030312_083725.3-EV2-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="178" START="128">the
+serbian prime minister, zoran djindjic has died</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="235" START="128">the
+serbian prime minister, zoran djindjic has died of his wounds after
+being shot, an assassination attempt</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="178" START="175">died</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030312_083725.3-E3-6" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="153" START="128">the
+serbian prime minister</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_ENG_20030312_083725.3-EV3" MODALITY="Other" POLARITY="Positive" SUBTYPE="Transport" TENSE="Past" TYPE="Movement">
+		
+  
+		<event_argument REFID="CNN_ENG_20030312_083725.3-E3" ROLE="Person"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030312_083725.3-E8" ROLE="Destination"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030312_083725.3-EV3-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="350" START="250">he was on his way to
+greet reporters at the time outside the main government office there
+in belgrade</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="350" START="238">apparently, he was on his way to
+greet reporters at the time outside the main government office there
+in belgrade</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="266" START="264">way</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030312_083725.3-E3-10" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="251" START="250">he</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030312_083725.3-E8-13" ROLE="Destination">
+				
+      
+				<extent>
+					
+        
+					<charseq END="350" START="307">the main government office there
+in belgrade</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_ENG_20030312_083725.3-EV4" MODALITY="Other" POLARITY="Positive" SUBTYPE="Meet" TENSE="Past" TYPE="Contact">
+		
+  
+		<event_argument REFID="CNN_ENG_20030312_083725.3-E8" ROLE="Place"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030312_083725.3-E3" ROLE="Entity"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030312_083725.3-E7" ROLE="Entity"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030312_083725.3-EV4-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="350" START="250">he was on his way to
+greet reporters at the time outside the main government office there
+in belgrade</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="350" START="238">apparently, he was on his way to
+greet reporters at the time outside the main government office there
+in belgrade</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="275" START="271">greet</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030312_083725.3-E8-13" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="350" START="307">the main government office there
+in belgrade</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030312_083725.3-E3-10" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="251" START="250">he</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030312_083725.3-E7-12" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="285" START="277">reporters</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_ENG_20030312_083725.3-EV5" MODALITY="Other" POLARITY="Positive" SUBTYPE="Die" TENSE="Past" TYPE="Life">
+		
+  
+		<event_argument REFID="CNN_ENG_20030312_083725.3-E3" ROLE="Victim"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030312_083725.3-EV5-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="227" START="128">the
+serbian prime minister, zoran djindjic has died of his wounds after
+being shot, an assassination</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="235" START="128">the
+serbian prime minister, zoran djindjic has died of his wounds after
+being shot, an assassination attempt</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="227" START="215">assassination</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030312_083725.3-E3-6" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="153" START="128">the
+serbian prime minister</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_ENG_20030312_083725.3-EV6" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Past" TYPE="Conflict">
+		
+  
+		<event_argument REFID="CNN_ENG_20030312_083725.3-E3" ROLE="Target"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030312_083725.3-EV6-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="209" START="128">the
+serbian prime minister, zoran djindjic has died of his wounds after
+being shot</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="235" START="128">the
+serbian prime minister, zoran djindjic has died of his wounds after
+being shot, an assassination attempt</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="209" START="206">shot</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030312_083725.3-E3-6" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="153" START="128">the
+serbian prime minister</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_ENG_20030312_083725.3-EV7" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Die" TENSE="Unspecified" TYPE="Life">
+		
+  
+		<event_argument REFID="CNN_ENG_20030312_083725.3-E3" ROLE="Victim"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030312_083725.3-EV7-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="503" START="461">zoran djindjic, the
+prime minister, is dead</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="503" START="439">the word from serbia, zoran djindjic, the
+prime minister, is dead</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="503" START="500">dead</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030312_083725.3-E3-18" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="474" START="461">zoran djindjic</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_ENG_20030312_083725.3-EV8" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Past" TYPE="Conflict">
+		
+  
+		<event_argument REFID="CNN_ENG_20030312_083725.3-E3" ROLE="Target"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030312_083725.3-EV8-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="537" START="527">he was shot</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="573" START="506">earlier reports said he was shot in the back,
+as well as the stomach</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="537" START="534">shot</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030312_083725.3-E3-20" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="528" START="527">he</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

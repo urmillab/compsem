@@ -1,0 +1,389 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Specific" ID="rec.games.chess.politics_20041216.1047-EV10" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="End-Position" TENSE="Past" TYPE="Personnel">
+		
+  
+		<event_argument REFID="rec.games.chess.politics_20041216.1047-E3" ROLE="Person"/>
+		
+  
+		<event_argument REFID="rec.games.chess.politics_20041216.1047-E31" ROLE="Person"/>
+		
+  
+		<event_mention ID="rec.games.chess.politics_20041216.1047-EV10-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="4189" START="4155">McCrary
+&amp;Camaratta's departures</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="4189" START="4066">To make the staff
+cuts without the system changes was absurd and probably the reason for McCrary
+&amp;Camaratta's departures</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="4189" START="4180">departures</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="rec.games.chess.politics_20041216.1047-E3-76" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4161" START="4155">McCrary</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="rec.games.chess.politics_20041216.1047-E31-77" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4176" START="4168">Camaratta</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="rec.games.chess.politics_20041216.1047-EV11" MODALITY="Other" POLARITY="Negative" SUBTYPE="Meet" TENSE="Past" TYPE="Contact">
+		
+  
+		<event_argument REFID="rec.games.chess.politics_20041216.1047-E17" ROLE="Entity"/>
+		
+  
+		<event_argument REFID="rec.games.chess.politics_20041216.1047-E4" ROLE="Entity"/>
+		
+  
+		<event_argument REFID="rec.games.chess.politics_20041216.1047-T19" ROLE="Time-Within"/>
+		
+  
+		<event_mention ID="rec.games.chess.politics_20041216.1047-EV11-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="4250" START="4198">I offered to attend the Board meeting in October 2003</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="4312" START="4193">When I offered to attend the Board meeting in October 2003 to explain and
+clarify all this, I was told I was not welcome</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="4234" START="4228">meeting</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="rec.games.chess.politics_20041216.1047-E17-78" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4198" START="4198">I</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="rec.games.chess.politics_20041216.1047-E4-79" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4226" START="4222">Board</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="rec.games.chess.politics_20041216.1047-T19-1" ROLE="Time-Within">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4250" START="4239">October 2003</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="rec.games.chess.politics_20041216.1047-EV12" MODALITY="Other" POLARITY="Positive" SUBTYPE="Transport" TENSE="Unspecified" TYPE="Movement">
+		
+  
+		<event_argument REFID="rec.games.chess.politics_20041216.1047-E34" ROLE="Person"/>
+		
+  
+		<event_argument REFID="rec.games.chess.politics_20041216.1047-E25" ROLE="Destination"/>
+		
+  
+		<event_mention ID="rec.games.chess.politics_20041216.1047-EV12-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="4557" START="4517">who had offered to transfer to Crossville</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="4606" START="4437">It is no coincidence that the employees let go included
+substantially all those who had offered to transfer to Crossville, including
+(remarkably) the employee of the year</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="4543" START="4536">transfer</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="rec.games.chess.politics_20041216.1047-E34-88" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4519" START="4517">who</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="rec.games.chess.politics_20041216.1047-E25-89" ROLE="Destination">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4557" START="4548">Crossville</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="rec.games.chess.politics_20041216.1047-EV13" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Transfer-Ownership" TENSE="Past" TYPE="Transaction">
+		
+  
+		<event_argument REFID="rec.games.chess.politics_20041216.1047-E22" ROLE="Artifact"/>
+		
+  
+		<event_argument REFID="rec.games.chess.politics_20041216.1047-E23" ROLE="Buyer"/>
+		
+  
+		<event_mention ID="rec.games.chess.politics_20041216.1047-EV13-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="3863" START="3789">a buyer
+for the building at a prize much higher than it was eventually sold</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="3920" START="3777">We also had a buyer
+for the building at a prize much higher than it was eventually sold for and a
+commitment for 4% bank financing in Crossville</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="3863" START="3860">sold</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="rec.games.chess.politics_20041216.1047-E22-67" ROLE="Artifact">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3843" START="3842">it</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="rec.games.chess.politics_20041216.1047-E23-65" ROLE="Buyer">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3812" START="3789">a buyer
+for the building</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="rec.games.chess.politics_20041216.1047-EV14" MODALITY="Other" POLARITY="Positive" SUBTYPE="End-Position" TENSE="Unspecified" TYPE="Personnel">
+		
+  
+		<event_argument REFID="rec.games.chess.politics_20041216.1047-E2" ROLE="Person"/>
+		
+  
+		<event_mention ID="rec.games.chess.politics_20041216.1047-EV14-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="3939" START="3924">Staff reductions</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="4063" START="3924">Staff reductions were clearly in the works pending system changes that would be
+facilitated by any move, Miami, PBG, Crossville or elsewhere</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="3939" START="3930">reductions</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="rec.games.chess.politics_20041216.1047-E2-70" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3928" START="3924">Staff</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

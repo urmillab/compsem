@@ -1,0 +1,577 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Specific" ID="CNN_ENG_20030513_160506.16-EV1" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Trial-Hearing" TENSE="Future" TYPE="Justice">
+		
+  
+		<event_argument REFID="CNN_ENG_20030513_160506.16-E22" ROLE="Adjudicator"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030513_160506.16-E24" ROLE="Defendant"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030513_160506.16-E23" ROLE="Prosecutor"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030513_160506.16-E23" ROLE="Place"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030513_160506.16-V1" ROLE="Crime"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030513_160506.16-EV1-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="238" START="112">an oklahoma judge has
+ruled that terry nichols will indeed stand trial in that state court
+on 160 counts of first-degree murder</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="238" START="68">as we told you at the top of this newscast, an oklahoma judge has
+ruled that terry nichols will indeed stand trial in that state court
+on 160 counts of first-degree murder</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="181" START="177">trial</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030513_160506.16-E22-48" ROLE="Adjudicator">
+				
+      
+				<extent>
+					
+        
+					<charseq END="128" START="112">an oklahoma judge</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030513_160506.16-E24-50" ROLE="Defendant">
+				
+      
+				<extent>
+					
+        
+					<charseq END="157" START="145">terry nichols</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030513_160506.16-E23-52" ROLE="Prosecutor">
+				
+      
+				<extent>
+					
+        
+					<charseq END="195" START="191">state</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030513_160506.16-E23-49" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="122" START="115">oklahoma</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030513_160506.16-V1-1" ROLE="Crime">
+				
+      
+				<extent>
+					
+        
+					<charseq END="238" START="206">160 counts of first-degree murder</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="CNN_ENG_20030513_160506.16-EV1-2">
+			
+    
+			<extent>
+				
+      
+				<charseq END="515" START="404">trial date was not immediately set by the judge whose decision came as
+prosecutes were still presenting evidence</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="515" START="402">a
+trial date was not immediately set by the judge whose decision came as
+prosecutes were still presenting evidence</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="408" START="404">trial</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030513_160506.16-E22-58" ROLE="Adjudicator">
+				
+      
+				<extent>
+					
+        
+					<charseq END="515" START="442">the judge whose decision came as
+prosecutes were still presenting evidence</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="CNN_ENG_20030513_160506.16-EV2" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Die" TENSE="Past" TYPE="Life">
+		
+  
+		<event_argument REFID="CNN_ENG_20030513_160506.16-E23" ROLE="Place"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030513_160506.16-EV2-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="238" START="115">oklahoma judge has
+ruled that terry nichols will indeed stand trial in that state court
+on 160 counts of first-degree murder</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="238" START="68">as we told you at the top of this newscast, an oklahoma judge has
+ruled that terry nichols will indeed stand trial in that state court
+on 160 counts of first-degree murder</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="238" START="233">murder</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030513_160506.16-E23-49" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="122" START="115">oklahoma</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_ENG_20030513_160506.16-EV3" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Past" TYPE="Conflict">
+		
+  
+		<event_argument REFID="CNN_ENG_20030513_160506.16-E24" ROLE="Attacker"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030513_160506.16-E27" ROLE="Place"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030513_160506.16-EV3-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="277" START="241">the oklahoma city bombing
+conspirator</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="326" START="241">the oklahoma city bombing
+conspirator is already serving a life term in federal prison</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="265" START="259">bombing</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030513_160506.16-E24-53" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="277" START="241">the oklahoma city bombing
+conspirator</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030513_160506.16-E27-54" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="257" START="245">oklahoma city</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="CNN_ENG_20030513_160506.16-EV4" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Sentence" TENSE="Past" TYPE="Justice">
+		
+  
+		<event_argument REFID="CNN_ENG_20030513_160506.16-E24" ROLE="Defendant"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030513_160506.16-E27" ROLE="Place"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030513_160506.16-V2" ROLE="Sentence"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030513_160506.16-EV4-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="326" START="241">the oklahoma city bombing
+conspirator is already serving a life term in federal prison</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="326" START="241">the oklahoma city bombing
+conspirator is already serving a life term in federal prison</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="296" START="290">serving</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030513_160506.16-E24-53" ROLE="Defendant">
+				
+      
+				<extent>
+					
+        
+					<charseq END="277" START="241">the oklahoma city bombing
+conspirator</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030513_160506.16-E27-54" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="257" START="245">oklahoma city</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030513_160506.16-V2-1" ROLE="Sentence">
+				
+      
+				<extent>
+					
+        
+					<charseq END="326" START="298">a life term in federal prison</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_ENG_20030513_160506.16-EV5" MODALITY="Other" POLARITY="Positive" SUBTYPE="Execute" TENSE="Future" TYPE="Justice">
+		
+  
+		<event_argument REFID="CNN_ENG_20030513_160506.16-E24" ROLE="Person"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030513_160506.16-E23" ROLE="Agent"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030513_160506.16-EV5-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="386" START="329">state
+proceedings could bring the death penalty if nichols</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="399" START="329">state
+proceedings could bring the death penalty if nichols is convicted</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="375" START="363">death penalty</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030513_160506.16-E24-56" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="386" START="380">nichols</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030513_160506.16-E23-57" ROLE="Agent">
+				
+      
+				<extent>
+					
+        
+					<charseq END="333" START="329">state</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_ENG_20030513_160506.16-EV6" MODALITY="Other" POLARITY="Positive" SUBTYPE="Convict" TENSE="Future" TYPE="Justice">
+		
+  
+		<event_argument REFID="CNN_ENG_20030513_160506.16-E24" ROLE="Defendant"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030513_160506.16-E23" ROLE="Place"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030513_160506.16-EV6-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="399" START="329">state
+proceedings could bring the death penalty if nichols is convicted</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="399" START="329">state
+proceedings could bring the death penalty if nichols is convicted</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="399" START="391">convicted</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030513_160506.16-E24-56" ROLE="Defendant">
+				
+      
+				<extent>
+					
+        
+					<charseq END="386" START="380">nichols</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030513_160506.16-E23-57" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="333" START="329">state</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

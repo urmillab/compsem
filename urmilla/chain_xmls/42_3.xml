@@ -1,0 +1,155 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Generic" ID="alt.atheism_20041104.2428-EV6" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Die" TENSE="Unspecified" TYPE="Life">
+		
+  
+		<event_argument REFID="alt.atheism_20041104.2428-E52" ROLE="Victim"/>
+		
+  
+		<event_argument REFID="alt.atheism_20041104.2428-E13" ROLE="Agent"/>
+		
+  
+		<event_mention ID="alt.atheism_20041104.2428-EV6-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="6472" START="6438">Nazi extermination of
+slavic people</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="6472" START="6392">May I interpret this as your approving of the Nazi extermination of
+slavic people</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="6455" START="6443">extermination</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="alt.atheism_20041104.2428-E52-110" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="6472" START="6460">slavic people</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="alt.atheism_20041104.2428-E13-21" ROLE="Agent">
+				
+      
+				<extent>
+					
+        
+					<charseq END="6441" START="6438">Nazi</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="alt.atheism_20041104.2428-EV15" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Die" TENSE="Unspecified" TYPE="Life">
+		
+  
+		<event_argument REFID="alt.atheism_20041104.2428-E53" ROLE="Victim"/>
+		
+  
+		<event_argument REFID="alt.atheism_20041104.2428-E54" ROLE="Agent"/>
+		
+  
+		<event_mention ID="alt.atheism_20041104.2428-EV15-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="6528" START="6479">extermination of kosovar albanians by native serbs</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="6528" START="6475">The extermination of kosovar albanians by native serbs</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="6491" START="6479">extermination</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="alt.atheism_20041104.2428-E53-111" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="6512" START="6496">kosovar albanians</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="alt.atheism_20041104.2428-E54-112" ROLE="Agent">
+				
+      
+				<extent>
+					
+        
+					<charseq END="6528" START="6517">native serbs</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

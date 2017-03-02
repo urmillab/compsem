@@ -1,0 +1,240 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Specific" ID="APW_ENG_20030502.0686-EV11" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_argument REFID="APW_ENG_20030502.0686-E62" ROLE="Attacker"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030502.0686-E115" ROLE="Place"/>
+		
+  
+		<event_mention ID="APW_ENG_20030502.0686-EV11-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="5569" START="5523">U.S. special
+operations raids into western Iraq</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="5626" START="5430">Defense officials say Jordan provided key
+help in the Iraq war, acting as a staging area for U.S. special
+operations raids into western Iraq to prevent missiles from being
+fired at Jordan or Israel</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="5551" START="5547">raids</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030502.0686-E62-99" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="5545" START="5523">U.S. special
+operations</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030502.0686-E115-185" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="5569" START="5558">western Iraq</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="APW_ENG_20030502.0686-EV12" MODALITY="Other" POLARITY="Negative" SUBTYPE="Attack" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_argument REFID="APW_ENG_20030502.0686-E106" ROLE="Place"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030502.0686-E117" ROLE="Place"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030502.0686-E116" ROLE="Instrument"/>
+		
+  
+		<event_mention ID="APW_ENG_20030502.0686-EV12-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="5626" START="5582">missiles from being
+fired at Jordan or Israel</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="5626" START="5430">Defense officials say Jordan provided key
+help in the Iraq war, acting as a staging area for U.S. special
+operations raids into western Iraq to prevent missiles from being
+fired at Jordan or Israel</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="5606" START="5602">fired</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030502.0686-E106-187" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="5616" START="5611">Jordan</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030502.0686-E117-188" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="5626" START="5621">Israel</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030502.0686-E116-186" ROLE="Instrument">
+				
+      
+				<extent>
+					
+        
+					<charseq END="5589" START="5582">missiles</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="APW_ENG_20030502.0686-EV16" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_argument REFID="APW_ENG_20030502.0686-E113" ROLE="Place"/>
+		
+  
+		<event_mention ID="APW_ENG_20030502.0686-EV16-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="5491" START="5484">Iraq war</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="5626" START="5430">Defense officials say Jordan provided key
+help in the Iraq war, acting as a staging area for U.S. special
+operations raids into western Iraq to prevent missiles from being
+fired at Jordan or Israel</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="5491" START="5489">war</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030502.0686-E113-183" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="5487" START="5484">Iraq</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

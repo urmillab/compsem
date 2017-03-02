@@ -1,0 +1,672 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Specific" ID="AGGRESSIVEVOICEDAILY_20050205.1954-EV1" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Transfer-Money" TENSE="Past" TYPE="Transaction">
+		
+  
+		<event_argument REFID="AGGRESSIVEVOICEDAILY_20050205.1954-E21" ROLE="Giver"/>
+		
+  
+		<event_argument REFID="AGGRESSIVEVOICEDAILY_20050205.1954-E22" ROLE="Beneficiary"/>
+		
+  
+		<event_argument REFID="AGGRESSIVEVOICEDAILY_20050205.1954-V1" ROLE="Money"/>
+		
+  
+		<event_argument REFID="AGGRESSIVEVOICEDAILY_20050205.1954-E20" ROLE="Place"/>
+		
+  
+		<event_argument REFID="AGGRESSIVEVOICEDAILY_20050205.1954-V2" ROLE="Money"/>
+		
+  
+		<event_argument REFID="AGGRESSIVEVOICEDAILY_20050205.1954-E22" ROLE="Recipient"/>
+		
+  
+		<event_argument REFID="AGGRESSIVEVOICEDAILY_20050205.1954-E2" ROLE="Giver"/>
+		
+  
+		<event_argument REFID="AGGRESSIVEVOICEDAILY_20050205.1954-E3" ROLE="Giver"/>
+		
+  
+		<event_argument REFID="AGGRESSIVEVOICEDAILY_20050205.1954-T4" ROLE="Time-Within"/>
+		
+  
+		<event_mention ID="AGGRESSIVEVOICEDAILY_20050205.1954-EV1-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="352" START="266">Colorado
+judge ordered two teen-age girls to pay about $900 for the distress a
+neighbor</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="427" START="264">A Colorado
+judge ordered two teen-age girls to pay about $900 for the distress a
+neighbor said they caused by giving her home-made cookies adorned with
+paper hearts</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="313" START="311">pay</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="AGGRESSIVEVOICEDAILY_20050205.1954-E21-31" ROLE="Giver">
+				
+      
+				<extent>
+					
+        
+					<charseq END="306" START="289">two teen-age girls</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="AGGRESSIVEVOICEDAILY_20050205.1954-E22-32" ROLE="Beneficiary">
+				
+      
+				<extent>
+					
+        
+					<charseq END="352" START="343">a
+neighbor</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="AGGRESSIVEVOICEDAILY_20050205.1954-V1-1" ROLE="Money">
+				
+      
+				<extent>
+					
+        
+					<charseq END="324" START="315">about $900</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="AGGRESSIVEVOICEDAILY_20050205.1954-E20-30" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="273" START="266">Colorado</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="AGGRESSIVEVOICEDAILY_20050205.1954-EV1-2">
+			
+    
+			<extent>
+				
+      
+				<charseq END="505" START="431">The pair were ordered to pay $871.70 plus $39 in court costs after
+neighbor</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="717" START="431">The pair were ordered to pay $871.70 plus $39 in court costs after
+neighbor Wanita Renea Young, 49, filed a lawsuit complaining that the
+unsolicited cookies, left at her house after the girls knocked on her
+door, had triggered an anxiety attack that sent her to the hospital the
+next day</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="458" START="456">pay</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="AGGRESSIVEVOICEDAILY_20050205.1954-E21-35" ROLE="Giver">
+				
+      
+				<extent>
+					
+        
+					<charseq END="438" START="431">The pair</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="AGGRESSIVEVOICEDAILY_20050205.1954-V2-1" ROLE="Money">
+				
+      
+				<extent>
+					
+        
+					<charseq END="466" START="460">$871.70</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="AGGRESSIVEVOICEDAILY_20050205.1954-E22-38" ROLE="Recipient">
+				
+      
+				<extent>
+					
+        
+					<charseq END="505" START="498">neighbor</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="AGGRESSIVEVOICEDAILY_20050205.1954-EV1-3">
+			
+    
+			<extent>
+				
+      
+				<charseq END="806" START="721">Taylor Ostergaard, then 17, and Lindsey Jo Zellitte, 18, paid the
+judgment on Thursday</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="913" START="721">Taylor Ostergaard, then 17, and Lindsey Jo Zellitte, 18, paid the
+judgment on Thursday after a small claims court ruling by La Plata
+County Court Judge Doug Walker, a court clerk said on Friday</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="781" START="778">paid</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="AGGRESSIVEVOICEDAILY_20050205.1954-E2-6" ROLE="Giver">
+				
+      
+				<extent>
+					
+        
+					<charseq END="737" START="721">Taylor Ostergaard</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="AGGRESSIVEVOICEDAILY_20050205.1954-E3-7" ROLE="Giver">
+				
+      
+				<extent>
+					
+        
+					<charseq END="771" START="753">Lindsey Jo Zellitte</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="AGGRESSIVEVOICEDAILY_20050205.1954-T4-1" ROLE="Time-Within">
+				
+      
+				<extent>
+					
+        
+					<charseq END="806" START="799">Thursday</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="AGGRESSIVEVOICEDAILY_20050205.1954-EV2" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Sue" TENSE="Past" TYPE="Justice">
+		
+  
+		<event_argument REFID="AGGRESSIVEVOICEDAILY_20050205.1954-E21" ROLE="Defendant"/>
+		
+  
+		<event_argument REFID="AGGRESSIVEVOICEDAILY_20050205.1954-E22" ROLE="Plaintiff"/>
+		
+  
+		<event_mention ID="AGGRESSIVEVOICEDAILY_20050205.1954-EV2-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="545" START="431">The pair were ordered to pay $871.70 plus $39 in court costs after
+neighbor Wanita Renea Young, 49, filed a lawsuit</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="717" START="431">The pair were ordered to pay $871.70 plus $39 in court costs after
+neighbor Wanita Renea Young, 49, filed a lawsuit complaining that the
+unsolicited cookies, left at her house after the girls knocked on her
+door, had triggered an anxiety attack that sent her to the hospital the
+next day</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="545" START="539">lawsuit</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="AGGRESSIVEVOICEDAILY_20050205.1954-E21-35" ROLE="Defendant">
+				
+      
+				<extent>
+					
+        
+					<charseq END="438" START="431">The pair</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="AGGRESSIVEVOICEDAILY_20050205.1954-E22-37" ROLE="Plaintiff">
+				
+      
+				<extent>
+					
+        
+					<charseq END="524" START="498">neighbor Wanita Renea Young</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="AGGRESSIVEVOICEDAILY_20050205.1954-EV3" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Transport" TENSE="Past" TYPE="Movement">
+		
+  
+		<event_argument REFID="AGGRESSIVEVOICEDAILY_20050205.1954-E22" ROLE="Person"/>
+		
+  
+		<event_argument REFID="AGGRESSIVEVOICEDAILY_20050205.1954-E26" ROLE="Destination"/>
+		
+  
+		<event_argument REFID="AGGRESSIVEVOICEDAILY_20050205.1954-E1" ROLE="Origin"/>
+		
+  
+		<event_argument REFID="AGGRESSIVEVOICEDAILY_20050205.1954-T3" ROLE="Time-Within"/>
+		
+  
+		<event_mention ID="AGGRESSIVEVOICEDAILY_20050205.1954-EV3-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="717" START="597">her house after the girls knocked on her
+door, had triggered an anxiety attack that sent her to the hospital the
+next day</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="717" START="431">The pair were ordered to pay $871.70 plus $39 in court costs after
+neighbor Wanita Renea Young, 49, filed a lawsuit complaining that the
+unsolicited cookies, left at her house after the girls knocked on her
+door, had triggered an anxiety attack that sent her to the hospital the
+next day</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="684" START="681">sent</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="AGGRESSIVEVOICEDAILY_20050205.1954-E22-4" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="688" START="686">her</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="AGGRESSIVEVOICEDAILY_20050205.1954-E26-39" ROLE="Destination">
+				
+      
+				<extent>
+					
+        
+					<charseq END="605" START="597">her house</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="AGGRESSIVEVOICEDAILY_20050205.1954-E1-5" ROLE="Origin">
+				
+      
+				<extent>
+					
+        
+					<charseq END="704" START="693">the hospital</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="AGGRESSIVEVOICEDAILY_20050205.1954-T3-1" ROLE="Time-Within">
+				
+      
+				<extent>
+					
+        
+					<charseq END="717" START="706">the
+next day</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="AGGRESSIVEVOICEDAILY_20050205.1954-EV4" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Transfer-Money" TENSE="Past" TYPE="Transaction">
+		
+  
+		<event_argument REFID="AGGRESSIVEVOICEDAILY_20050205.1954-E21" ROLE="Giver"/>
+		
+  
+		<event_argument REFID="AGGRESSIVEVOICEDAILY_20050205.1954-V3" ROLE="Money"/>
+		
+  
+		<event_argument REFID="AGGRESSIVEVOICEDAILY_20050205.1954-E4" ROLE="Recipient"/>
+		
+  
+		<event_mention ID="AGGRESSIVEVOICEDAILY_20050205.1954-EV4-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="484" START="431">The pair were ordered to pay $871.70 plus $39 in court</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="717" START="431">The pair were ordered to pay $871.70 plus $39 in court costs after
+neighbor Wanita Renea Young, 49, filed a lawsuit complaining that the
+unsolicited cookies, left at her house after the girls knocked on her
+door, had triggered an anxiety attack that sent her to the hospital the
+next day</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="458" START="456">pay</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="AGGRESSIVEVOICEDAILY_20050205.1954-E21-35" ROLE="Giver">
+				
+      
+				<extent>
+					
+        
+					<charseq END="438" START="431">The pair</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="AGGRESSIVEVOICEDAILY_20050205.1954-V3-1" ROLE="Money">
+				
+      
+				<extent>
+					
+        
+					<charseq END="475" START="473">$39</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="AGGRESSIVEVOICEDAILY_20050205.1954-E4-36" ROLE="Recipient">
+				
+      
+				<extent>
+					
+        
+					<charseq END="484" START="480">court</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="AGGRESSIVEVOICEDAILY_20050205.1954-EV5" MODALITY="Asserted" POLARITY="Negative" SUBTYPE="Transport" TENSE="Past" TYPE="Movement">
+		
+  
+		<event_argument REFID="AGGRESSIVEVOICEDAILY_20050205.1954-E21" ROLE="Person"/>
+		
+  
+		<event_argument REFID="AGGRESSIVEVOICEDAILY_20050205.1954-E13" ROLE="Origin"/>
+		
+  
+		<event_mention ID="AGGRESSIVEVOICEDAILY_20050205.1954-EV5-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1259" START="1190">the girls had
+decided to stay home and bake the cookies rather than go</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1312" START="1140">The Denver Post newspaper reported on Friday that the girls had
+decided to stay home and bake the cookies rather than go to a dance
+where there might be cursing and drinking</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1259" START="1258">go</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="AGGRESSIVEVOICEDAILY_20050205.1954-E21-20" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1198" START="1190">the girls</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="AGGRESSIVEVOICEDAILY_20050205.1954-E13-21" ROLE="Origin">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1223" START="1220">home</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

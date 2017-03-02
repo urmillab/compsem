@@ -1,0 +1,1199 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Specific" ID="CNN_IP_20030404.1600.00-2-EV19" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Die" TENSE="Past" TYPE="Life">
+		
+  
+		<event_argument REFID="CNN_IP_20030404.1600.00-2-E94" ROLE="Instrument"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030404.1600.00-2-E58" ROLE="Place"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030404.1600.00-2-T8" ROLE="Time-Within"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030404.1600.00-2-E56" ROLE="Victim"/>
+		
+  
+		<event_mention ID="CNN_IP_20030404.1600.00-2-EV19-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="3513" START="3508">deaths</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="3565" START="3502">Those deaths are not yet included in the official casualty count</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="3513" START="3508">deaths</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="CNN_IP_20030404.1600.00-2-EV19-2">
+			
+    
+			<extent>
+				
+      
+				<charseq END="3499" START="3354">at
+least three U.S. service members were killed today in an apparent suicide
+bomb attack at a checkpoint near the Haditah Dam northwest of Baghdad</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="3499" START="3348">Well, at
+least three U.S. service members were killed today in an apparent suicide
+bomb attack at a checkpoint near the Haditah Dam northwest of Baghdad</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="3400" START="3395">killed</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030404.1600.00-2-E94-145" ROLE="Instrument">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3434" START="3431">bomb</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030404.1600.00-2-E58-98" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3499" START="3446">a checkpoint near the Haditah Dam northwest of Baghdad</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030404.1600.00-2-T8-1" ROLE="Time-Within">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3406" START="3402">today</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030404.1600.00-2-E56-95" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3388" START="3354">at
+least three U.S. service members</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030404.1600.00-2-EV20" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Die" TENSE="Past" TYPE="Life">
+		
+  
+		<event_argument REFID="CNN_IP_20030404.1600.00-2-E94" ROLE="Instrument"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030404.1600.00-2-E58" ROLE="Place"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030404.1600.00-2-T8" ROLE="Time-Within"/>
+		
+  
+		<event_mention ID="CNN_IP_20030404.1600.00-2-EV20-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="3499" START="3402">today in an apparent suicide
+bomb attack at a checkpoint near the Haditah Dam northwest of Baghdad</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="3499" START="3348">Well, at
+least three U.S. service members were killed today in an apparent suicide
+bomb attack at a checkpoint near the Haditah Dam northwest of Baghdad</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="3429" START="3423">suicide</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030404.1600.00-2-E94-145" ROLE="Instrument">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3434" START="3431">bomb</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030404.1600.00-2-E58-98" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3499" START="3446">a checkpoint near the Haditah Dam northwest of Baghdad</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030404.1600.00-2-T8-1" ROLE="Time-Within">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3406" START="3402">today</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030404.1600.00-2-EV21" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Past" TYPE="Conflict">
+		
+  
+		<event_argument REFID="CNN_IP_20030404.1600.00-2-E58" ROLE="Place"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030404.1600.00-2-E56" ROLE="Target"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030404.1600.00-2-E94" ROLE="Instrument"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030404.1600.00-2-T8" ROLE="Time-Within"/>
+		
+  
+		<event_mention ID="CNN_IP_20030404.1600.00-2-EV21-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="3499" START="3354">at
+least three U.S. service members were killed today in an apparent suicide
+bomb attack at a checkpoint near the Haditah Dam northwest of Baghdad</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="3499" START="3348">Well, at
+least three U.S. service members were killed today in an apparent suicide
+bomb attack at a checkpoint near the Haditah Dam northwest of Baghdad</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="3441" START="3436">attack</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030404.1600.00-2-E58-98" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3499" START="3446">a checkpoint near the Haditah Dam northwest of Baghdad</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030404.1600.00-2-E56-95" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3388" START="3354">at
+least three U.S. service members</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030404.1600.00-2-E94-145" ROLE="Instrument">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3434" START="3431">bomb</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030404.1600.00-2-T8-1" ROLE="Time-Within">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3406" START="3402">today</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030404.1600.00-2-EV22" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Die" TENSE="Past" TYPE="Life">
+		
+  
+		<event_mention ID="CNN_IP_20030404.1600.00-2-EV22-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="3559" START="3552">casualty</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="3565" START="3502">Those deaths are not yet included in the official casualty count</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="3559" START="3552">casualty</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030404.1600.00-2-EV23" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Die" TENSE="Past" TYPE="Life">
+		
+  
+		<event_argument REFID="CNN_IP_20030404.1600.00-2-E61" ROLE="Victim"/>
+		
+  
+		<event_mention ID="CNN_IP_20030404.1600.00-2-EV23-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="3619" START="3592">41 Americans had been killed</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="3681" START="3568">At last
+report, though, 41 Americans had been killed by hostile forces, 13 others
+by friendly fire or in accidents</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="3619" START="3614">killed</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030404.1600.00-2-E61-101" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3603" START="3592">41 Americans</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030404.1600.00-2-EV24" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Die" TENSE="Past" TYPE="Life">
+		
+  
+		<event_argument REFID="CNN_IP_20030404.1600.00-2-E62" ROLE="Victim"/>
+		
+  
+		<event_mention ID="CNN_IP_20030404.1600.00-2-EV24-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="3648" START="3614">killed by hostile forces, 13 others</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="3681" START="3568">At last
+report, though, 41 Americans had been killed by hostile forces, 13 others
+by friendly fire or in accidents</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="3619" START="3614">killed</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030404.1600.00-2-E62-102" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3648" START="3640">13 others</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030404.1600.00-2-EV25" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Past" TYPE="Conflict">
+		
+  
+		<event_mention ID="CNN_IP_20030404.1600.00-2-EV25-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="3665" START="3662">fire</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="3681" START="3568">At last
+report, though, 41 Americans had been killed by hostile forces, 13 others
+by friendly fire or in accidents</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="3665" START="3662">fire</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030404.1600.00-2-EV26" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Die" TENSE="Past" TYPE="Life">
+		
+  
+		<event_argument REFID="CNN_IP_20030404.1600.00-2-E63" ROLE="Victim"/>
+		
+  
+		<event_mention ID="CNN_IP_20030404.1600.00-2-EV26-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="3736" START="3717">who
+have been killed</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="3811" START="3684">Of the 27 British troops, in all who
+have been killed, at least 19 of them were said to be victims of friendly
+fire or accidents</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="3736" START="3731">killed</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030404.1600.00-2-E63-105" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3719" START="3717">who</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030404.1600.00-2-EV27" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Die" TENSE="Past" TYPE="Life">
+		
+  
+		<event_argument REFID="CNN_IP_20030404.1600.00-2-E65" ROLE="Victim"/>
+		
+  
+		<event_mention ID="CNN_IP_20030404.1600.00-2-EV27-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="3757" START="3731">killed, at least 19 of them</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="3811" START="3684">Of the 27 British troops, in all who
+have been killed, at least 19 of them were said to be victims of friendly
+fire or accidents</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="3736" START="3731">killed</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030404.1600.00-2-E65-106" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3757" START="3739">at least 19 of them</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030404.1600.00-2-EV28" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Past" TYPE="Conflict">
+		
+  
+		<event_argument REFID="CNN_IP_20030404.1600.00-2-E65" ROLE="Target"/>
+		
+  
+		<event_mention ID="CNN_IP_20030404.1600.00-2-EV28-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="3798" START="3739">at least 19 of them were said to be victims of friendly
+fire</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="3811" START="3684">Of the 27 British troops, in all who
+have been killed, at least 19 of them were said to be victims of friendly
+fire or accidents</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="3798" START="3795">fire</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030404.1600.00-2-E65-106" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3757" START="3739">at least 19 of them</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030404.1600.00-2-EV29" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Die" TENSE="Past" TYPE="Life">
+		
+  
+		<event_mention ID="CNN_IP_20030404.1600.00-2-EV29-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="3840" START="3833">casualty</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="3938" START="3814">The official Iraqi casualty figures remain the same
+this day, including more than 400 civilians killed, Iraqi authorities
+say</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="3840" START="3833">casualty</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030404.1600.00-2-EV30" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Die" TENSE="Past" TYPE="Life">
+		
+  
+		<event_argument REFID="CNN_IP_20030404.1600.00-2-T9" ROLE="Time-Before"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030404.1600.00-2-E68" ROLE="Victim"/>
+		
+  
+		<event_mention ID="CNN_IP_20030404.1600.00-2-EV30-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="3915" START="3866">this day, including more than 400 civilians killed</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="3938" START="3814">The official Iraqi casualty figures remain the same
+this day, including more than 400 civilians killed, Iraqi authorities
+say</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="3915" START="3910">killed</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030404.1600.00-2-T9-1" ROLE="Time-Before">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3873" START="3866">this day</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030404.1600.00-2-E68-110" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3908" START="3886">more than 400 civilians</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030404.1600.00-2-EV31" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Die" TENSE="Past" TYPE="Life">
+		
+  
+		<event_argument REFID="CNN_IP_20030404.1600.00-2-E80" ROLE="Victim"/>
+		
+  
+		<event_mention ID="CNN_IP_20030404.1600.00-2-EV31-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="4304" START="4206">funeral
+services were held today in Colorado for 21-year- old Marine Corporal
+Randall Kent Rosacker</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="4304" START="4200">Well, funeral
+services were held today in Colorado for 21-year- old Marine Corporal
+Randall Kent Rosacker</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="4212" START="4206">funeral</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030404.1600.00-2-E80-122" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4304" START="4255">21-year- old Marine Corporal
+Randall Kent Rosacker</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030404.1600.00-2-EV32" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Die" TENSE="Past" TYPE="Life">
+		
+  
+		<event_argument REFID="CNN_IP_20030404.1600.00-2-E80" ROLE="Victim"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030404.1600.00-2-E3" ROLE="Place"/>
+		
+  
+		<event_mention ID="CNN_IP_20030404.1600.00-2-EV32-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="4440" START="4426">his son's death</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="4539" START="4406">He received word of
+his son's death within hours after the submarine that he was assigned to
+returned home from an extended deployment</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="4440" START="4436">death</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030404.1600.00-2-E80-133" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4432" START="4426">his son</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="CNN_IP_20030404.1600.00-2-EV32-2">
+			
+    
+			<extent>
+				
+      
+				<charseq END="4337" START="4307">He was killed in action in Iraq</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="4337" START="4307">He was killed in action in Iraq</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="4319" START="4314">killed</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030404.1600.00-2-E80-125" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4308" START="4307">He</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030404.1600.00-2-E3-126" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4337" START="4334">Iraq</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030404.1600.00-2-EV33" MODALITY="Other" POLARITY="Positive" SUBTYPE="Attack" TENSE="Future" TYPE="Conflict">
+		
+  
+		<event_argument REFID="CNN_IP_20030404.1600.00-2-E88" ROLE="Target"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030404.1600.00-2-T12" ROLE="Time-Within"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030404.1600.00-2-E3" ROLE="Attacker"/>
+		
+  
+		<event_mention ID="CNN_IP_20030404.1600.00-2-EV33-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="4607" START="4542">The Iraqis promise an
+unconventional attack on U.S. troops tonight</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="4607" START="4542">The Iraqis promise an
+unconventional attack on U.S. troops tonight</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="4584" START="4579">attack</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030404.1600.00-2-E88-138" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4599" START="4589">U.S. troops</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030404.1600.00-2-T12-1" ROLE="Time-Within">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4607" START="4601">tonight</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030404.1600.00-2-E3-182" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4551" START="4542">The Iraqis</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="CNN_IP_20030404.1600.00-2-EV34" MODALITY="Other" POLARITY="Positive" SUBTYPE="Attack" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_argument REFID="CNN_IP_20030404.1600.00-2-E90" ROLE="Place"/>
+		
+  
+		<event_mention ID="CNN_IP_20030404.1600.00-2-EV34-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="4653" START="4632">warfare, as in Vietnam</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="4653" START="4610">Do they mean guerilla
+warfare, as in Vietnam</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="4638" START="4632">warfare</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030404.1600.00-2-E90-140" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4653" START="4647">Vietnam</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

@@ -1,0 +1,2073 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Generic" ID="NYT_ENG_20030403.0008-EV1" MODALITY="Other" POLARITY="Positive" SUBTYPE="Die" TENSE="Unspecified" TYPE="Life">
+		
+  
+		<event_argument REFID="NYT_ENG_20030403.0008-E82" ROLE="Victim"/>
+		
+  
+		<event_argument REFID="NYT_ENG_20030403.0008-E81" ROLE="Place"/>
+		
+  
+		<event_mention ID="NYT_ENG_20030403.0008-EV1-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="5027" START="4986">a city
+can cause large civilian casualties</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="5027" START="4821">But in such close-quarters fighting, they
+would lose much of the technological advantage of their air
+supremacy, which would have to be curtailed because bombing in a city
+can cause large civilian casualties</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="5027" START="5018">casualties</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="NYT_ENG_20030403.0008-E82-157" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="5016" START="5009">civilian</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="NYT_ENG_20030403.0008-E81-156" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4991" START="4986">a city</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="NYT_ENG_20030403.0008-EV2" MODALITY="Other" POLARITY="Positive" SUBTYPE="Attack" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_argument REFID="NYT_ENG_20030403.0008-E81" ROLE="Place"/>
+		
+  
+		<event_mention ID="NYT_ENG_20030403.0008-EV2-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="4991" START="4975">bombing in a city</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="5027" START="4821">But in such close-quarters fighting, they
+would lose much of the technological advantage of their air
+supremacy, which would have to be curtailed because bombing in a city
+can cause large civilian casualties</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="4981" START="4975">bombing</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="NYT_ENG_20030403.0008-E81-156" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4991" START="4986">a city</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="NYT_ENG_20030403.0008-EV3" MODALITY="Other" POLARITY="Positive" SUBTYPE="Injure" TENSE="Unspecified" TYPE="Life">
+		
+  
+		<event_argument REFID="NYT_ENG_20030403.0008-E82" ROLE="Victim"/>
+		
+  
+		<event_argument REFID="NYT_ENG_20030403.0008-E81" ROLE="Place"/>
+		
+  
+		<event_mention ID="NYT_ENG_20030403.0008-EV3-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="5027" START="4986">a city
+can cause large civilian casualties</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="5027" START="4821">But in such close-quarters fighting, they
+would lose much of the technological advantage of their air
+supremacy, which would have to be curtailed because bombing in a city
+can cause large civilian casualties</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="5027" START="5018">casualties</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="NYT_ENG_20030403.0008-E82-157" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="5016" START="5009">civilian</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="NYT_ENG_20030403.0008-E81-156" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4991" START="4986">a city</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="NYT_ENG_20030403.0008-EV4" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Present" TYPE="Conflict">
+		
+  
+		<event_mention ID="NYT_ENG_20030403.0008-EV4-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="774" START="772">war</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="845" START="551">Bet`fow Central Command chief
+Gen. Tommy Franks and his field commanders face a big decision _
+whether to rush into the city of 5 million where Hussein's regime has
+gathered its most-trusted forces or wait and see if the war can be
+won without paying the price of street-to-street urban fighting</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="774" START="772">war</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="NYT_ENG_20030403.0008-EV5" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Past" TYPE="Conflict">
+		
+  
+		<event_argument REFID="NYT_ENG_20030403.0008-E1" ROLE="Attacker"/>
+		
+  
+		<event_mention ID="NYT_ENG_20030403.0008-EV5-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="462" START="451">U.S. assault</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="462" START="193">Having punched through severely depleted Republican
+Guard divisions that formed Baghdad's outer defensive ring, U.S. Army
+and Marine forces are likely to pause again to test the Iraqi
+capital's inner defenses and waall but evaporated under the weight of
+the U.S. assault</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="462" START="456">assault</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="NYT_ENG_20030403.0008-E1-204" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="453" START="451">U.S</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="NYT_ENG_20030403.0008-EV6" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Past" TYPE="Conflict">
+		
+  
+		<event_argument REFID="NYT_ENG_20030403.0008-E107" ROLE="Attacker"/>
+		
+  
+		<event_argument REFID="NYT_ENG_20030403.0008-E105" ROLE="Target"/>
+		
+  
+		<event_mention ID="NYT_ENG_20030403.0008-EV6-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="331" START="200">punched through severely depleted Republican
+Guard divisions that formed Baghdad's outer defensive ring, U.S. Army
+and Marine forces</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="462" START="193">Having punched through severely depleted Republican
+Guard divisions that formed Baghdad's outer defensive ring, U.S. Army
+and Marine forces are likely to pause again to test the Iraqi
+capital's inner defenses and waall but evaporated under the weight of
+the U.S. assault</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="214" START="200">punched through</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="NYT_ENG_20030403.0008-E107-199" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="331" START="305">U.S. Army
+and Marine forces</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="NYT_ENG_20030403.0008-E105-36" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="302" START="216">severely depleted Republican
+Guard divisions that formed Baghdad's outer defensive ring</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="NYT_ENG_20030403.0008-EV7" MODALITY="Other" POLARITY="Positive" SUBTYPE="Transport" TENSE="Future" TYPE="Movement">
+		
+  
+		<event_argument REFID="NYT_ENG_20030403.0008-E8" ROLE="Agent"/>
+		
+  
+		<event_argument REFID="NYT_ENG_20030403.0008-E62" ROLE="Destination"/>
+		
+  
+		<event_mention ID="NYT_ENG_20030403.0008-EV7-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="747" START="657">rush into the city of 5 million where Hussein's regime has
+gathered its most-trusted forces</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="845" START="551">Bet`fow Central Command chief
+Gen. Tommy Franks and his field commanders face a big decision _
+whether to rush into the city of 5 million where Hussein's regime has
+gathered its most-trusted forces or wait and see if the war can be
+won without paying the price of street-to-street urban fighting</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="660" START="657">rush</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="NYT_ENG_20030403.0008-E62-37" ROLE="Destination">
+				
+      
+				<extent>
+					
+        
+					<charseq END="747" START="667">the city of 5 million where Hussein's regime has
+gathered its most-trusted forces</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="NYT_ENG_20030403.0008-EV7-2">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1024" START="983">We
+are not expecting to drive into Baghdad</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1046" START="983">We
+are not expecting to drive into Baghdad suddenly and seize it</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1011" START="1007">drive</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="NYT_ENG_20030403.0008-E8-16" ROLE="Agent">
+				
+      
+				<extent>
+					
+        
+					<charseq END="984" START="983">We</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="NYT_ENG_20030403.0008-E62-17" ROLE="Destination">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1024" START="1018">Baghdad</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="NYT_ENG_20030403.0008-EV8" MODALITY="Other" POLARITY="Positive" SUBTYPE="Attack" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_argument REFID="NYT_ENG_20030403.0008-E7" ROLE="Place"/>
+		
+  
+		<event_argument REFID="NYT_ENG_20030403.0008-E107" ROLE="Attacker"/>
+		
+  
+		<event_mention ID="NYT_ENG_20030403.0008-EV8-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="845" START="815">street-to-street urban fighting</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="845" START="551">Bet`fow Central Command chief
+Gen. Tommy Franks and his field commanders face a big decision _
+whether to rush into the city of 5 million where Hussein's regime has
+gathered its most-trusted forces or wait and see if the war can be
+won without paying the price of street-to-street urban fighting</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="845" START="838">fighting</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="NYT_ENG_20030403.0008-E7-11" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="820" START="815">street</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="NYT_ENG_20030403.0008-E7-12" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="830" START="825">street</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="NYT_ENG_20030403.0008-EV8-2">
+			
+    
+			<extent>
+				
+      
+				<charseq END="4861" START="4848">fighting, they</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="5027" START="4821">But in such close-quarters fighting, they
+would lose much of the technological advantage of their air
+supremacy, which would have to be curtailed because bombing in a city
+can cause large civilian casualties</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="4855" START="4848">fighting</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="NYT_ENG_20030403.0008-E107-154" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4861" START="4858">they</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="NYT_ENG_20030403.0008-EV9" MODALITY="Other" POLARITY="Positive" SUBTYPE="Attack" TENSE="Future" TYPE="Conflict">
+		
+  
+		<event_mention ID="NYT_ENG_20030403.0008-EV9-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="916" START="912">fight</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="978" START="850">`We are expectingn or at least planning for, a very difficult fight
+ahead,'' Gen. Stanley McChrystal said at the Pentagon Tuesday</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="916" START="912">fight</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="NYT_ENG_20030403.0008-EV10" MODALITY="Other" POLARITY="Positive" SUBTYPE="Transport" TENSE="Future" TYPE="Movement">
+		
+  
+		<event_argument REFID="NYT_ENG_20030403.0008-E18" ROLE="Person"/>
+		
+  
+		<event_argument REFID="NYT_ENG_20030403.0008-E62" ROLE="Destination"/>
+		
+  
+		<event_mention ID="NYT_ENG_20030403.0008-EV10-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1389" START="1346">thousands of troops could
+rush into the city</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1389" START="1305">If these patrols meet little opposition, thousands of troops could
+rush into the city</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1375" START="1372">rush</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="NYT_ENG_20030403.0008-E18-31" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1364" START="1346">thousands of troops</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="NYT_ENG_20030403.0008-E62-32" ROLE="Destination">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1389" START="1382">the city</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="NYT_ENG_20030403.0008-EV11" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Transport" TENSE="Future" TYPE="Movement">
+		
+  
+		<event_argument REFID="NYT_ENG_20030403.0008-E20" ROLE="Person"/>
+		
+  
+		<event_argument REFID="NYT_ENG_20030403.0008-E21" ROLE="Origin"/>
+		
+  
+		<event_mention ID="NYT_ENG_20030403.0008-EV11-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1560" START="1481">4th Mechanized Infantry
+Division, which will soon start moving north from Kuwait</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1560" START="1392">If the Iraqis respond forcefully, the Army and
+Marine units could withdraw and await the 4th Mechanized Infantry
+Division, which will soon start moving north from Kuwait</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1542" START="1537">moving</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="NYT_ENG_20030403.0008-E20-34" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1560" START="1481">4th Mechanized Infantry
+Division, which will soon start moving north from Kuwait</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="NYT_ENG_20030403.0008-E21-38" ROLE="Origin">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1560" START="1555">Kuwait</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="NYT_ENG_20030403.0008-EV12" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Transport" TENSE="Past" TYPE="Movement">
+		
+  
+		<event_argument REFID="NYT_ENG_20030403.0008-E41" ROLE="Person"/>
+		
+  
+		<event_argument REFID="NYT_ENG_20030403.0008-E14" ROLE="Origin"/>
+		
+  
+		<event_mention ID="NYT_ENG_20030403.0008-EV12-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="2460" START="2421">Thousands of refugees have
+fled the city</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="2577" START="2421">Thousands of refugees have
+fled the city, apparently providing information to the British that
+has led to raids on military and Baath Party sites in the city</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="2451" START="2448">fled</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="NYT_ENG_20030403.0008-E41-71" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2441" START="2421">Thousands of refugees</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="NYT_ENG_20030403.0008-E14-72" ROLE="Origin">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2460" START="2453">the city</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="NYT_ENG_20030403.0008-EV13" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_argument REFID="NYT_ENG_20030403.0008-E42" ROLE="Target"/>
+		
+  
+		<event_mention ID="NYT_ENG_20030403.0008-EV13-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="2577" START="2527">raids on military and Baath Party sites in the city</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="2577" START="2421">Thousands of refugees have
+fled the city, apparently providing information to the British that
+has led to raids on military and Baath Party sites in the city</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="2531" START="2527">raids</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="NYT_ENG_20030403.0008-E42-74" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2577" START="2536">military and Baath Party sites in the city</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="NYT_ENG_20030403.0008-EV14" MODALITY="Other" POLARITY="Positive" SUBTYPE="Attack" TENSE="Future" TYPE="Conflict">
+		
+  
+		<event_argument REFID="NYT_ENG_20030403.0008-E1" ROLE="Attacker"/>
+		
+  
+		<event_argument REFID="NYT_ENG_20030403.0008-E62" ROLE="Place"/>
+		
+  
+		<event_argument REFID="NYT_ENG_20030403.0008-E42" ROLE="Target"/>
+		
+  
+		<event_mention ID="NYT_ENG_20030403.0008-EV14-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="2694" START="2614">the U.S. can parse out the key
+regime centers of power in Baghdad and attack them</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="2861" START="2583">The key endgame may be whether the U.S. can parse out the key
+regime centers of power in Baghdad and attack them without having to
+fight into the city, or at least locate them well enough to atman of
+the Center for Strategic and International Studies said in his daily
+war report</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="2689" START="2684">attack</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="NYT_ENG_20030403.0008-E1-78" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2620" START="2614">the U.S</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="NYT_ENG_20030403.0008-E62-80" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2678" START="2672">Baghdad</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="NYT_ENG_20030403.0008-E42-82" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2694" START="2691">them</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="NYT_ENG_20030403.0008-EV15" MODALITY="Other" POLARITY="Negative" SUBTYPE="Attack" TENSE="Future" TYPE="Conflict">
+		
+  
+		<event_argument REFID="NYT_ENG_20030403.0008-E1" ROLE="Attacker"/>
+		
+  
+		<event_argument REFID="NYT_ENG_20030403.0008-E62" ROLE="Place"/>
+		
+  
+		<event_mention ID="NYT_ENG_20030403.0008-EV15-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="2732" START="2614">the U.S. can parse out the key
+regime centers of power in Baghdad and attack them without having to
+fight into the city</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="2861" START="2583">The key endgame may be whether the U.S. can parse out the key
+regime centers of power in Baghdad and attack them without having to
+fight into the city, or at least locate them well enough to atman of
+the Center for Strategic and International Studies said in his daily
+war report</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="2718" START="2714">fight</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="NYT_ENG_20030403.0008-E1-78" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2620" START="2614">the U.S</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="NYT_ENG_20030403.0008-E62-83" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2732" START="2725">the city</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="NYT_ENG_20030403.0008-EV16" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_mention ID="NYT_ENG_20030403.0008-EV16-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="2854" START="2852">war</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="2861" START="2583">The key endgame may be whether the U.S. can parse out the key
+regime centers of power in Baghdad and attack them without having to
+fight into the city, or at least locate them well enough to atman of
+the Center for Strategic and International Studies said in his daily
+war report</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="2854" START="2852">war</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="NYT_ENG_20030403.0008-EV17" MODALITY="Other" POLARITY="Positive" SUBTYPE="Attack" TENSE="Future" TYPE="Conflict">
+		
+  
+		<event_argument REFID="NYT_ENG_20030403.0008-E62" ROLE="Place"/>
+		
+  
+		<event_mention ID="NYT_ENG_20030403.0008-EV17-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="2987" START="2971">battle in Baghdad</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="3043" START="2865">U.S. strategists say that Hussein, if he is still alive and in
+control of his forces, might like a bloody battle in Baghdad because
+such fighting could cause heavy U.S. casualties</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="2976" START="2971">battle</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="NYT_ENG_20030403.0008-E62-91" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2987" START="2981">Baghdad</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="NYT_ENG_20030403.0008-EV18" MODALITY="Other" POLARITY="Positive" SUBTYPE="Attack" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_argument REFID="NYT_ENG_20030403.0008-E62" ROLE="Place"/>
+		
+  
+		<event_mention ID="NYT_ENG_20030403.0008-EV18-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="3009" START="2981">Baghdad because
+such fighting</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="3043" START="2865">U.S. strategists say that Hussein, if he is still alive and in
+control of his forces, might like a bloody battle in Baghdad because
+such fighting could cause heavy U.S. casualties</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="3009" START="3002">fighting</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="NYT_ENG_20030403.0008-E62-91" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2987" START="2981">Baghdad</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="NYT_ENG_20030403.0008-EV19" MODALITY="Other" POLARITY="Positive" SUBTYPE="Injure" TENSE="Unspecified" TYPE="Life">
+		
+  
+		<event_argument REFID="NYT_ENG_20030403.0008-E62" ROLE="Place"/>
+		
+  
+		<event_mention ID="NYT_ENG_20030403.0008-EV19-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="3043" START="2981">Baghdad because
+such fighting could cause heavy U.S. casualties</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="3043" START="2865">U.S. strategists say that Hussein, if he is still alive and in
+control of his forces, might like a bloody battle in Baghdad because
+such fighting could cause heavy U.S. casualties</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="3043" START="3034">casualties</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="NYT_ENG_20030403.0008-E62-91" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2987" START="2981">Baghdad</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="NYT_ENG_20030403.0008-EV20" MODALITY="Other" POLARITY="Positive" SUBTYPE="Injure" TENSE="Unspecified" TYPE="Life">
+		
+  
+		<event_mention ID="NYT_ENG_20030403.0008-EV20-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="3135" START="3130">losses</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="3252" START="3046">His last hope for
+survival might be that the United States loses its taste for such
+losses and forces President Bush to negotiate a compromise that would
+allow Hussein and his family to keep power in Baghdad</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="3135" START="3130">losses</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="NYT_ENG_20030403.0008-EV21" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Past" TYPE="Conflict">
+		
+  
+		<event_argument REFID="NYT_ENG_20030403.0008-E59" ROLE="Target"/>
+		
+  
+		<event_mention ID="NYT_ENG_20030403.0008-EV21-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="3774" START="3727">two guard divisions have apparently been smashed</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="3818" START="3721">While two guard divisions have apparently been smashed, there are
+three others in the Baghdad area</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="3774" START="3768">smashed</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="NYT_ENG_20030403.0008-E59-113" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3745" START="3727">two guard divisions</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="NYT_ENG_20030403.0008-EV22" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Past" TYPE="Conflict">
+		
+  
+		<event_argument REFID="NYT_ENG_20030403.0008-E19" ROLE="Target"/>
+		
+  
+		<event_mention ID="NYT_ENG_20030403.0008-EV22-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="4105" START="4056">The Republican Guard has taken a massive hammering</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="4208" START="4055">`The Republican Guard has taken a massive hammering at every level
+and is now scattered and deploying somewhat erratically at the
+brigade level,'' he said</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="4105" START="4097">hammering</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="NYT_ENG_20030403.0008-E19-178" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4075" START="4056">The Republican Guard</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="NYT_ENG_20030403.0008-EV23" MODALITY="Other" POLARITY="Positive" SUBTYPE="Attack" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_argument REFID="NYT_ENG_20030403.0008-E71" ROLE="Instrument"/>
+		
+  
+		<event_argument REFID="NYT_ENG_20030403.0008-E17" ROLE="Attacker"/>
+		
+  
+		<event_mention ID="NYT_ENG_20030403.0008-EV23-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="4303" START="4212">The Iraqis still haven't used chemical weapons, even though many
+experts feared such attacks</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="4337" START="4212">The Iraqis still haven't used chemical weapons, even though many
+experts feared such attacks as the U.S. troops neared Baghdad</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="4303" START="4297">attacks</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="NYT_ENG_20030403.0008-E71-127" ROLE="Instrument">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4257" START="4242">chemical weapons</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="NYT_ENG_20030403.0008-E17-185" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4221" START="4212">The Iraqis</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="NYT_ENG_20030403.0008-EV24" MODALITY="Other" POLARITY="Negative" SUBTYPE="Attack" TENSE="Future" TYPE="Conflict">
+		
+  
+		<event_argument REFID="NYT_ENG_20030403.0008-E1" ROLE="Attacker"/>
+		
+  
+		<event_mention ID="NYT_ENG_20030403.0008-EV24-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1115" START="1074">assault, analysts expect the United States</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1196" START="1052">Instead of an all-out assault, analysts expect the United States to
+follow the example of British forces outside the southern Iraqi city
+of Basra</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1080" START="1074">assault</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="NYT_ENG_20030403.0008-E1-20" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1115" START="1099">the United States</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="NYT_ENG_20030403.0008-EV25" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Past" TYPE="Conflict">
+		
+  
+		<event_argument REFID="NYT_ENG_20030403.0008-E50" ROLE="Attacker"/>
+		
+  
+		<event_mention ID="NYT_ENG_20030403.0008-EV25-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="4623" START="4612">Bush invaded</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="4659" START="4500">But he also said, ``He may destroy them to embarrass us,'' to show
+the world he never had such weapons and that Bush invaded for no
+reason other than aggression</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="4623" START="4617">invaded</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="NYT_ENG_20030403.0008-E50-148" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4615" START="4612">Bush</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="NYT_ENG_20030403.0008-EV26" MODALITY="Other" POLARITY="Positive" SUBTYPE="Die" TENSE="Unspecified" TYPE="Life">
+		
+  
+		<event_mention ID="NYT_ENG_20030403.0008-EV26-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="5256" START="5247">casualties</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="5269" START="5220">But there
+would be lots of casualties on all sides</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="5256" START="5247">casualties</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="NYT_ENG_20030403.0008-EV27" MODALITY="Other" POLARITY="Positive" SUBTYPE="Injure" TENSE="Unspecified" TYPE="Life">
+		
+  
+		<event_mention ID="NYT_ENG_20030403.0008-EV27-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="5256" START="5247">casualties</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="5269" START="5220">But there
+would be lots of casualties on all sides</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="5256" START="5247">casualties</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="NYT_ENG_20030403.0008-EV28" MODALITY="Other" POLARITY="Positive" SUBTYPE="Transport" TENSE="Future" TYPE="Movement">
+		
+  
+		<event_argument REFID="NYT_ENG_20030403.0008-E16" ROLE="Person"/>
+		
+  
+		<event_argument REFID="NYT_ENG_20030403.0008-E62" ROLE="Destination"/>
+		
+  
+		<event_mention ID="NYT_ENG_20030403.0008-EV28-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1258" START="1218">mount small probing patrols into the
+city</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1301" START="1199">They are likely to mount small probing patrols into the
+city to determine the level of Iraqi resistance</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1222" START="1218">mount</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="NYT_ENG_20030403.0008-E16-27" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1244" START="1224">small probing patrols</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="NYT_ENG_20030403.0008-E62-28" ROLE="Destination">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1258" START="1251">the
+city</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="NYT_ENG_20030403.0008-EV29" MODALITY="Other" POLARITY="Positive" SUBTYPE="Attack" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_mention ID="NYT_ENG_20030403.0008-EV29-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="2012" START="2006">assault</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="2181" START="1977">Before going in (with a full assault), you have to decide if it's
+worth the risks, and ... you have to know who's there in the way of
+Iraqi forces and the amount of potential damage to civilians,'' he
+said</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="2012" START="2006">assault</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="NYT_ENG_20030403.0008-EV30" MODALITY="Other" POLARITY="Positive" SUBTYPE="Attack" TENSE="Future" TYPE="Conflict">
+		
+  
+		<event_argument REFID="NYT_ENG_20030403.0008-E102" ROLE="Target"/>
+		
+  
+		<event_argument REFID="NYT_ENG_20030403.0008-E58" ROLE="Target"/>
+		
+  
+		<event_argument REFID="NYT_ENG_20030403.0008-E103" ROLE="Target"/>
+		
+  
+		<event_argument REFID="NYT_ENG_20030403.0008-E55" ROLE="Attacker"/>
+		
+  
+		<event_mention ID="NYT_ENG_20030403.0008-EV30-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="3654" START="3460">U.S. forces seriously degrade Iraq's half-dozen Republican Guard
+divisions before that final battle, and only have to face perhaps
+30,000 Special Republican Guard, fedayeen, and related personnel</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="3717" START="3457">If U.S. forces seriously degrade Iraq's half-dozen Republican Guard
+divisions before that final battle, and only have to face perhaps
+30,000 Special Republican Guard, fedayeen, and related personnel, the
+task will not be as hard as it might have been,'' he said</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="3558" START="3553">battle</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="NYT_ENG_20030403.0008-E102-189" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3654" START="3591">30,000 Special Republican Guard, fedayeen, and related personnel</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="NYT_ENG_20030403.0008-E58-111" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3654" START="3591">30,000 Special Republican Guard, fedayeen, and related personnel</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="NYT_ENG_20030403.0008-E103-190" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3654" START="3591">30,000 Special Republican Guard, fedayeen, and related personnel</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="NYT_ENG_20030403.0008-E55-107" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3470" START="3460">U.S. forces</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

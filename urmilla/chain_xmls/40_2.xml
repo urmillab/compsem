@@ -1,0 +1,196 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Generic" ID="APW_ENG_20030520.0757-EV4" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Transport" TENSE="Past" TYPE="Movement">
+		
+  
+		<event_argument REFID="APW_ENG_20030520.0757-E6" ROLE="Person"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030520.0757-E4" ROLE="Agent"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030520.0757-E11" ROLE="Destination"/>
+		
+  
+		<event_mention ID="APW_ENG_20030520.0757-EV4-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="861" START="751">Canberra sent
+troops to fight in the war on terror in Afghanistan and alongside
+U.S. and British forces in Iraq</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="861" START="751">Canberra sent
+troops to fight in the war on terror in Afghanistan and alongside
+U.S. and British forces in Iraq</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="763" START="760">sent</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030520.0757-E6-14" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="770" START="765">troops</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030520.0757-E4-13" ROLE="Agent">
+				
+      
+				<extent>
+					
+        
+					<charseq END="758" START="751">Canberra</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030520.0757-E11-18" ROLE="Destination">
+				
+      
+				<extent>
+					
+        
+					<charseq END="861" START="858">Iraq</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="APW_ENG_20030520.0757-EV6" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_argument REFID="APW_ENG_20030520.0757-E11" ROLE="Place"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030520.0757-E6" ROLE="Target"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030520.0757-E34" ROLE="Target"/>
+		
+  
+		<event_mention ID="APW_ENG_20030520.0757-EV6-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="861" START="765">troops to fight in the war on terror in Afghanistan and alongside
+U.S. and British forces in Iraq</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="861" START="751">Canberra sent
+troops to fight in the war on terror in Afghanistan and alongside
+U.S. and British forces in Iraq</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="779" START="775">fight</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030520.0757-E11-18" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="861" START="858">Iraq</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030520.0757-E6-14" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="770" START="765">troops</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030520.0757-E34-46" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="861" START="831">U.S. and British forces in Iraq</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

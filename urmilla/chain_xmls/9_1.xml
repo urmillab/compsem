@@ -1,0 +1,217 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Specific" ID="CNN_ENG_20030402_190500.11-EV1" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Transport" TENSE="Present" TYPE="Movement">
+		
+  
+		<event_argument REFID="CNN_ENG_20030402_190500.11-E9" ROLE="Destination"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030402_190500.11-EV1-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="382" START="366">push into baghdad</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="382" START="229">a little later we'll speak with her
+family and talk a closer look at the daring operation that produced
+her safe recovery, but first the push into baghdad</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="369" START="366">push</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030402_190500.11-E9-41" ROLE="Destination">
+				
+      
+				<extent>
+					
+        
+					<charseq END="382" START="376">baghdad</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_ENG_20030402_190500.11-EV2" MODALITY="Other" POLARITY="Positive" SUBTYPE="Attack" TENSE="Future" TYPE="Conflict">
+		
+  
+		<event_argument REFID="CNN_ENG_20030402_190500.11-E9" ROLE="Target"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030402_190500.11-EV2-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="732" START="714">invasion of baghdad</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="744" START="659">however, the
+pentagon is down playing the idea that an invasion of baghdad is
+imminent</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="721" START="714">invasion</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030402_190500.11-E9-14" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="732" START="726">baghdad</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_ENG_20030402_190500.11-EV5" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Transport" TENSE="Present" TYPE="Movement">
+		
+  
+		<event_argument REFID="CNN_ENG_20030402_190500.11-E1" ROLE="Person"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030402_190500.11-E2" ROLE="Person"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030402_190500.11-E9" ROLE="Destination"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030402_190500.11-EV5-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="586" START="483">their forces today with the iraqi republican guard
+units as part of a protwo-pronged advance on the city</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="586" START="474">they say their forces today with the iraqi republican guard
+units as part of a protwo-pronged advance on the city</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="574" START="568">advance</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030402_190500.11-E1-2" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="494" START="483">their forces</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030402_190500.11-E2-3" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="538" START="507">the iraqi republican guard
+units</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030402_190500.11-E9-8" ROLE="Destination">
+				
+      
+				<extent>
+					
+        
+					<charseq END="586" START="579">the city</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

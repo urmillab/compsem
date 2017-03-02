@@ -1,0 +1,549 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Specific" ID="CNN_IP_20030408.1600.03-EV1" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Past" TYPE="Conflict">
+		
+  
+		<event_argument REFID="CNN_IP_20030408.1600.03-E7" ROLE="Place"/>
+		
+  
+		<event_mention ID="CNN_IP_20030408.1600.03-EV1-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="516" START="490">Iraq, the aftermath of Iraq</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="516" START="451">They primarily talked about the war in Iraq, the aftermath of Iraq</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="516" START="513">Iraq</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030408.1600.03-E7-9" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="493" START="490">Iraq</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030408.1600.03-EV15" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Transport" TENSE="Past" TYPE="Movement">
+		
+  
+		<event_argument REFID="CNN_IP_20030408.1600.03-E83" ROLE="Vehicle"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030408.1600.03-E78" ROLE="Person"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030408.1600.03-E82" ROLE="Destination"/>
+		
+  
+		<event_mention ID="CNN_IP_20030408.1600.03-EV15-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="226" START="176">his plane has just landed at Andrews Air Force Base</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="408" START="85">And, as we listened to John King's report, we can tell you that President
+Bush has just -- his plane has just landed at Andrews Air Force Base,
+just close to the Washington area, the president having flown back to the
+United States from that meeting in Northern Ireland in Belfast with the
+British prime minister, Tony Blair</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="200" START="195">landed</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030408.1600.03-E83-183" ROLE="Vehicle">
+				
+      
+				<extent>
+					
+        
+					<charseq END="184" START="176">his plane</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030408.1600.03-E78-178" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="178" START="176">his</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030408.1600.03-E82-182" ROLE="Destination">
+				
+      
+				<extent>
+					
+        
+					<charseq END="226" START="205">Andrews Air Force Base</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030408.1600.03-EV16" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Transport" TENSE="Past" TYPE="Movement">
+		
+  
+		<event_argument REFID="CNN_IP_20030408.1600.03-E78" ROLE="Person"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030408.1600.03-E2" ROLE="Origin"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030408.1600.03-E3" ROLE="Origin"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030408.1600.03-E84" ROLE="Destination"/>
+		
+  
+		<event_mention ID="CNN_IP_20030408.1600.03-EV16-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="364" START="264">the president having flown back to the
+United States from that meeting in Northern Ireland in Belfast</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="408" START="85">And, as we listened to John King's report, we can tell you that President
+Bush has just -- his plane has just landed at Andrews Air Force Base,
+just close to the Washington area, the president having flown back to the
+United States from that meeting in Northern Ireland in Belfast with the
+British prime minister, Tony Blair</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="289" START="285">flown</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030408.1600.03-E78-179" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="276" START="264">the president</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030408.1600.03-E2-3" ROLE="Origin">
+				
+      
+				<extent>
+					
+        
+					<charseq END="353" START="338">Northern Ireland</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030408.1600.03-E3-4" ROLE="Origin">
+				
+      
+				<extent>
+					
+        
+					<charseq END="364" START="358">Belfast</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030408.1600.03-E84-184" ROLE="Destination">
+				
+      
+				<extent>
+					
+        
+					<charseq END="315" START="299">the
+United States</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030408.1600.03-EV17" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Meet" TENSE="Past" TYPE="Contact">
+		
+  
+		<event_argument REFID="CNN_IP_20030408.1600.03-E2" ROLE="Place"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030408.1600.03-E3" ROLE="Place"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030408.1600.03-E78" ROLE="Entity"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030408.1600.03-E4" ROLE="Entity"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030408.1600.03-E6" ROLE="Entity"/>
+		
+  
+		<event_mention ID="CNN_IP_20030408.1600.03-EV17-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="396" START="264">the president having flown back to the
+United States from that meeting in Northern Ireland in Belfast with the
+British prime minister</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="408" START="85">And, as we listened to John King's report, we can tell you that President
+Bush has just -- his plane has just landed at Andrews Air Force Base,
+just close to the Washington area, the president having flown back to the
+United States from that meeting in Northern Ireland in Belfast with the
+British prime minister, Tony Blair</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="333" START="327">meeting</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030408.1600.03-E2-3" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="353" START="338">Northern Ireland</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030408.1600.03-E3-4" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="364" START="358">Belfast</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030408.1600.03-E78-179" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="276" START="264">the president</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030408.1600.03-E4-6" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="396" START="371">the
+British prime minister</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="CNN_IP_20030408.1600.03-EV17-2">
+			
+    
+			<extent>
+				
+      
+				<charseq END="471" START="451">They primarily talked</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="516" START="451">They primarily talked about the war in Iraq, the aftermath of Iraq</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="471" START="466">talked</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030408.1600.03-E6-8" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="454" START="451">They</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="CNN_IP_20030408.1600.03-EV17-3">
+			
+    
+			<extent>
+				
+      
+				<charseq END="541" START="523">they also discussed</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="631" START="519">But they also discussed the Middle East and, as well, getting the
+Northern Ireland peace process started up again</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="541" START="533">discussed</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030408.1600.03-E6-10" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="526" START="523">they</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030408.1600.03-EV18" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_argument REFID="CNN_IP_20030408.1600.03-E7" ROLE="Place"/>
+		
+  
+		<event_mention ID="CNN_IP_20030408.1600.03-EV18-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="493" START="483">war in Iraq</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="516" START="451">They primarily talked about the war in Iraq, the aftermath of Iraq</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="485" START="483">war</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030408.1600.03-E7-9" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="493" START="490">Iraq</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

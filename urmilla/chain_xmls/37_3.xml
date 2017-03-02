@@ -1,0 +1,573 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Specific" ID="APW_ENG_20030412.0531-EV1" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Past" TYPE="Conflict">
+		
+  
+		<event_argument REFID="APW_ENG_20030412.0531-E34" ROLE="Place"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030412.0531-T6" ROLE="Time-Within"/>
+		
+  
+		<event_mention ID="APW_ENG_20030412.0531-EV1-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1984" START="1960">Last year's Bali bombings</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="2059" START="1960">Last year's Bali bombings, which killed 202 people, illustrated the
+threat of terrorism in Indonesia</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1984" START="1977">bombings</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030412.0531-E34-52" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1975" START="1972">Bali</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030412.0531-T6-1" ROLE="Time-Within">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1968" START="1960">Last year</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="APW_ENG_20030412.0531-EV3" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Die" TENSE="Past" TYPE="Life">
+		
+  
+		<event_argument REFID="APW_ENG_20030412.0531-E35" ROLE="Victim"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030412.0531-E34" ROLE="Place"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030412.0531-T6" ROLE="Time-Within"/>
+		
+  
+		<event_mention ID="APW_ENG_20030412.0531-EV3-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="2009" START="1960">Last year's Bali bombings, which killed 202 people</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="2059" START="1960">Last year's Bali bombings, which killed 202 people, illustrated the
+threat of terrorism in Indonesia</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1998" START="1993">killed</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030412.0531-E35-53" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2009" START="2000">202 people</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030412.0531-E34-52" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1975" START="1972">Bali</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030412.0531-T6-1" ROLE="Time-Within">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1968" START="1960">Last year</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="APW_ENG_20030412.0531-EV5" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_argument REFID="APW_ENG_20030412.0531-E12" ROLE="Attacker"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030412.0531-E16" ROLE="Target"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030412.0531-E16" ROLE="Place"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030412.0531-E26" ROLE="Attacker"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030412.0531-T2" ROLE="Time-Starting"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030412.0531-E63" ROLE="Attacker"/>
+		
+  
+		<event_mention ID="APW_ENG_20030412.0531-EV5-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="2113" START="2091">U.S.-led attack on Iraq</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="2167" START="2062">And, broad opposition to the
+U.S.-led attack on Iraq threatens to lead to a backlash by militant
+Islamists</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="2105" START="2100">attack</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030412.0531-E12-55" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2093" START="2091">U.S</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030412.0531-E16-56" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2113" START="2110">Iraq</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="APW_ENG_20030412.0531-EV5-2">
+			
+    
+			<extent>
+				
+      
+				<charseq END="382" START="292">Sept. 11, 2001, Indonesia was quick to sign onto U.S.
+President George W. Bush's global war</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="392" START="286">After Sept. 11, 2001, Indonesia was quick to sign onto U.S.
+President George W. Bush's global war on terror</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="382" START="380">war</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030412.0531-E12-217" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="343" START="341">U.S</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030412.0531-E26-38" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="354" START="341">U.S.
+President</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030412.0531-E26-39" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="369" START="341">U.S.
+President George W. Bush</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030412.0531-T2-1" ROLE="Time-Starting">
+				
+      
+				<extent>
+					
+        
+					<charseq END="305" START="292">Sept. 11, 2001</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="APW_ENG_20030412.0531-EV5-3">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1479" START="1459">U.S.- led
+war on Iraq</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1479" START="1421">And, currently, both have opposed the U.S.- led
+war on Iraq</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1471" START="1469">war</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030412.0531-E12-26" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1461" START="1459">U.S</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030412.0531-E16-27" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1479" START="1476">Iraq</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="APW_ENG_20030412.0531-EV5-4">
+			
+    
+			<extent>
+				
+      
+				<charseq END="2220" START="2213">Iraq war</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="2391" START="2173">Nearly everybody in Indonesia sees this Iraq war as completely
+unnecessary and there is widespread public opposition to U.S.
+policies,'' said Jusuf Wanadi of the Center for Strategic and
+International Studies in Jakarta</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="2220" START="2218">war</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030412.0531-E16-60" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2216" START="2213">Iraq</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="APW_ENG_20030412.0531-EV5-5">
+			
+    
+			<extent>
+				
+      
+				<charseq END="3355" START="3206">the Bush administration  _  particularly Deputy
+Defense Secretary Paul Wolfowitz, a former ambassador to Jakarta and
+a prime architect of the Iraq war</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="3398" START="3187">Since then some in the Bush administration  _  particularly Deputy
+Defense Secretary Paul Wolfowitz, a former ambassador to Jakarta and
+a prime architect of the Iraq war  _  have pushed for the ban to be
+repealed</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="3355" START="3353">war</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030412.0531-E63-101" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3228" START="3206">the Bush administration</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030412.0531-E26-102" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3213" START="3210">Bush</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030412.0531-E16-107" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3351" START="3348">Iraq</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030412.0531-E16-107" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3351" START="3348">Iraq</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

@@ -1,0 +1,253 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Specific" ID="CNN_IP_20030405.1600.01-3-EV1" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_mention ID="CNN_IP_20030405.1600.01-3-EV1-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="930" START="928">war</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="930" START="842">It's not
+clear how long the bodies had lain here, but they were clearly not from
+this war</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="930" START="928">war</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="CNN_IP_20030405.1600.01-3-EV2" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_mention ID="CNN_IP_20030405.1600.01-3-EV2-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="990" START="988">war</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="999" START="955">You come to expect everything in war fighting</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="990" START="988">war</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="CNN_IP_20030405.1600.01-3-EV3" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_mention ID="CNN_IP_20030405.1600.01-3-EV3-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="999" START="992">fighting</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="999" START="955">You come to expect everything in war fighting</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="999" START="992">fighting</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030405.1600.01-3-EV4" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Die" TENSE="Past" TYPE="Life">
+		
+  
+		<event_argument REFID="CNN_IP_20030405.1600.01-3-E24" ROLE="Victim"/>
+		
+  
+		<event_mention ID="CNN_IP_20030405.1600.01-3-EV4-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1239" START="1227">Most had died</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1271" START="1227">Most had died from gunshot wounds to the
+head</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1239" START="1236">died</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030405.1600.01-3-E24-37" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1230" START="1227">Most</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_IP_20030405.1600.01-3-EV5" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Injure" TENSE="Past" TYPE="Life">
+		
+  
+		<event_argument REFID="CNN_IP_20030405.1600.01-3-E25" ROLE="Victim"/>
+		
+  
+		<event_mention ID="CNN_IP_20030405.1600.01-3-EV5-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1320" START="1274">Others were mutilated beyond recognition, their</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1345" START="1274">Others were mutilated beyond recognition, their faces burned and
+swollen</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1294" START="1286">mutilated</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030405.1600.01-3-E25-38" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1279" START="1274">Others</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030405.1600.01-3-E25-40" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1320" START="1316">their</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

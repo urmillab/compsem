@@ -1,0 +1,776 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Specific" ID="MARKBACKER_20041117.1107-EV1" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Charge-Indict" TENSE="Past" TYPE="Justice">
+		
+  
+		<event_argument REFID="MARKBACKER_20041117.1107-E7" ROLE="Defendant"/>
+		
+  
+		<event_mention ID="MARKBACKER_20041117.1107-EV1-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="620" START="607">her indictment</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="634" START="553">One thing that made me laugh is that she showed up at her indictment
+in a fur coat</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="620" START="611">indictment</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="MARKBACKER_20041117.1107-E7-5" ROLE="Defendant">
+				
+      
+				<extent>
+					
+        
+					<charseq END="609" START="607">her</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="MARKBACKER_20041117.1107-EV2" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Trial-Hearing" TENSE="Past" TYPE="Justice">
+		
+  
+		<event_argument REFID="MARKBACKER_20041117.1107-E3" ROLE="Defendant"/>
+		
+  
+		<event_argument REFID="MARKBACKER_20041117.1107-T5" ROLE="Time-Within"/>
+		
+  
+		<event_mention ID="MARKBACKER_20041117.1107-EV2-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="732" START="693">Michael Irvin
+drug trial of the mid 90's</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="732" START="638">Ummm, am I the only one that learned anything from the Michael Irvin
+drug trial of the mid 90's</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="716" START="712">trial</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="MARKBACKER_20041117.1107-E3-9" ROLE="Defendant">
+				
+      
+				<extent>
+					
+        
+					<charseq END="705" START="693">Michael Irvin</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="MARKBACKER_20041117.1107-T5-1" ROLE="Time-Within">
+				
+      
+				<extent>
+					
+        
+					<charseq END="732" START="721">the mid 90's</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="MARKBACKER_20041117.1107-EV3" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Transfer-Money" TENSE="Past" TYPE="Transaction">
+		
+  
+		<event_argument REFID="MARKBACKER_20041117.1107-V3" ROLE="Money"/>
+		
+  
+		<event_argument REFID="MARKBACKER_20041117.1107-E7" ROLE="Recipient"/>
+		
+  
+		<event_argument REFID="MARKBACKER_20041117.1107-T3" ROLE="Time-Within"/>
+		
+  
+		<event_mention ID="MARKBACKER_20041117.1107-EV3-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="395" START="285">recent
+years, instead of doing the people's business, good ole Linda has spent
+her time stealing over 600 grand</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="422" START="268">It seems that in recent
+years, instead of doing the people's business, good ole Linda has spent
+her time stealing over 600 grand in Federal Education funds</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="380" START="373">stealing</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="MARKBACKER_20041117.1107-V3-1" ROLE="Money">
+				
+      
+				<extent>
+					
+        
+					<charseq END="395" START="382">over 600 grand</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="MARKBACKER_20041117.1107-E7-54" ROLE="Recipient">
+				
+      
+				<extent>
+					
+        
+					<charseq END="352" START="339">good ole Linda</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="MARKBACKER_20041117.1107-T3-1" ROLE="Time-Within">
+				
+      
+				<extent>
+					
+        
+					<charseq END="296" START="285">recent
+years</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="MARKBACKER_20041117.1107-EV3-2">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1070" START="932">Schrenko is a scumbag and, although she won't get any actual jail
+time, I hope the fine she pleads to is at least as much as what she
+stole</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1070" START="932">Schrenko is a scumbag and, although she won't get any actual jail
+time, I hope the fine she pleads to is at least as much as what she
+stole</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1070" START="1066">stole</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="MARKBACKER_20041117.1107-E7-15" ROLE="Recipient">
+				
+      
+				<extent>
+					
+        
+					<charseq END="939" START="932">Schrenko</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="MARKBACKER_20041117.1107-EV3-3">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1441" START="1428">Schrenko stole</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1550" START="1428">Schrenko stole 20 times what Martha Stewart did, and I bet she won't
+see the wrong side of a jail cell door, and that's sad</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1441" START="1437">stole</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="MARKBACKER_20041117.1107-E7-31" ROLE="Recipient">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1435" START="1428">Schrenko</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="MARKBACKER_20041117.1107-EV4" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Charge-Indict" TENSE="Unspecified" TYPE="Justice">
+		
+  
+		<event_argument REFID="MARKBACKER_20041117.1107-E5" ROLE="Adjudicator"/>
+		
+  
+		<event_argument REFID="MARKBACKER_20041117.1107-V1" ROLE="Crime"/>
+		
+  
+		<event_argument REFID="MARKBACKER_20041117.1107-E4" ROLE="Defendant"/>
+		
+  
+		<event_mention ID="MARKBACKER_20041117.1107-EV4-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="828" START="735">You never EVER show up at court, especially
+facing indictment for stealing large sums of money</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="856" START="735">You never EVER show up at court, especially
+facing indictment for stealing large sums of money, wearing a fucking
+FUR COAT</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="795" START="786">indictment</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="MARKBACKER_20041117.1107-E5-11" ROLE="Adjudicator">
+				
+      
+				<extent>
+					
+        
+					<charseq END="765" START="761">court</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="MARKBACKER_20041117.1107-V1-1" ROLE="Crime">
+				
+      
+				<extent>
+					
+        
+					<charseq END="828" START="801">stealing large sums of money</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="MARKBACKER_20041117.1107-E4-10" ROLE="Defendant">
+				
+      
+				<extent>
+					
+        
+					<charseq END="737" START="735">You</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="MARKBACKER_20041117.1107-EV5" MODALITY="Other" POLARITY="Positive" SUBTYPE="Fine" TENSE="Unspecified" TYPE="Justice">
+		
+  
+		<event_argument REFID="MARKBACKER_20041117.1107-E7" ROLE="Entity"/>
+		
+  
+		<event_mention ID="MARKBACKER_20041117.1107-EV5-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1018" START="968">she won't get any actual jail
+time, I hope the fine</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1070" START="932">Schrenko is a scumbag and, although she won't get any actual jail
+time, I hope the fine she pleads to is at least as much as what she
+stole</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1018" START="1015">fine</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="MARKBACKER_20041117.1107-E7-17" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="970" START="968">she</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="MARKBACKER_20041117.1107-EV6" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Fine" TENSE="Past" TYPE="Justice">
+		
+  
+		<event_argument REFID="MARKBACKER_20041117.1107-E10" ROLE="Entity"/>
+		
+  
+		<event_argument REFID="MARKBACKER_20041117.1107-V5" ROLE="Money"/>
+		
+  
+		<event_mention ID="MARKBACKER_20041117.1107-EV6-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1230" START="1122">Michael Milken got busted, he was not forced to give up
+his secret accounts, and when the fine of 600 million</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1254" START="1108">Remember when Michael Milken got busted, he was not forced to give up
+his secret accounts, and when the fine of 600 million was levied...HE
+PAID IT</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1215" START="1212">fine</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="MARKBACKER_20041117.1107-E10-23" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1135" START="1122">Michael Milken</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="MARKBACKER_20041117.1107-V5-1" ROLE="Money">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1230" START="1220">600 million</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="MARKBACKER_20041117.1107-EV6-2">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1254" START="1220">600 million was levied...HE
+PAID IT</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1254" START="1108">Remember when Michael Milken got busted, he was not forced to give up
+his secret accounts, and when the fine of 600 million was levied...HE
+PAID IT</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1254" START="1253">IT</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="MARKBACKER_20041117.1107-E10-26" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1246" START="1245">HE</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="MARKBACKER_20041117.1107-V5-1" ROLE="Money">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1230" START="1220">600 million</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="MARKBACKER_20041117.1107-EV7" MODALITY="Asserted" POLARITY="Negative" SUBTYPE="Sentence" TENSE="Unspecified" TYPE="Justice">
+		
+  
+		<event_argument REFID="MARKBACKER_20041117.1107-E7" ROLE="Defendant"/>
+		
+  
+		<event_argument REFID="MARKBACKER_20041117.1107-V2" ROLE="Sentence"/>
+		
+  
+		<event_mention ID="MARKBACKER_20041117.1107-EV7-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1001" START="968">she won't get any actual jail
+time</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1070" START="932">Schrenko is a scumbag and, although she won't get any actual jail
+time, I hope the fine she pleads to is at least as much as what she
+stole</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="980" START="978">get</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="MARKBACKER_20041117.1107-E7-17" ROLE="Defendant">
+				
+      
+				<extent>
+					
+        
+					<charseq END="970" START="968">she</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="MARKBACKER_20041117.1107-V2-1" ROLE="Sentence">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1001" START="986">actual jail
+time</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="MARKBACKER_20041117.1107-EV8" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Transfer-Money" TENSE="Unspecified" TYPE="Transaction">
+		
+  
+		<event_argument REFID="MARKBACKER_20041117.1107-E4" ROLE="Recipient"/>
+		
+  
+		<event_mention ID="MARKBACKER_20041117.1107-EV8-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="808" START="735">You never EVER show up at court, especially
+facing indictment for stealing</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="856" START="735">You never EVER show up at court, especially
+facing indictment for stealing large sums of money, wearing a fucking
+FUR COAT</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="808" START="801">stealing</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="MARKBACKER_20041117.1107-E4-10" ROLE="Recipient">
+				
+      
+				<extent>
+					
+        
+					<charseq END="737" START="735">You</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

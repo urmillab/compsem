@@ -1,0 +1,515 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Generic" ID="MARKETVIEW_20050206.2009-EV1" MODALITY="Other" POLARITY="Positive" SUBTYPE="Merge-Org" TENSE="Unspecified" TYPE="Business">
+		
+  
+		<event_argument REFID="MARKETVIEW_20050206.2009-E1" ROLE="Org"/>
+		
+  
+		<event_mention ID="MARKETVIEW_20050206.2009-EV1-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="217" START="137">merger and acquisition activity doesn't mean much in the
+early days of a business</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="450" START="128">Frenetic merger and acquisition activity doesn't mean much in the
+early days of a business -- it's just as likely that ridiculously
+overfunded startups are buying out their bankrupt competitors to create
+larger and less stable conglomerates as it is that forward-thinking
+visionaries are cutting off their competitors early</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="142" START="137">merger</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="MARKETVIEW_20050206.2009-E1-1" ROLE="Org">
+				
+      
+				<extent>
+					
+        
+					<charseq END="217" START="208">a business</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="MARKETVIEW_20050206.2009-EV2" MODALITY="Other" POLARITY="Positive" SUBTYPE="Transfer-Ownership" TENSE="Unspecified" TYPE="Transaction">
+		
+  
+		<event_argument REFID="MARKETVIEW_20050206.2009-E3" ROLE="Artifact"/>
+		
+  
+		<event_argument REFID="MARKETVIEW_20050206.2009-E2" ROLE="Buyer"/>
+		
+  
+		<event_mention ID="MARKETVIEW_20050206.2009-EV2-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="320" START="284">buying out their bankrupt competitors</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="450" START="128">Frenetic merger and acquisition activity doesn't mean much in the
+early days of a business -- it's just as likely that ridiculously
+overfunded startups are buying out their bankrupt competitors to create
+larger and less stable conglomerates as it is that forward-thinking
+visionaries are cutting off their competitors early</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="293" START="284">buying out</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="MARKETVIEW_20050206.2009-E3-4" ROLE="Artifact">
+				
+      
+				<extent>
+					
+        
+					<charseq END="320" START="295">their bankrupt competitors</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="MARKETVIEW_20050206.2009-E2-5" ROLE="Buyer">
+				
+      
+				<extent>
+					
+        
+					<charseq END="299" START="295">their</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="MARKETVIEW_20050206.2009-EV3" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Declare-Bankruptcy" TENSE="Unspecified" TYPE="Business">
+		
+  
+		<event_argument REFID="MARKETVIEW_20050206.2009-E3" ROLE="Org"/>
+		
+  
+		<event_mention ID="MARKETVIEW_20050206.2009-EV3-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="320" START="295">their bankrupt competitors</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="450" START="128">Frenetic merger and acquisition activity doesn't mean much in the
+early days of a business -- it's just as likely that ridiculously
+overfunded startups are buying out their bankrupt competitors to create
+larger and less stable conglomerates as it is that forward-thinking
+visionaries are cutting off their competitors early</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="308" START="301">bankrupt</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="MARKETVIEW_20050206.2009-E3-4" ROLE="Org">
+				
+      
+				<extent>
+					
+        
+					<charseq END="320" START="295">their bankrupt competitors</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="MARKETVIEW_20050206.2009-EV4" MODALITY="Other" POLARITY="Positive" SUBTYPE="Transfer-Ownership" TENSE="Unspecified" TYPE="Transaction">
+		
+  
+		<event_mention ID="MARKETVIEW_20050206.2009-EV4-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="158" START="148">acquisition</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="450" START="128">Frenetic merger and acquisition activity doesn't mean much in the
+early days of a business -- it's just as likely that ridiculously
+overfunded startups are buying out their bankrupt competitors to create
+larger and less stable conglomerates as it is that forward-thinking
+visionaries are cutting off their competitors early</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="158" START="148">acquisition</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="MARKETVIEW_20050206.2009-EV5" MODALITY="Other" POLARITY="Positive" SUBTYPE="Merge-Org" TENSE="Unspecified" TYPE="Business">
+		
+  
+		<event_argument REFID="MARKETVIEW_20050206.2009-E2" ROLE="Org"/>
+		
+  
+		<event_argument REFID="MARKETVIEW_20050206.2009-E3" ROLE="Org"/>
+		
+  
+		<event_mention ID="MARKETVIEW_20050206.2009-EV5-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="330" START="247">ridiculously
+overfunded startups are buying out their bankrupt competitors to create</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="450" START="128">Frenetic merger and acquisition activity doesn't mean much in the
+early days of a business -- it's just as likely that ridiculously
+overfunded startups are buying out their bankrupt competitors to create
+larger and less stable conglomerates as it is that forward-thinking
+visionaries are cutting off their competitors early</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="330" START="325">create</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="MARKETVIEW_20050206.2009-E2-3" ROLE="Org">
+				
+      
+				<extent>
+					
+        
+					<charseq END="278" START="247">ridiculously
+overfunded startups</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="MARKETVIEW_20050206.2009-E3-4" ROLE="Org">
+				
+      
+				<extent>
+					
+        
+					<charseq END="320" START="295">their bankrupt competitors</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="MARKETVIEW_20050206.2009-EV6" MODALITY="Other" POLARITY="Positive" SUBTYPE="Transfer-Ownership" TENSE="Unspecified" TYPE="Transaction">
+		
+  
+		<event_argument REFID="MARKETVIEW_20050206.2009-E7" ROLE="Beneficiary"/>
+		
+  
+		<event_argument REFID="MARKETVIEW_20050206.2009-E1" ROLE="Artifact"/>
+		
+  
+		<event_argument REFID="MARKETVIEW_20050206.2009-E1" ROLE="Seller"/>
+		
+  
+		<event_argument REFID="MARKETVIEW_20050206.2009-E7" ROLE="Buyer"/>
+		
+  
+		<event_argument REFID="MARKETVIEW_20050206.2009-E9" ROLE="Artifact"/>
+		
+  
+		<event_argument REFID="MARKETVIEW_20050206.2009-E8" ROLE="Buyer"/>
+		
+  
+		<event_mention ID="MARKETVIEW_20050206.2009-EV6-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="495" START="462">an
+outsider buys into the business</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="594" START="453">But when an
+outsider buys into the business once it's established itself as
+important, but before it's really gotten profitable, it's big news</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="477" START="474">buys</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="MARKETVIEW_20050206.2009-E7-10" ROLE="Beneficiary">
+				
+      
+				<extent>
+					
+        
+					<charseq END="472" START="462">an
+outsider</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="MARKETVIEW_20050206.2009-E1-11" ROLE="Artifact">
+				
+      
+				<extent>
+					
+        
+					<charseq END="495" START="484">the business</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="MARKETVIEW_20050206.2009-E1-11" ROLE="Seller">
+				
+      
+				<extent>
+					
+        
+					<charseq END="495" START="484">the business</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="MARKETVIEW_20050206.2009-E7-10" ROLE="Buyer">
+				
+      
+				<extent>
+					
+        
+					<charseq END="472" START="462">an
+outsider</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="MARKETVIEW_20050206.2009-EV6-2">
+			
+    
+			<extent>
+				
+      
+				<charseq END="658" START="629">Ask Jeeves is buying Bloglines</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="658" START="597">For
+now, it's just a rumor that Ask Jeeves is buying Bloglines</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="648" START="643">buying</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="MARKETVIEW_20050206.2009-E9-15" ROLE="Artifact">
+				
+      
+				<extent>
+					
+        
+					<charseq END="658" START="650">Bloglines</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="MARKETVIEW_20050206.2009-E8-14" ROLE="Buyer">
+				
+      
+				<extent>
+					
+        
+					<charseq END="638" START="629">Ask Jeeves</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

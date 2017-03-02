@@ -1,0 +1,960 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Specific" ID="APW_ENG_20030502.0686-EV2" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Meet" TENSE="Unspecified" TYPE="Contact">
+		
+  
+		<event_argument REFID="APW_ENG_20030502.0686-E16" ROLE="Entity"/>
+		
+  
+		<event_mention ID="APW_ENG_20030502.0686-EV2-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1892" START="1742">other U.N. Security Council members who have favored a U.N.-convened
+conference of the kind that helped establish Afghanistan's
+post-Taliban government</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1892" START="1676">The proposed draft resolution would probably face resistance from
+other U.N. Security Council members who have favored a U.N.-convened
+conference of the kind that helped establish Afghanistan's
+post-Taliban government</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1820" START="1811">conference</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030502.0686-E16-36" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1892" START="1742">other U.N. Security Council members who have favored a U.N.-convened
+conference of the kind that helped establish Afghanistan's
+post-Taliban government</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="APW_ENG_20030502.0686-EV3" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Phone-Write" TENSE="Past" TYPE="Contact">
+		
+  
+		<event_argument REFID="APW_ENG_20030502.0686-E23" ROLE="Entity"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030502.0686-E26" ROLE="Entity"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030502.0686-E28" ROLE="Entity"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030502.0686-T4" ROLE="Time-Within"/>
+		
+  
+		<event_mention ID="APW_ENG_20030502.0686-EV3-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="2035" START="1896">U.S. Defense Secretary Donald H. Rumsfeld discussed the resolution
+with Prime Minister Tony Blair and Defense Secretary Geoff Hoon on
+Friday</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="2117" START="1896">U.S. Defense Secretary Donald H. Rumsfeld discussed the resolution
+with Prime Minister Tony Blair and Defense Secretary Geoff Hoon on
+Friday as Rumsfeld returned from a tour of Iraq, Afghanistan and the
+Persian Gulf region</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1946" START="1938">discussed</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030502.0686-E23-214" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1936" START="1896">U.S. Defense Secretary Donald H. Rumsfeld</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030502.0686-E26-210" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1992" START="1968">Prime Minister Tony Blair</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030502.0686-E28-216" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2025" START="1998">Defense Secretary Geoff Hoon</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030502.0686-T4-1" ROLE="Time-Within">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2035" START="2030">Friday</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="APW_ENG_20030502.0686-EV4" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Transport" TENSE="Past" TYPE="Movement">
+		
+  
+		<event_argument REFID="APW_ENG_20030502.0686-E113" ROLE="Origin"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030502.0686-E22" ROLE="Origin"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030502.0686-E30" ROLE="Origin"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030502.0686-E23" ROLE="Person"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030502.0686-T4" ROLE="Time-After"/>
+		
+  
+		<event_mention ID="APW_ENG_20030502.0686-EV4-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="2117" START="1896">U.S. Defense Secretary Donald H. Rumsfeld discussed the resolution
+with Prime Minister Tony Blair and Defense Secretary Geoff Hoon on
+Friday as Rumsfeld returned from a tour of Iraq, Afghanistan and the
+Persian Gulf region</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="2117" START="1896">U.S. Defense Secretary Donald H. Rumsfeld discussed the resolution
+with Prime Minister Tony Blair and Defense Secretary Geoff Hoon on
+Friday as Rumsfeld returned from a tour of Iraq, Afghanistan and the
+Persian Gulf region</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="2056" START="2049">returned</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030502.0686-E113-47" ROLE="Origin">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2076" START="2073">Iraq</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030502.0686-E22-48" ROLE="Origin">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2089" START="2079">Afghanistan</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030502.0686-E30-50" ROLE="Origin">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2117" START="2095">the
+Persian Gulf region</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030502.0686-E23-214" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1936" START="1896">U.S. Defense Secretary Donald H. Rumsfeld</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030502.0686-T4-1" ROLE="Time-After">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2035" START="2030">Friday</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="APW_ENG_20030502.0686-EV5" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Transport" TENSE="Future" TYPE="Movement">
+		
+  
+		<event_argument REFID="APW_ENG_20030502.0686-E113" ROLE="Destination"/>
+		
+  
+		<event_mention ID="APW_ENG_20030502.0686-EV5-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="2491" START="2480">sent to Iraq</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="2577" START="2441">International stability forces will be sent to Iraq as soon as
+possible, the U.S. official said, though it was unclear when that
+would be</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="2483" START="2480">sent</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030502.0686-E113-64" ROLE="Destination">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2491" START="2488">Iraq</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="APW_ENG_20030502.0686-EV6" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Meet" TENSE="Future" TYPE="Contact">
+		
+  
+		<event_argument REFID="APW_ENG_20030502.0686-E36" ROLE="Entity"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030502.0686-E37" ROLE="Entity"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030502.0686-T5" ROLE="Time-Within"/>
+		
+  
+		<event_mention ID="APW_ENG_20030502.0686-EV6-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="2950" START="2878">Representatives of those countries will meet with British officials
+May 7</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="3093" START="2878">Representatives of those countries will meet with British officials
+May 7 and Polish officials May 22 to determine what forces each
+country will contribute and whether they will be put under British or
+Polish command</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="2921" START="2918">meet</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030502.0686-E36-72" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2911" START="2878">Representatives of those countries</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030502.0686-E37-74" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2944" START="2928">British officials</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030502.0686-T5-1" ROLE="Time-Within">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2950" START="2946">May 7</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="APW_ENG_20030502.0686-EV7" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Start-Org" TENSE="Future" TYPE="Business">
+		
+  
+		<event_argument REFID="APW_ENG_20030502.0686-E8" ROLE="Org"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030502.0686-E2" ROLE="Agent"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030502.0686-E5" ROLE="Agent"/>
+		
+  
+		<event_mention ID="APW_ENG_20030502.0686-EV7-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="736" START="605">Six European countries have agreed to contribute troops
+to the British and Polish sectors to create an international
+stability force</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="755" START="605">Six European countries have agreed to contribute troops
+to the British and Polish sectors to create an international
+stability force, the official said</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="703" START="698">create</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030502.0686-E8-10" ROLE="Org">
+				
+      
+				<extent>
+					
+        
+					<charseq END="736" START="705">an international
+stability force</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030502.0686-E2-4" ROLE="Agent">
+				
+      
+				<extent>
+					
+        
+					<charseq END="626" START="605">Six European countries</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030502.0686-E5-7" ROLE="Agent">
+				
+      
+				<extent>
+					
+        
+					<charseq END="693" START="664">the British and Polish sectors</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="APW_ENG_20030502.0686-EV8" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Meet" TENSE="Past" TYPE="Contact">
+		
+  
+		<event_argument REFID="APW_ENG_20030502.0686-E75" ROLE="Entity"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030502.0686-T7" ROLE="Time-Within"/>
+		
+  
+		<event_mention ID="APW_ENG_20030502.0686-EV8-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="4537" START="4446">conference Hoon hosted Wednesday with representatives from 16
+countries, mostly NATO members</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="4537" START="4377">The outlines for the international stability force were decided at a
+conference Hoon hosted Wednesday with representatives from 16
+countries, mostly NATO members</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="4455" START="4446">conference</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030502.0686-E75-135" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4537" START="4484">representatives from 16
+countries, mostly NATO members</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030502.0686-T7-1" ROLE="Time-Within">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4477" START="4469">Wednesday</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="APW_ENG_20030502.0686-EV9" MODALITY="Other" POLARITY="Positive" SUBTYPE="Transfer-Money" TENSE="Unspecified" TYPE="Transaction">
+		
+  
+		<event_argument REFID="APW_ENG_20030502.0686-E102" ROLE="Giver"/>
+		
+  
+		<event_mention ID="APW_ENG_20030502.0686-EV9-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="5313" START="5250">Countries in the Gulf Cooperation Council have offered to donate</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="5334" START="5250">Countries in the Gulf Cooperation Council have offered to donate
+money for the effort</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="5313" START="5308">donate</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030502.0686-E102-169" ROLE="Giver">
+				
+      
+				<extent>
+					
+        
+					<charseq END="5290" START="5250">Countries in the Gulf Cooperation Council</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="APW_ENG_20030502.0686-EV10" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Meet" TENSE="Past" TYPE="Contact">
+		
+  
+		<event_argument REFID="APW_ENG_20030502.0686-E23" ROLE="Entity"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030502.0686-E104" ROLE="Entity"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030502.0686-T8" ROLE="Time-Within"/>
+		
+  
+		<event_mention ID="APW_ENG_20030502.0686-EV10-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="5390" START="5338">Rumsfeld also met Friday with King Abdullah of Jordan</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="5427" START="5338">Rumsfeld also met Friday with King Abdullah of Jordan, an American
+ally in the Middle East</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="5354" START="5352">met</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030502.0686-E23-171" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="5345" START="5338">Rumsfeld</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030502.0686-E104-174" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="5390" START="5368">King Abdullah of Jordan</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030502.0686-T8-1" ROLE="Time-Within">
+				
+      
+				<extent>
+					
+        
+					<charseq END="5361" START="5356">Friday</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="APW_ENG_20030502.0686-EV14" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Meet" TENSE="Future" TYPE="Contact">
+		
+  
+		<event_argument REFID="APW_ENG_20030502.0686-E36" ROLE="Entity"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030502.0686-E39" ROLE="Entity"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030502.0686-T6" ROLE="Time-Within"/>
+		
+  
+		<event_mention ID="APW_ENG_20030502.0686-EV14-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="2978" START="2878">Representatives of those countries will meet with British officials
+May 7 and Polish officials May 22</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="3093" START="2878">Representatives of those countries will meet with British officials
+May 7 and Polish officials May 22 to determine what forces each
+country will contribute and whether they will be put under British or
+Polish command</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="2921" START="2918">meet</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030502.0686-E36-72" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2911" START="2878">Representatives of those countries</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030502.0686-E39-76" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2971" START="2956">Polish officials</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030502.0686-T6-1" ROLE="Time-Within">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2978" START="2973">May 22</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="APW_ENG_20030502.0686-EV15" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_argument REFID="APW_ENG_20030502.0686-E113" ROLE="Place"/>
+		
+  
+		<event_mention ID="APW_ENG_20030502.0686-EV15-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="4109" START="4099">war in Iraq</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="4109" START="3941">Planning for both the U.N. resolution and the international security
+force left out France, Germany and Russia, three U.S. allies that
+vehemently opposed the war in Iraq</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="4101" START="4099">war</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030502.0686-E113-120" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4109" START="4106">Iraq</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

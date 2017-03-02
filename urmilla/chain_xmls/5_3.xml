@@ -1,0 +1,118 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Specific" ID="CNN_IP_20030408.1600.03-EV21" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Die" TENSE="Past" TYPE="Life">
+		
+  
+		<event_argument REFID="CNN_IP_20030408.1600.03-E62" ROLE="Victim"/>
+		
+  
+		<event_argument REFID="CNN_IP_20030408.1600.03-E12" ROLE="Place"/>
+		
+  
+		<event_mention ID="CNN_IP_20030408.1600.03-EV21-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="4595" START="4547">Journalists killed in the line of duty in Baghdad</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="4595" START="4547">Journalists killed in the line of duty in Baghdad</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="4564" START="4559">killed</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030408.1600.03-E62-140" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4595" START="4547">Journalists killed in the line of duty in Baghdad</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_IP_20030408.1600.03-E12-25" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4595" START="4589">Baghdad</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="CNN_IP_20030408.1600.03-EV22" MODALITY="Other" POLARITY="Positive" SUBTYPE="Attack" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_mention ID="CNN_IP_20030408.1600.03-EV22-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="4633" START="4631">war</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="4648" START="4600">how
+neutral are reporters in a war supposed to be</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="4633" START="4631">war</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

@@ -1,0 +1,292 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Specific" ID="CNN_ENG_20030507_170539.0-EV1" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_argument REFID="CNN_ENG_20030507_170539.0-E5" ROLE="Attacker"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030507_170539.0-E6" ROLE="Attacker"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030507_170539.0-E5" ROLE="Target"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030507_170539.0-E6" ROLE="Target"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030507_170539.0-EV1-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1909" START="1852">spain and america will continue as
+strong allys in the war</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1924" START="1834">across the globe, spain and america will continue as
+strong allys in the war against terror</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1909" START="1907">war</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030507_170539.0-E5-54" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1856" START="1852">spain</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030507_170539.0-E6-55" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1868" START="1862">america</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030507_170539.0-E5-54" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1856" START="1852">spain</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030507_170539.0-E6-55" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1868" START="1862">america</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_ENG_20030507_170539.0-EV2" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_mention ID="CNN_ENG_20030507_170539.0-EV2-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="559" START="549">hostilities</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="559" START="415">i also offer my condolences to the family and
+friends of the two members of the spanish media who lost their lives
+while covering the hostilities</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="559" START="549">hostilities</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_ENG_20030507_170539.0-EV3" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_mention ID="CNN_ENG_20030507_170539.0-EV3-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="297" START="290">conflict</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="297" START="218">i want to thank the president for spain's
+diplomatic support before the conflict</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="297" START="290">conflict</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="CNN_ENG_20030507_170539.0-EV3-2">
+			
+    
+			<extent>
+				
+      
+				<charseq END="378" START="376">war</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="390" START="322">and for
+the use of spanish air space and bases as the war grew closer</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="378" START="376">war</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_ENG_20030507_170539.0-EV4" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Die" TENSE="Past" TYPE="Life">
+		
+  
+		<event_argument REFID="CNN_ENG_20030507_170539.0-E3" ROLE="Victim"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030507_170539.0-EV4-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="559" START="472">the two members of the spanish media who lost their lives
+while covering the hostilities</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="559" START="415">i also offer my condolences to the family and
+friends of the two members of the spanish media who lost their lives
+while covering the hostilities</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="516" START="513">lost</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030507_170539.0-E3-6" ROLE="Victim">
+				
+      
+				<extent>
+					
+        
+					<charseq END="559" START="472">the two members of the spanish media who lost their lives
+while covering the hostilities</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

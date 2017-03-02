@@ -1,0 +1,218 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Specific" ID="CNN_ENG_20030421_090007.11-EV1" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Arrest-Jail" TENSE="Past" TYPE="Justice">
+		
+  
+		<event_argument REFID="CNN_ENG_20030421_090007.11-E9" ROLE="Person"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030421_090007.11-E3" ROLE="Agent"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030421_090007.11-EV1-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="851" START="826">they took him into custody</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="851" START="798">they handcuffed the man and
+they took him into custody</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="851" START="845">custody</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030421_090007.11-E9-2" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="838" START="836">him</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030421_090007.11-E3-18" ROLE="Agent">
+				
+      
+				<extent>
+					
+        
+					<charseq END="829" START="826">they</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_ENG_20030421_090007.11-EV2" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Past" TYPE="Conflict">
+		
+  
+		<event_argument REFID="CNN_ENG_20030421_090007.11-E9" ROLE="Attacker"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030421_090007.11-E10" ROLE="Instrument"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030421_090007.11-EV2-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="336" START="270">a man who
+had assault, he actually had assault with a deadly weapon</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="354" START="270">a man who
+had assault, he actually had assault with a deadly weapon, this is
+pictures</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="315" START="309">assault</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030421_090007.11-E9-28" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="290" START="270">a man who
+had assault</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030421_090007.11-E10-30" ROLE="Instrument">
+				
+      
+				<extent>
+					
+        
+					<charseq END="336" START="322">a deadly weapon</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_ENG_20030421_090007.11-EV3" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Transport" TENSE="Past" TYPE="Movement">
+		
+  
+		<event_argument REFID="CNN_ENG_20030421_090007.11-E9" ROLE="Person"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030421_090007.11-EV3-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="612" START="601">the man came</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="795" START="601">the man came out
+and did the spread eagle like that, just as he did that, that's when
+you saw the child just walking just a few feet away from him but the
+officers were able to get the child away</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="612" START="609">came</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030421_090007.11-E9-37" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="607" START="601">the man</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

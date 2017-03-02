@@ -1,0 +1,502 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Generic" ID="CNN_ENG_20030305_170125.1-EV1" MODALITY="Other" POLARITY="Positive" SUBTYPE="Attack" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_argument REFID="CNN_ENG_20030305_170125.1-E26" ROLE="Attacker"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030305_170125.1-E2" ROLE="Attacker"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030305_170125.1-E29" ROLE="Attacker"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030305_170125.1-EV1-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="158" START="138">the u.s. going to war</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="158" START="135">is
+the u.s. going to war</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="158" START="156">war</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030305_170125.1-E26-39" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="144" START="138">the u.s</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="CNN_ENG_20030305_170125.1-EV1-2">
+			
+    
+			<extent>
+				
+      
+				<charseq END="311" START="309">war</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="311" START="264">america's top
+diplomat laid out the case for war</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="311" START="309">war</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="CNN_ENG_20030305_170125.1-EV1-3">
+			
+    
+			<extent>
+				
+      
+				<charseq END="661" START="648">the u.s.'s war</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="797" START="576">france, germany and russia plan a showdown
+at theupups in a bid to stop the u.s.'s war machine and their voices
+of dissent echoed by protestors from australia to egypt to university
+students right here in the united states</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="661" START="659">war</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030305_170125.1-E26-8" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="654" START="648">the u.s</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="CNN_ENG_20030305_170125.1-EV1-4">
+			
+    
+			<extent>
+				
+      
+				<charseq END="980" START="954">president
+bush to avoid war</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1065" START="840">later this hour i'll speak exclusively to cardinal pio
+laghi, the man dismatched by pope john paul ii to persuade president
+bush to avoid war, but we begin with reports from the united nations,
+the pentagon and the white house</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="980" START="978">war</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030305_170125.1-E2-25" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="967" START="954">president
+bush</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="CNN_ENG_20030305_170125.1-EV1-5">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1184" START="1120">the secretary of state who switched from diplomacy
+to talk of war</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1184" START="1068">first to chris burns with news on
+the president and the secretary of state who switched from diplomacy
+to talk of war</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1184" START="1182">war</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030305_170125.1-E29-32" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1141" START="1120">the secretary of state</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="CNN_ENG_20030305_170125.1-EV2" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Attack" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_argument REFID="CNN_ENG_20030305_170125.1-T3" ROLE="Time-Within"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030305_170125.1-E34" ROLE="Attacker"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030305_170125.1-T4" ROLE="Time-Within"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030305_170125.1-EV2-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="261" START="212">battle is about to begin, maybe only days from now</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="261" START="161">if you listen to the from's men it sounds like
+the battle is about to begin, maybe only days from now</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="217" START="212">battle</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030305_170125.1-T3-1" ROLE="Time-Within">
+				
+      
+				<extent>
+					
+        
+					<charseq END="261" START="244">only days from now</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="CNN_ENG_20030305_170125.1-EV2-2">
+			
+    
+			<extent>
+				
+      
+				<charseq END="487" START="423">the military leaders say that troops are ready to fight
+right now</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="573" START="401">over at the
+pentagon, the military leaders say that troops are ready to fight
+right now even as they await word of the president's order, but there
+is major opposition today</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="477" START="473">fight</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030305_170125.1-E34-49" ROLE="Attacker">
+				
+      
+				<extent>
+					
+        
+					<charseq END="442" START="423">the military leaders</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030305_170125.1-T4-1" ROLE="Time-Within">
+				
+      
+				<extent>
+					
+        
+					<charseq END="487" START="485">now</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_ENG_20030305_170125.1-EV3" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Meet" TENSE="Unspecified" TYPE="Contact">
+		
+  
+		<event_argument REFID="CNN_ENG_20030305_170125.1-E23" ROLE="Entity"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030305_170125.1-E13" ROLE="Entity"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030305_170125.1-T7" ROLE="Time-Within"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030305_170125.1-EV3-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="980" START="840">later this hour i'll speak exclusively to cardinal pio
+laghi, the man dismatched by pope john paul ii to persuade president
+bush to avoid war</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1065" START="840">later this hour i'll speak exclusively to cardinal pio
+laghi, the man dismatched by pope john paul ii to persuade president
+bush to avoid war, but we begin with reports from the united nations,
+the pentagon and the white house</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="865" START="861">speak</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030305_170125.1-E23-18" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="856" START="856">i</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030305_170125.1-E13-19" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="899" START="882">cardinal pio
+laghi</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030305_170125.1-E13-22" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="980" START="902">the man dismatched by pope john paul ii to persuade president
+bush to avoid war</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030305_170125.1-T7-1" ROLE="Time-Within">
+				
+      
+				<extent>
+					
+        
+					<charseq END="854" START="840">later this hour</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

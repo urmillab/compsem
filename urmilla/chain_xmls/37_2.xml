@@ -1,0 +1,1217 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Specific" ID="APW_ENG_20030412.0531-EV6" MODALITY="Asserted" POLARITY="Negative" SUBTYPE="Transfer-Ownership" TENSE="Unspecified" TYPE="Transaction">
+		
+  
+		<event_argument REFID="APW_ENG_20030412.0531-E5" ROLE="Beneficiary"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030412.0531-E29" ROLE="Artifact"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030412.0531-E12" ROLE="Seller"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030412.0531-E5" ROLE="Buyer"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030412.0531-T3" ROLE="Time-Within"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030412.0531-E14" ROLE="Beneficiary"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030412.0531-E14" ROLE="Seller"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030412.0531-E14" ROLE="Buyer"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030412.0531-V1" ROLE="Price"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030412.0531-T9" ROLE="Time-Within"/>
+		
+  
+		<event_mention ID="APW_ENG_20030412.0531-EV6-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="491" START="401">Washington maintains a 12-year ban on arms sales to the world's
+most populous Muslim nation</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="586" START="396">Yet, Washington maintains a 12-year ban on arms sales to the world's
+most populous Muslim nation with the aim of curbing human rights
+abuses still happening despite momentous political change</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="448" START="444">sales</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030412.0531-E5-2" ROLE="Beneficiary">
+				
+      
+				<extent>
+					
+        
+					<charseq END="491" START="453">the world's
+most populous Muslim nation</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030412.0531-E29-219" ROLE="Artifact">
+				
+      
+				<extent>
+					
+        
+					<charseq END="442" START="439">arms</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030412.0531-E12-218" ROLE="Seller">
+				
+      
+				<extent>
+					
+        
+					<charseq END="410" START="401">Washington</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030412.0531-E5-2" ROLE="Buyer">
+				
+      
+				<extent>
+					
+        
+					<charseq END="491" START="453">the world's
+most populous Muslim nation</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030412.0531-T3-1" ROLE="Time-Within">
+				
+      
+				<extent>
+					
+        
+					<charseq END="430" START="424">12-year</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="APW_ENG_20030412.0531-EV6-2">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1782" START="1709">the
+two closer together on bottom-line issues such as trade and arms
+sales</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1782" START="1644">But other diplomats say that issue will serve primarily to bring the
+two closer together on bottom-line issues such as trade and arms
+sales</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1782" START="1778">sales</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030412.0531-E14-43" ROLE="Beneficiary">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1715" START="1709">the
+two</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030412.0531-E29-44" ROLE="Artifact">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1776" START="1773">arms</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030412.0531-E14-43" ROLE="Seller">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1715" START="1709">the
+two</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030412.0531-E14-43" ROLE="Buyer">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1715" START="1709">the
+two</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="APW_ENG_20030412.0531-EV6-3">
+			
+    
+			<extent>
+				
+      
+				<charseq END="2801" START="2657">The United States quickly became the Southeast Asian country's main
+weapons supplier, and annual arms sales peaked at US$400 million in
+the 1980s</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="2801" START="2657">The United States quickly became the Southeast Asian country's main
+weapons supplier, and annual arms sales peaked at US$400 million in
+the 1980s</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="2763" START="2759">sales</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030412.0531-E5-80" ROLE="Beneficiary">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2716" START="2690">the Southeast Asian country</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030412.0531-E29-83" ROLE="Artifact">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2731" START="2725">weapons</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030412.0531-E29-82" ROLE="Artifact">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2757" START="2754">arms</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030412.0531-E12-79" ROLE="Seller">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2673" START="2657">The United States</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030412.0531-E12-84" ROLE="Seller">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2776" START="2775">US</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030412.0531-V1-1" ROLE="Price">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2788" START="2777">$400 million</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030412.0531-E5-80" ROLE="Buyer">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2716" START="2690">the Southeast Asian country</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030412.0531-T9-1" ROLE="Time-Within">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2801" START="2793">the 1980s</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="APW_ENG_20030412.0531-EV7" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Transport" TENSE="Future" TYPE="Movement">
+		
+  
+		<event_argument REFID="APW_ENG_20030412.0531-E6" ROLE="Destination"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030412.0531-E4" ROLE="Person"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030412.0531-T4" ROLE="Time-Within"/>
+		
+  
+		<event_mention ID="APW_ENG_20030412.0531-EV7-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="752" START="676">Later this month Indonesian President Megawati Sukarnoputri travels
+to Moscow</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="848" START="676">Later this month Indonesian President Megawati Sukarnoputri travels
+to Moscow to seek the Kremlin's help in modernizing her increasingly
+obsolete 300,000-member armed forces</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="742" START="736">travels</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030412.0531-E6-8" ROLE="Destination">
+				
+      
+				<extent>
+					
+        
+					<charseq END="752" START="747">Moscow</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030412.0531-E4-35" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="734" START="693">Indonesian President Megawati Sukarnoputri</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030412.0531-T4-1" ROLE="Time-Within">
+				
+      
+				<extent>
+					
+        
+					<charseq END="691" START="676">Later this month</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="APW_ENG_20030412.0531-EV8" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Meet" TENSE="Future" TYPE="Contact">
+		
+  
+		<event_argument REFID="APW_ENG_20030412.0531-E4" ROLE="Entity"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030412.0531-E20" ROLE="Entity"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030412.0531-T5" ROLE="Time-Within"/>
+		
+  
+		<event_mention ID="APW_ENG_20030412.0531-EV8-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="1610" START="1544">Megawati's meeting with Russian President Putin slated for April 21</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="1640" START="1483">Indonesia's Foreign Ministry spokesman Marty Natalegawa says
+Megawati's meeting with Russian President Putin slated for April 21
+will touch on the Iraq crisis</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="1561" START="1555">meeting</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030412.0531-E4-31" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1551" START="1544">Megawati</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030412.0531-E20-71" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1590" START="1568">Russian President Putin</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030412.0531-T5-1" ROLE="Time-Within">
+				
+      
+				<extent>
+					
+        
+					<charseq END="1610" START="1603">April 21</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="APW_ENG_20030412.0531-EV9" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Start-Position" TENSE="Past" TYPE="Personnel">
+		
+  
+		<event_argument REFID="APW_ENG_20030412.0531-E25" ROLE="Person"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030412.0531-E5" ROLE="Place"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030412.0531-T8" ROLE="Time-Within"/>
+		
+  
+		<event_mention ID="APW_ENG_20030412.0531-EV9-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="2653" START="2457">Indonesia relied on Soviet military assistance in the 1950s under
+Megawati's father and founding President Sukarno, but these were
+severed after the anti-communist Gen. Suharto seized power in 1965</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="2653" START="2457">Indonesia relied on Soviet military assistance in the 1950s under
+Megawati's father and founding President Sukarno, but these were
+severed after the anti-communist Gen. Suharto seized power in 1965</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="2639" START="2634">seized</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030412.0531-E25-77" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2623" START="2602">the anti-communist Gen</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030412.0531-E25-78" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2632" START="2602">the anti-communist Gen. Suharto</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030412.0531-E5-67" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2465" START="2457">Indonesia</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030412.0531-T8-1" ROLE="Time-Within">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2653" START="2650">1965</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="APW_ENG_20030412.0531-EV12" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Transfer-Ownership" TENSE="Past" TYPE="Transaction">
+		
+  
+		<event_argument REFID="APW_ENG_20030412.0531-E80" ROLE="Artifact"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030412.0531-E5" ROLE="Buyer"/>
+		
+  
+		<event_mention ID="APW_ENG_20030412.0531-EV12-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="4076" START="3886">Jakarta has recently purchased some Russian weapons, including 10,000
+Kalashnikov assault rifles, a squadron of naval Mil-2 helicopters and
+a dozen BTR-80A amphibious carriers for its marines</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="4076" START="3886">Jakarta has recently purchased some Russian weapons, including 10,000
+Kalashnikov assault rifles, a squadron of naval Mil-2 helicopters and
+a dozen BTR-80A amphibious carriers for its marines</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="3915" START="3907">purchased</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030412.0531-E80-127" ROLE="Artifact">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4076" START="3917">some Russian weapons, including 10,000
+Kalashnikov assault rifles, a squadron of naval Mil-2 helicopters and
+a dozen BTR-80A amphibious carriers for its marines</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030412.0531-E5-125" ROLE="Buyer">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3892" START="3886">Jakarta</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="APW_ENG_20030412.0531-EV13" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Transfer-Ownership" TENSE="Past" TYPE="Transaction">
+		
+  
+		<event_argument REFID="APW_ENG_20030412.0531-E88" ROLE="Artifact"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030412.0531-E5" ROLE="Buyer"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030412.0531-T12" ROLE="Time-At-Beginning"/>
+		
+  
+		<event_mention ID="APW_ENG_20030412.0531-EV13-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="4248" START="4091">Indonesia uses short-range Rapier missiles purchased 30
+years ago to protect its vital oil and natural gas fields in Sumatra,
+Borneo and Papua from air attack</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="4248" START="4080">Currently, Indonesia uses short-range Rapier missiles purchased 30
+years ago to protect its vital oil and natural gas fields in Sumatra,
+Borneo and Papua from air attack</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="4142" START="4134">purchased</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030412.0531-E88-154" ROLE="Artifact">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4248" START="4106">short-range Rapier missiles purchased 30
+years ago to protect its vital oil and natural gas fields in Sumatra,
+Borneo and Papua from air attack</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030412.0531-E5-135" ROLE="Buyer">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4099" START="4091">Indonesia</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030412.0531-T12-1" ROLE="Time-At-Beginning">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4155" START="4144">30
+years ago</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="APW_ENG_20030412.0531-EV14" MODALITY="Other" POLARITY="Positive" SUBTYPE="Attack" TENSE="Unspecified" TYPE="Conflict">
+		
+  
+		<event_argument REFID="APW_ENG_20030412.0531-E5" ROLE="Place"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030412.0531-E89" ROLE="Place"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030412.0531-E90" ROLE="Place"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030412.0531-E91" ROLE="Place"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030412.0531-E92" ROLE="Place"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030412.0531-E5" ROLE="Target"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030412.0531-E89" ROLE="Target"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030412.0531-E90" ROLE="Target"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030412.0531-E91" ROLE="Target"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030412.0531-E92" ROLE="Target"/>
+		
+  
+		<event_mention ID="APW_ENG_20030412.0531-EV14-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="4248" START="4091">Indonesia uses short-range Rapier missiles purchased 30
+years ago to protect its vital oil and natural gas fields in Sumatra,
+Borneo and Papua from air attack</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="4248" START="4080">Currently, Indonesia uses short-range Rapier missiles purchased 30
+years ago to protect its vital oil and natural gas fields in Sumatra,
+Borneo and Papua from air attack</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="4248" START="4243">attack</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030412.0531-E5-135" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4099" START="4091">Indonesia</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030412.0531-E89-137" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4232" START="4168">its vital oil and natural gas fields in Sumatra,
+Borneo and Papua</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030412.0531-E90-138" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4214" START="4208">Sumatra</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030412.0531-E91-139" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4222" START="4217">Borneo</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030412.0531-E92-141" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4232" START="4228">Papua</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030412.0531-E5-135" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4099" START="4091">Indonesia</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030412.0531-E89-137" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4232" START="4168">its vital oil and natural gas fields in Sumatra,
+Borneo and Papua</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030412.0531-E90-138" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4214" START="4208">Sumatra</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030412.0531-E91-139" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4222" START="4217">Borneo</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030412.0531-E92-141" ROLE="Target">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4232" START="4228">Papua</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="APW_ENG_20030412.0531-EV15" MODALITY="Other" POLARITY="Positive" SUBTYPE="Transfer-Ownership" TENSE="Unspecified" TYPE="Transaction">
+		
+  
+		<event_argument REFID="APW_ENG_20030412.0531-E98" ROLE="Beneficiary"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030412.0531-E103" ROLE="Artifact"/>
+		
+  
+		<event_argument REFID="APW_ENG_20030412.0531-E98" ROLE="Buyer"/>
+		
+  
+		<event_mention ID="APW_ENG_20030412.0531-EV15-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="4635" START="4495">The Air Force is reportedly considering purchasing several squadrons
+of Sukhoi Su-27 interceptors, considered the world's premier
+dogfighters</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="4635" START="4495">The Air Force is reportedly considering purchasing several squadrons
+of Sukhoi Su-27 interceptors, considered the world's premier
+dogfighters</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="4544" START="4535">purchasing</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030412.0531-E98-151" ROLE="Beneficiary">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4507" START="4495">The Air Force</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030412.0531-E103-157" ROLE="Artifact">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4635" START="4546">several squadrons
+of Sukhoi Su-27 interceptors, considered the world's premier
+dogfighters</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="APW_ENG_20030412.0531-E98-151" ROLE="Buyer">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4507" START="4495">The Air Force</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

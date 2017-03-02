@@ -1,0 +1,275 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Specific" ID="CNN_ENG_20030617_105836.4-EV1" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Phone-Write" TENSE="Present" TYPE="Contact">
+		
+  
+		<event_argument REFID="CNN_ENG_20030617_105836.4-E10" ROLE="Entity"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030617_105836.4-E13" ROLE="Entity"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030617_105836.4-T2" ROLE="Time-Holds"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030617_105836.4-EV1-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="163" START="71">now joining us by phone from liverpool with more on the harry
+potter heist is caroline forham</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="205" START="67">and now joining us by phone from liverpool with more on the harry
+potter heist is caroline forham, press officer with the mercy side
+police</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="93" START="89">phone</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030617_105836.4-E10-20" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="84" START="83">us</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030617_105836.4-E13-23" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="163" START="149">caroline forham</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030617_105836.4-T2-1" ROLE="Time-Holds">
+				
+      
+				<extent>
+					
+        
+					<charseq END="73" START="71">now</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_ENG_20030617_105836.4-EV2" MODALITY="Other" POLARITY="Positive" SUBTYPE="Charge-Indict" TENSE="Future" TYPE="Justice">
+		
+  
+		<event_argument REFID="CNN_ENG_20030617_105836.4-E20" ROLE="Defendant"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030617_105836.4-V1" ROLE="Crime"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030617_105836.4-EV2-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="480" START="424">selling these on the black market
+they will be prosecuted</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="480" START="382">as you
+mentioned, if anyone is seen to be selling these on the black market
+they will be prosecuted</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="480" START="471">prosecuted</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030617_105836.4-E20-35" ROLE="Defendant">
+				
+      
+				<extent>
+					
+        
+					<charseq END="461" START="458">they</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030617_105836.4-V1-1" ROLE="Crime">
+				
+      
+				<extent>
+					
+        
+					<charseq END="456" START="424">selling these on the black market</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_ENG_20030617_105836.4-EV3" MODALITY="Other" POLARITY="Positive" SUBTYPE="Charge-Indict" TENSE="Future" TYPE="Justice">
+		
+  
+		<event_argument REFID="CNN_ENG_20030617_105836.4-E6" ROLE="Defendant"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030617_105836.4-E5" ROLE="Prosecutor"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030617_105836.4-V2" ROLE="Crime"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030617_105836.4-EV3-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="906" START="808">we have police officers
+looking for them and will prosecute anyone seen selling them or buying
+them</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="906" START="808">we have police officers
+looking for them and will prosecute anyone seen selling them or buying
+them</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="866" START="858">prosecute</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030617_105836.4-E6-10" ROLE="Defendant">
+				
+      
+				<extent>
+					
+        
+					<charseq END="873" START="868">anyone</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030617_105836.4-E5-7" ROLE="Prosecutor">
+				
+      
+				<extent>
+					
+        
+					<charseq END="809" START="808">we</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030617_105836.4-V2-1" ROLE="Crime">
+				
+      
+				<extent>
+					
+        
+					<charseq END="906" START="880">selling them or buying
+them</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

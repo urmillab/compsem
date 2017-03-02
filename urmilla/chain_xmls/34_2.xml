@@ -1,0 +1,416 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Generic" ID="AFP_ENG_20030519.0372-EV2" MODALITY="Asserted" POLARITY="Negative" SUBTYPE="Elect" TENSE="Unspecified" TYPE="Personnel">
+		
+  
+		<event_argument REFID="AFP_ENG_20030519.0372-E15" ROLE="Person"/>
+		
+  
+		<event_mention ID="AFP_ENG_20030519.0372-EV2-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="3694" START="3666">You won't be directly elected</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="3764" START="3666">You won't be directly elected, you won't have any
+direct experience of government,&quot; the source said</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="3694" START="3688">elected</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="AFP_ENG_20030519.0372-E15-122" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3668" START="3666">You</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="AFP_ENG_20030519.0372-EV2-2">
+			
+    
+			<extent>
+				
+      
+				<charseq END="3858" START="3831">you
+are not directly elected</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="3939" START="3770">Of course you will have input into the government but, since you
+are not directly elected, it would be a nonsense for you to have
+direct executive power,' the source said</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="3858" START="3852">elected</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="AFP_ENG_20030519.0372-E15-125" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3833" START="3831">you</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="AFP_ENG_20030519.0372-EV6" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Meet" TENSE="Past" TYPE="Contact">
+		
+  
+		<event_argument REFID="AFP_ENG_20030519.0372-E15" ROLE="Entity"/>
+		
+  
+		<event_argument REFID="AFP_ENG_20030519.0372-E30" ROLE="Entity"/>
+		
+  
+		<event_argument REFID="AFP_ENG_20030519.0372-T31" ROLE="Time-Within"/>
+		
+  
+		<event_mention ID="AFP_ENG_20030519.0372-EV6-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="3426" START="3397">that met with Bremer last week</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="3579" START="3369">Officials from Iraqi groups that met with Bremer last week have said
+that he back peddled on what they said were earlier pledges to give
+them a lead role in forming a new interim government in the next few
+weeks</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="3404" START="3402">met</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="AFP_ENG_20030519.0372-E15-102" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3400" START="3397">that</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="AFP_ENG_20030519.0372-E30-12" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3416" START="3411">Bremer</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="AFP_ENG_20030519.0372-T31-1" ROLE="Time-Within">
+				
+      
+				<extent>
+					
+        
+					<charseq END="3426" START="3418">last week</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Generic" ID="AFP_ENG_20030519.0372-EV7" MODALITY="Other" POLARITY="Positive" SUBTYPE="Elect" TENSE="Future" TYPE="Personnel">
+		
+  
+		<event_argument REFID="AFP_ENG_20030519.0372-E68" ROLE="Entity"/>
+		
+  
+		<event_argument REFID="AFP_ENG_20030519.0372-E5" ROLE="Place"/>
+		
+  
+		<event_mention ID="AFP_ENG_20030519.0372-EV7-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="4155" START="4139">elections in Iraq</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="4155" START="4044">The comments came on the same day that a prominent Iraqi called for
+internationally-supervised elections in Iraq</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="4147" START="4139">elections</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="AFP_ENG_20030519.0372-E5-61" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4155" START="4152">Iraq</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="AFP_ENG_20030519.0372-EV7-2">
+			
+    
+			<extent>
+				
+      
+				<charseq END="4306" START="4298">elections</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="4353" START="4159">Adnan Pachachi, a onetime foreign minister who returned to Iraq on
+May 6 after 33 years in exile, told the independent Az-Zaman daily
+that elections should be held under international supervision</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="4306" START="4298">elections</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="AFP_ENG_20030519.0372-EV7-3">
+			
+    
+			<extent>
+				
+      
+				<charseq END="4516" START="4447">elections to a constituent assembly, that
+would draw up a constitution</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="4531" START="4357">An interim government should create an election code and laws to
+clear the way for direct elections to a constituent assembly, that
+would draw up a constitution, Pachachi said</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="4455" START="4447">elections</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="AFP_ENG_20030519.0372-E68-138" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4516" START="4460">a constituent assembly, that
+would draw up a constitution</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="AFP_ENG_20030519.0372-EV9" MODALITY="Other" POLARITY="Positive" SUBTYPE="Elect" TENSE="Future" TYPE="Personnel">
+		
+  
+		<event_argument REFID="AFP_ENG_20030519.0372-E64" ROLE="Entity"/>
+		
+  
+		<event_mention ID="AFP_ENG_20030519.0372-EV9-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="4611" START="4582">elections for a new
+government</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="4652" START="4535">A referendum on the constitution would lead to elections for a new
+government, the 80-year-old Pachachi told the daily</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="4590" START="4582">elections</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="AFP_ENG_20030519.0372-E64-141" ROLE="Entity">
+				
+      
+				<extent>
+					
+        
+					<charseq END="4611" START="4596">a new
+government</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>

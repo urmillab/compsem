@@ -1,0 +1,176 @@
+<?xml version="1.0" ?>
+<root>
+	<event GENERICITY="Specific" ID="CNN_ENG_20030508_170552.18-EV1" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Transport" TENSE="Unspecified" TYPE="Movement">
+		
+  
+		<event_argument REFID="CNN_ENG_20030508_170552.18-E47" ROLE="Person"/>
+		
+  
+		<event_argument REFID="CNN_ENG_20030508_170552.18-E49" ROLE="Destination"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030508_170552.18-EV1-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="386" START="344">your journey, particularly to southern iraq</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="476" START="344">your journey, particularly to southern iraq, what is evoked
+there a sense of both that you evoke is a sense of history
+of this regime</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="355" START="349">journey</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030508_170552.18-E47-119" ROLE="Person">
+				
+      
+				<extent>
+					
+        
+					<charseq END="347" START="344">your</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030508_170552.18-E49-120" ROLE="Destination">
+				
+      
+				<extent>
+					
+        
+					<charseq END="386" START="374">southern iraq</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+	<event GENERICITY="Specific" ID="CNN_ENG_20030508_170552.18-EV10" MODALITY="Asserted" POLARITY="Positive" SUBTYPE="Meet" TENSE="Past" TYPE="Contact">
+		
+  
+		<event_argument REFID="CNN_ENG_20030508_170552.18-E15" ROLE="Place"/>
+		
+  
+		<event_mention ID="CNN_ENG_20030508_170552.18-EV10-1">
+			
+    
+			<extent>
+				
+      
+				<charseq END="2226" START="2121">the little town i was in this
+southern iraq, as far as i got, i can't boast of further,
+is where the talks</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="2237" START="2121">the little town i was in this
+southern iraq, as far as i got, i can't boast of further,
+is where the talks took place</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="2226" START="2222">talks</charseq>
+				
+    
+			</anchor>
+			
+    
+			<event_mention_argument REFID="CNN_ENG_20030508_170552.18-E15-42" ROLE="Place">
+				
+      
+				<extent>
+					
+        
+					<charseq END="2163" START="2121">the little town i was in this
+southern iraq</charseq>
+					
+      
+				</extent>
+				
+    
+			</event_mention_argument>
+			
+  
+		</event_mention>
+		
+  
+		<event_mention ID="CNN_ENG_20030508_170552.18-EV10-2">
+			
+    
+			<extent>
+				
+      
+				<charseq END="2276" START="2270">meeting</charseq>
+				
+    
+			</extent>
+			
+    
+			<ldc_scope>
+				
+      
+				<charseq END="2276" START="2240">we have the transcript of
+the meeting</charseq>
+				
+    
+			</ldc_scope>
+			
+    
+			<anchor>
+				
+      
+				<charseq END="2276" START="2270">meeting</charseq>
+				
+    
+			</anchor>
+			
+  
+		</event_mention>
+		
+
+	</event>
+	
+
+</root>
