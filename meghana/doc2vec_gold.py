@@ -1,7 +1,7 @@
 import os
 import numpy
 import random
-import scipy.spatial
+# import scipy.spatial
 import xml.etree.ElementTree as ET
 
 from gensim import models
@@ -171,11 +171,19 @@ def score_random():
 	print("Random recall: " + str(recall_score/len(files)))
 
 def load_gold_standard_doc_list(): 
+	raw_gs_files = open(PATH_TO_GS_DOC_LIST, 'r')
+	gold_standard_files = raw_gs_files.splitlines()
+	for file in gold_standard_files: 
+		print file 
+		print ("file")
 
 
 
 load_gold_standard_doc_list()
-score_doc2vec_model(False)
+
+#score_doc2vec_model(False)
+
+
 # score_random()
 
 	
