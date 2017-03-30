@@ -7,15 +7,18 @@ import xml.etree.ElementTree as ET
 from gensim import models
 from bs4 import BeautifulSoup
 from string import punctuation
-from constants import EVENT_TYPES
+from constants import EVENT_TYPES_TO_SUBTYPES 
+#"""EVENT_TYPES"""
 
 # PATH_TO_APNEWS_MODEL = ('../resources/doc2vec.bin')
 PATH_TO_DATA = os.path.join(os.getcwd(), "../resources/ace2005/ace2005/data/English_adj")
-PATH_TO_GS_DOC_LIST = os.path.join(os.getcwd, "../resources/annotated_file_paths.txt")
+PATH_TO_GS_DOC_LIST = "../resources/annotated_file_paths.txt"
+
 MIN_EVENT_TYPES = 2
 TOP_K = 10
 
 gold_standard_doc_list = [] 
+doc_list_temp = []
 
 def create_documents(standard):
 	docs = []
@@ -64,6 +67,8 @@ def load_gold_standard_doc_event_info():
 	for dirpath, dirnames, filenames in os.walk(PATH_TO_DATA):
 		for basename in filenames:
 			if basename.endswith(".apf.xml"):
+				print(basename)
+				
 				counts = numpy.array(numpy.zeros(len(EVENT_TYPES)))
 				counts, all_events = count_events(os.path.join(dirpath, basename), counts)
 				
@@ -172,16 +177,24 @@ def score_random():
 
 def load_gold_standard_doc_list(): 
 	raw_gs_files = open(PATH_TO_GS_DOC_LIST, 'r')
-	gold_standard_files = raw_gs_files.splitlines()
+	raw_text = raw_gs_files.read()
+	raw_gs_files.close()
+	gold_standard_files = raw_text.splitlines()
 	for file in gold_standard_files: 
-		print file 
-		print ("file")
+		part_path = file.split("../resources/", 1)[1]
+		gold_standard_doc_list.append("../resources/" + part_path)
+	for file in gold_standard_doc_list:
+		print file
 
-
+	temp = open("temp_text.txt", 'r')
+	temp_raw = temp.read()
+	temp.close()
+	temp_split = temp_raw.splitlines()
+	for temp in temp_split: 
+		doc_list_temp.add(temp)
 
 load_gold_standard_doc_list()
-
-#score_doc2vec_model(False)
+score_doc2vec_model(False)
 
 
 # score_random()
