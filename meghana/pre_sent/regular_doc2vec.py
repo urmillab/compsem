@@ -93,6 +93,7 @@ def load_gold_standard():
 	return standard
 
 def generate_model(docs):
+	print("building")
 	model = models.Doc2Vec(alpha=.025, min_alpha=.025, min_count=1, dm=0)
 	model.build_vocab(docs)
 
