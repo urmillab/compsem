@@ -12,7 +12,7 @@ from constants import EVENT_TYPES, GS_DOC_TO_MATRIX_INDEX
 
 # PATH_TO_APNEWS_MODEL = ('../resources/doc2vec.bin')
 PATH_TO_DATA = os.path.join(os.getcwd(), "../resources/ace2005/ace2005/data/English_adj")
-PATH_TO_GS_DOC_LIST = "../resources/annotated_file_paths.txt"
+PATH_TO_GC_DOC_LIST = "../resources/annotated_file_paths.txt"
 
 MIN_EVENT_TYPES = 2
 TOP_K = 10
@@ -191,23 +191,22 @@ def score_random():
 	print("Random precision: " + str(precision_score/len(files)))
 	print("Random recall: " + str(recall_score/len(files)))
 
-def load_gs_doc_list(): 
-	"""file i/o"""
-	doc_list_file = open(PATH_TO_GS_DOC_LIST, 'r')
+def load_gc_doc_list(): 
+	# gets files paths of all files in gold corpus
+	# removes paths to keeps just files names 
+	# has the .sgm extension 
+	# 55 files total - some will be removed 
+	doc_list_file = open(PATH_TO_GC_DOC_LIST, 'r')
 	doc_list_text = doc_list_file.read()
 	doc_list_file.close()
 
 	paths = doc_list_text.splitlines()
 	for path in paths: 
 		name = path.rsplit('/', 1)[-1]
-		# part_path = path.split("../resources/", 1)[1]
-		# gs_names.append("../resources/" + part_path)
 		gs_names.append(name)
-	# for name in gs_names:
-	# 	print name
 
-load_gs_doc_list()
-score_doc2vec_model(False)
+load_gc_doc_list()
+# score_doc2vec_model(False)
 
 
 # score_random()
