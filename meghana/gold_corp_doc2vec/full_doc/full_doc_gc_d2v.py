@@ -10,91 +10,86 @@ import re
 from gensim import models
 from bs4 import BeautifulSoup
 from string import punctuation
-from constants import EVENT_TYPES
-from constants import GC_FILE_LIST
-from real_name_to_gc_name_dict import REAL_TO_GC_NAMES_DICT
-from real_name_to_gc_name_dict import GC_NAMES_TO_REAL
+from constants import EVENT_TYPES, GC_FILE_LIST
+from real_name_to_gc_name_dict import REAL_TO_GC_NAMES_DICT, GC_NAMES_TO_REAL
+from top_ten_gc import TOP_TEN
 
-PATH_TO_APNEWS_MODEL = ('../../resources/doc2vec.bin')
-PATH_TO_DATA = os.path.join(os.getcwd(), "../../resources/ace2005/ace2005/data/English_adj")
+
+PATH_TO_APNEWS_MODEL = ('../../../resources/doc2vec.bin')
+PATH_TO_XMLS = os.path.join(os.getcwd(), "../../../urmilla/chain_xmls")
+PATH_TO_SGMS = os.path.join(os.getcwd(), "../../../resources/ace2005/ace2005/data/English_adj")
 MIN_EVENT_TYPES = 2
 TOP_K = 10
-
-boolean_gc_file_list = GC_FILE_LIST
+counter = 0 
 
 def create_documents(standard):
 	docs = []
 	files = []
-	for dirpath, dirnames, filenames in os.walk(PATH_TO_DATA):
+	for dirpath, dirnames, filenames in os.walk(PATH_TO_SGMS):
 		for basename in filenames:
 			if basename.endswith(".sgm"):
+	
 				name = os.path.splitext(basename)[0]
 
 				if not name in REAL_TO_GC_NAMES_DICT:
 					continue
-
-
-
-				f = open(os.path.join(dirpath, basename))
-				soup = BeautifulSoup(f.read(), 'html.parser')
-				f.close()
-
-				# print ("BODY ******************************")
-				# print(soup.find('body'))
-				# print ("END ******************************")
-
-				text = soup.find('body').text.lower().split()
-				# sentences = split_into_sentences(text)
-
 				
-				# sentences = nltk.sent_tokenize(text)
+				list_xmls = REAL_TO_GC_NAMES_DICT[name]
+				for xml in list_xmls:
 
-				# print ("SENT ******************************")
-				# print(sentences)
-				# print ("END ******************************")
-				
-				for i, w in enumerate(text):
-					text[i] = ''.join(c for c in w if c not in punctuation)   
+					# file_path = ("../../../urmilla/chain_xmls/" + xml)
+					
+					# print(os.path.join(dirpath, basename))
+					f = open(os.path.join(dirpath, basename))
+					soup = BeautifulSoup(f.read(), 'html.parser')
+					f.close()
 
-				# print ("TEXT ******************************")
-				# print(text)
-				# print ("END ******************************")
-				docs.append(models.doc2vec.LabeledSentence(text, tags=[name]))
-				files.append(name)
+					text = soup.find('body').text.lower().split()
+
+					for i, w in enumerate(text):
+						text[i] = ''.join(c for c in w if c not in punctuation)  
+
+					new_name = xml[:-4]
+					docs.append(models.doc2vec.LabeledSentence(text, tags=[new_name]))
+					files.append(new_name)
 
 	return docs, files
 
 def count_events(filename, counts):
-    tree = ET.parse(filename) # root: source_file
-    root = tree.getroot() # child of root: document
-    document_el = root[0]
-    print (filename)
-    #children of "document" include those with tag "event"
-    all_events = []
-    for anno in document_el: 
-        if anno.tag == "event":
-        	print("event found")
-        	e_type = anno.attrib.get("TYPE")
-        	counts[EVENT_TYPES[e_type.lower()]] += 1
-        	all_events.append(e_type.lower())
-    return counts, all_events
+	# print(filename)
+	tree = ET.parse(filename) # root: source_file
+
+	root = tree.getroot() # child of root: document
+	# ET.dump(root)
+	# print(root)
+	document_el = root[0]
+
+	all_events = []
+	for anno in root: 
+		# print ("anno found")
+		if anno.tag == "event":
+			# print("found event")
+			e_type = anno.attrib.get("TYPE")
+			counts[EVENT_TYPES[e_type.lower()]] += 1
+			all_events.append(e_type.lower())
+	return counts, all_events
 
 
-def load_gold_standard():
+def load_wanted_files():
 	""" Load dict of all documents and events contained in that document. """
 	standard = {}
-
-	for dirpath, dirnames, filenames in os.walk(PATH_TO_DATA):
+	for dirpath, dirnames, filenames in os.walk(PATH_TO_XMLS):
 		for basename in filenames:
-			if basename.endswith(".apf.xml"):
+			if basename.endswith(".xml"):
 				counts = numpy.array(numpy.zeros(len(EVENT_TYPES)))
 				counts, all_events = count_events(os.path.join(dirpath, basename), counts)
-				
+			
 				""" Excluse all documents with less than 2 event types """
 				if numpy.sum(counts) < MIN_EVENT_TYPES:
 					continue
 
-				name = os.path.splitext(os.path.splitext(basename)[0])[0]
+				name = os.path.splitext(basename)[0]
+				# name = os.path.splitext(os.path.splitext(basename)[0])[0]
 				standard[name] = (counts, all_events)
 
 	print("Loaded documents: " + str(len(standard)))
@@ -113,22 +108,16 @@ def generate_model(docs):
 	model.save('doc2vec.model')
 
 
-def precision_score_candidate_match(standard, selected_types, candidate_docs):
+def precision_score_candidate_match(f, candidate_docs):
 	""" Choose MIN_EVENT_TYPES random events to query. """
 	score = 0
+	target = f + ".xml"
 	for cdoc in candidate_docs:
-		counts, all_events = standard[cdoc]
-
-		event_match = True
-		for event_type in selected_types:
-			if counts[EVENT_TYPES[event_type]] == 0:
-				event_match = False
-
-		if event_match:
-			score += 1
-
-	assert(score <= TOP_K), str(score)
-	return score
+		cdoc = cdoc + ".xml"
+		if cdoc in TOP_TEN[target]: 
+			score += 1 
+	# print (score/10)
+	return (score/10.0) 
 
 def recall_score_candidate_match(standard, selected_types, candidate_docs):
 	relevant_docs = []
@@ -148,9 +137,9 @@ def recall_score_candidate_match(standard, selected_types, candidate_docs):
 
 
 
-def score_doc2vec_model(override=False):
+def score_doc2vec_model(override=True):
 	""" Use doc2vec to analyze document similarity. """
-	standard = load_gold_standard()
+	standard = load_wanted_files()
 	docs, files = create_documents(standard)
 
 	if override or not os.path.isfile('doc2vec.model'):
@@ -158,23 +147,17 @@ def score_doc2vec_model(override=False):
 
 	model = models.Doc2Vec.load('doc2vec.model')
 	
-	precision_score = 0.0
-	recall_score = 0.0
+	sum_precision_score = 0.0
 	for f in files:
-		counts, all_events = standard[f]
-		random.shuffle(all_events)
-		selected_types = all_events[:MIN_EVENT_TYPES]
-
 		candidate_docs = [c for c, _ in model.docvecs.most_similar([f], topn=TOP_K)]
-		
-		precision_score += precision_score_candidate_match(standard, selected_types, candidate_docs)
-		recall_score += recall_score_candidate_match(standard, selected_types, candidate_docs)
+		sum_precision_score += precision_score_candidate_match(f, candidate_docs)
 
-	print("Doc2Vec precision: " + str(precision_score/len(files)))
-	print("Doc2Vec recall: " + str(recall_score/len(files)))
+	print (sum_precision_score)
+	avg_precision_score_in_percent = ((sum_precision_score/(len(files)))*100)
+	print("Doc2Vec precision in %: " + str(avg_precision_score_in_percent))
 
 def score_random():
-	standard = load_gold_standard()
+	standard = load_wanted_files()
 	docs, files = create_documents(standard)
 	
 	precision_score = 0.0
@@ -196,7 +179,7 @@ def score_random():
 
 
 
-score_doc2vec_model(False)
-score_random()
+score_doc2vec_model(True)
+# score_random()
 
 	

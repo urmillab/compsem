@@ -65,7 +65,7 @@ def count_events(filename, counts):
     return counts, all_events
 
 
-def load_gs_event_info():
+def load_gc_event_info():
 	""" Load dict of all documents and events contained in that document. """
 	standard = {}
 
@@ -146,7 +146,7 @@ def recall_score_candidate_match(standard, selected_types, candidate_docs):
 
 def score_doc2vec_model(override=False):
 	""" Use doc2vec to analyze document similarity. """
-	standard = load_gs_event_info()
+	standard = load_gc_event_info()
 	docs, files = create_documents(standard)
 
 	""" if doc2vec.modle is a file"""
@@ -171,7 +171,7 @@ def score_doc2vec_model(override=False):
 	print("Doc2Vec recall: " + str(recall_score/len(files)))
 
 def score_random():
-	standard = load_gs_event_info()
+	standard = load_gc_event_info()
 	docs, files = create_documents(standard)
 	
 	precision_score = 0.0
@@ -206,7 +206,7 @@ def load_gc_doc_list():
 		gs_names.append(name)
 
 load_gc_doc_list()
-# score_doc2vec_model(False)
+score_doc2vec_model(False)
 
 
 # score_random()

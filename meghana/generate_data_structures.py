@@ -1,6 +1,16 @@
 from constants import CHAINS
 from constants import INDEX_TO_CHAIN
 from list_manual_ratings import LIST_MANUAL_RATINGS
+from real_name_to_gc_name_dict import REAL_TO_GC_NAMES_DICT
+
+import os
+import xml.etree.ElementTree as ET
+
+
+from bs4 import BeautifulSoup
+
+PATH_TO_DATA = os.path.join(os.getcwd(), "../resources/ace2005/ace2005/data/English_adj")
+
 
 def generate_index_to_chains_dict():
 	index_to_chains_dict = {}
@@ -137,18 +147,44 @@ def generate_top_ten():
 		# print ("\n")
 	afile.close()
 
-generate_top_ten()
+def generate_real_name_to_gc_name_dict(text_snippet):
+	for dirpath, dirnames, filenames in os.walk(PATH_TO_DATA):
+		for basename in filenames:
+			if basename.endswith(".sgm"):
 
-		
+				name = os.path.splitext(basename)[0]
+
+				f = open(os.path.join(dirpath, basename))
+				soup = BeautifulSoup(f.read(), 'html.parser')
+				f.close()
+
+				text = soup.find('body').text
+
+				if text_snippet in text:
+					print (name)
+
+def gc_to_real():
+	gc_to_real = {}
+
+	for key in REAL_TO_GC_NAMES_DICT: 
+		list_gc_names = REAL_TO_GC_NAMES_DICT[key]
+
+		for file_name in list_gc_names:
+			gc_to_real[file_name] = key
+
+	for x in range (0, 74):
+	# for xml_file in gc_to_real:
+		xml_file = INDEX_TO_CHAIN[x]
+		print ("\"" + xml_file + "\": \"" + gc_to_real[xml_file] + "\",")
 
 
-
-
-
-
-
-
-
-
+#generate_top_ten()
 #generate_index_to_chains_dict()
-generate_dictionary_of_manual_ratings()
+#generate_dictionary_of_manual_ratings()
+
+# t_s = "as we told you at the top of this newscast, an oklahoma judge has"
+# generate_real_name_to_gc_name_dict(t_s)
+
+gc_to_real()
+
+
