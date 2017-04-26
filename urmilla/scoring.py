@@ -26,19 +26,16 @@ def _get_ranking_matrix():
 	numpy.save('rankings.npy', ranking_matrix)
 
 
-def score_correlation(candidate_matrix):
-	ranking_matrix = numpy.load('rankings.npy')
+def score_correlation(score_matrix):
+	ratings_matrix = numpy.load('ratings_complete.npy')
 
-	if len(ranking_matrix) != len(candidate_matrix) or len(ranking_matrix[0]) != len(candidate_matrix[0]):
+	if len(ratings_matrix) != len(score_matrix) or len(ratings_matrix[0]) != len(score_matrix[0]):
 		print("ERROR: Different shaped matrices")
 		return
 
-	average_spearman = 0.0
-	for ridx in range(len(ranking_matrix)):
-		spearman, p = spearmanr(ranking_matrix[ridx], candidate_matrix[ridx])
-		average_spearman += spearman
-
-	return average_spearman/len(ranking_matrix)
+	num_groups = len(ratings_matrix)
+	ratings_vector = ratings_matrix.reshape(num_groups**2)
+	score_vector = score_matrix.reshape(num_groups**2)
 	
-
-_get_ranking_matrix()
+	spearman, p = spearmanr(ratings_vector, score_vector)
+	return spearman, p
