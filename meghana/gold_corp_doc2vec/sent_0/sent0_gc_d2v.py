@@ -178,21 +178,21 @@ def precision_score_candidate_match(f, candidate_docs):
 	# sprint score
 	return (score/10.0) 
 
-def recall_score_candidate_match(standard, selected_types, candidate_docs):
-	relevant_docs = []
-	for doc in standard:
-		counts, all_events = standard[doc]
+# def recall_score_candidate_match(standard, selected_types, candidate_docs):
+# 	relevant_docs = []
+# 	for doc in standard:
+# 		counts, all_events = standard[doc]
 
-		event_match = True
-		for event_type in selected_types:
-			if counts[EVENT_TYPES[event_type]] == 0:
-				event_match = False
+# 		event_match = True
+# 		for event_type in selected_types:
+# 			if counts[EVENT_TYPES[event_type]] == 0:
+# 				event_match = False
 
-		if event_match:
-			relevant_docs.append(doc)
+# 		if event_match:
+# 			relevant_docs.append(doc)
 
-	candidate_relevant_docs = len([c for c in candidate_docs if c in relevant_docs])
-	return candidate_relevant_docs/float(len(relevant_docs))
+# 	candidate_relevant_docs = len([c for c in candidate_docs if c in relevant_docs])
+# 	return candidate_relevant_docs/float(len(relevant_docs))
 
 
 
@@ -214,26 +214,26 @@ def score_doc2vec_model(override=True):
 	avg_precision_score_in_percent = ((sum_precision_score/(len(files)))*100.0)
 	print("Doc2Vec precision in %: " + str(avg_precision_score_in_percent))
 
-def score_random():
-	standard = load_wanted_files()
-	docs, files = create_documents(standard)
+# def score_random():
+# 	standard = load_wanted_files()
+# 	docs, files = create_documents(standard)
 	
-	precision_score = 0.0
-	recall_score = 0.0
-	for i, f in enumerate(files):
-		counts, all_events = standard[f]
+# 	precision_score = 0.0
+# 	recall_score = 0.0
+# 	for i, f in enumerate(files):
+# 		counts, all_events = standard[f]
 		
-		random.shuffle(all_events)
-		selected_types = all_events[:MIN_EVENT_TYPES]
+# 		random.shuffle(all_events)
+# 		selected_types = all_events[:MIN_EVENT_TYPES]
 
-		idxs = random.sample([x for x in range(len(files)) if x != i], TOP_K)
-		candidate_docs = [files[i] for i in idxs]
+# 		idxs = random.sample([x for x in range(len(files)) if x != i], TOP_K)
+# 		candidate_docs = [files[i] for i in idxs]
 
-		precision_score += precision_score_candidate_match(standard, selected_types, candidate_docs)
-		recall_score += recall_score_candidate_match(standard, selected_types, candidate_docs)
+# 		precision_score += precision_score_candidate_match(standard, selected_types, candidate_docs)
+# 		recall_score += recall_score_candidate_match(standard, selected_types, candidate_docs)
 
-	print("Random precision: " + str(precision_score/len(files)))
-	print("Random recall: " + str(recall_score/len(files)))
+# 	print("Random precision: " + str(precision_score/len(files)))
+# 	print("Random recall: " + str(recall_score/len(files)))
 
 
 

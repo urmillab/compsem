@@ -97,7 +97,7 @@ def load_wanted_files():
 
 def generate_model(docs):
 	print("building")
-	model = models.Doc2Vec(alpha=.025, min_alpha=.025, min_count=1, dm=0)
+	model = models.Doc2Vec(alpha=.025, min_alpha=.025, min_count= 10, dm=0)
 	model.build_vocab(docs)
 
 	for epoch in range(10):
@@ -149,7 +149,7 @@ def score_doc2vec_model(override=True):
 	
 	sum_precision_score = 0.0
 	for f in files:
-		candidate_docs = [c for c, _ in model.docvecs.most_similar([f], topn=TOP_K)]
+		candidate_docs = [c for c, _ in model.docvecs.most_similar(positive = [f], topn=TOP_K)]
 		sum_precision_score += precision_score_candidate_match(f, candidate_docs)
 
 	print (sum_precision_score)
